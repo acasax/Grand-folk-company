@@ -15,7 +15,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="topbar-right">
                         <div class="quote-button">
-                            <a href="reservate.php" class="quote-btn">Book Now</a>
+                            <a href="reservate.php" class="quote-btn">Rezerviši</a>
                         </div>
                         <ul>
                             <li><a href="#"><i class="fa fa-skype"></i></a></li>
@@ -50,15 +50,15 @@
                         <div class="collapse navbar-collapse" id="navbar-example">
                             <div class="main-menu">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li><a class="pagess" href="index.php">Home</a>
+                                    <li><a class="pagess" href="index.php">Početna</a>
                                     </li>
-                                    <li><a class="pagess" href="about.php">About us</a>
+                                    <li><a class="pagess" href="about.php">O nama</a>
                                     </li>
-                                    <li><a class="pagess" href="services.php">Services</a>
+                                    <li><a class="pagess" href="services.php">Usluge</a>
                                     </li>
-                                    <li><a class="pagess" href="blog-grid-1.php">Additional content</a>
+                                    <li><a class="pagess" href="blog-grid-1.php">Dodatni sadržaj</a>
                                     </li>
-                                    <li><a href="contact.php">contacts</a></li>
+                                    <li><a href="contact.php">Kontakt</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,19 +80,19 @@
                         </div>
                         <nav id="dropdown">
                             <ul>
-                                <li><a class="pagess" href="index.php">Home</a>
+                                <li><a class="pagess" href="index.php">Početna</a>
                                 </li>
-                                <li><a class="pagess" href="about.php">About us</a>
+                                <li><a class="pagess" href="about.php">O nama</a>
                                 </li>
-                                <li><a class="pagess" href="#">Services</a>
+                                <li><a class="pagess" href="#">Usluge</a>
                                     <ul class="sub-menu">
                                         <li><a href="single-service.php">Single service</a></li>
                                         <li><a href="single-service.php">Single service</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="pagess" href="blog-grid-1.php">Additional content</a>
+                                <li><a class="pagess" href="blog-grid-1.php">Dodatni sadržaj</a>
                                 </li>
-                                <li><a href="contact.php">contacts</a></li>
+                                <li><a href="contact.php">Kontakt</a></li>
                             </ul>
                         </nav>
                     </div>
