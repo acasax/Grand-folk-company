@@ -8,7 +8,7 @@
                             <div class="footer-logo">
                                 <a href="#"><h1 style="color: white;">Company logo</h1></a>
                             </div>
-                            <p>We help agencies to define their new business objectives and then create the road map to get them there by devising a business.We help agencies to define their new business.</p>
+                            <p>Naš cilj je da se vi kao kupac uvek osećate potpuno zadovoljni nakon što smo bili s vama. Kao deo ovoga, imamo garanciju zadovoljstva kupaca za izvršene zadatke.</p>
 
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +013 654 432</p>

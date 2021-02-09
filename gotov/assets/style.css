@@ -752,7 +752,7 @@ h6 {
   }
 }
 .slider-area .nivo-directionNav a.nivo-prevNav:hover {
-  background-color: #14287b;
+  background-color: #2de232;
 }
 .slider-area .nivo-directionNav a.nivo-prevNav:hover:before {
   color: #ffffff !important;
@@ -807,7 +807,7 @@ h6 {
   }
 }
 .slider-area .nivo-directionNav a.nivo-nextNav:hover {
-  background-color: #14287b;
+  background-color: #2de232;
 }
 .slider-area .nivo-directionNav a.nivo-nextNav:hover:before {
   color: #ffffff !important;
@@ -828,9 +828,8 @@ h6 {
 .slider-area .slide-3 h1.slider-big-text {
   font-size: 48px;
   font-weight: 700;
-  color: #14287b;
+  color: #2de232;
   margin-bottom: 18px;
-
   line-height: 48px;
   width: 100%;
   font-family: 'Poppins', sans-serif;
@@ -1024,7 +1023,7 @@ h6 {
   content: "";
   height: 100%;
   width: 0;
-  background-color: #14287b;
+  background-color: #2de232;
   border-radius: 4px;
   position: absolute;
   top: 0;

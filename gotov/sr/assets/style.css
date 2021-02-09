@@ -807,7 +807,8 @@ h6 {
   }
 }
 .slider-area .nivo-directionNav a.nivo-nextNav:hover {
-  background-color: #14287b;
+  background-color: #2de232;
+};
 }
 .slider-area .nivo-directionNav a.nivo-nextNav:hover:before {
   color: #ffffff !important;
@@ -2206,7 +2207,7 @@ ul {
 }
 .heading-layout1 h2 {
   font-weight: 700;
-  color: #14287b;
+  color: #2de232;
   margin-bottom: 12px;
 }
 .heading-layout1 p {
@@ -4889,10 +4890,11 @@ ul {
   left: 0;
   right: 0;
   transform: translateY(-50%);
-  color: #3084f9;
+  color: #ff8201;
   font-size: 48px;
 }
 .process-box-layout1 .item-content .item-title {
+  color: #2de232;
   font-weight: 700;
   margin-bottom: 10px;
 }
@@ -7402,7 +7404,7 @@ ul {
   padding: 17rem 0 9rem;
 }
 .section-padding-lg-2 {
-  padding: 17rem 0 8.2rem;
+  padding: 10rem 0 8.2rem;
 }
 .section-padding-lg-3 {
   padding: 15.8rem 0 7rem;

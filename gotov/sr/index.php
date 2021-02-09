@@ -106,7 +106,7 @@ include "php_vendor/navbar.php";
                     <div class="container">
                         <div class="slider-sub-text ">Sertifikovana kompanija</div>
                         <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        <div class="slider-paragraph">Vasa sreca je i nasa , zato smo tu za vas!</div>
                         <div class="slider-btn-area">
                             <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
                                 <i class="fas fa-angle-right"></i>
@@ -125,23 +125,25 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
-                    <h4> <span class="color">Clean Home </span> - Bringing Excellence in Residential & Commercial cleaning services</h4>
-                    <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using. the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate
-                        dummy text using.</p>
+                    <h4> <span class="color">Glada folk company</span> - pružamo izvrsnu uslugu čišćenja prostora</h4>
+                    <p>Mi smo kompanija za ciscenje  koja u svom timu ima osoblje sa dugogodisnjim iskustvom u radu. Glada folk company je
+                        porodicna firma koja je otvorena u nameni da i nasa deca nastave sa poslovanjem kada odrastu. Sam naziv firme ”Glada folk” ima u cilju da VAS,
+                        nase korisnike ucinimo nasmejane i srecne po povratku u vas dom ili kompaniju.
+                    </p>
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
                                 <a href="#"><i class="icon icon-gift"></i></a>
-                                <h5>Certified company</h5>
+                                <h5>Misija</h5>
                             </div>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread</p>
+                            <p>Čisto i uredno je naša misija. To je garancija.</p>
                         </div>
                         <div class="single-about">
                             <div class="icon-title">
                                 <a href="#"><i class="icon icon-thumbs-up"></i></a>
-                                <h5>Our experience</h5>
+                                <h5>Vizija</h5>
                             </div>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread</p>
+                            <p>Minimalna cena. Mnoge ponude i brze usluge.</p>
                         </div>
                     </div>
                 </div>
@@ -163,8 +165,7 @@ include "php_vendor/navbar.php";
 <section class="section-padding-lg-2">
     <div class="container">
         <div class="heading-layout1">
-            <h2>How It Works</h2>
-            <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium dol oremque laudantium, totam remeaque ipsa</p>
+            <h2>Kako mi radimo</h2>
         </div>
         <div class="row">
             <div class="col-lg-4 single-process">
@@ -176,8 +177,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Book Online</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Zakaži online</h3>
+                        <p>Rezervišite čišćenje u par klika.</p>
                     </div>
                 </div>
             </div>
@@ -190,8 +191,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Get Confirmation</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Sačekaj potvrdu</h3>
+                        <p>Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem roku.</p>
                     </div>
                 </div>
             </div>
@@ -204,8 +205,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Let’s Enjoy</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Uživajte</h3>
+                        <p>Po završenom čišćenju Vaše je samo da uživate u čistom prostoru.</p>
                     </div>
                 </div>
             </div>
@@ -214,18 +215,18 @@ include "php_vendor/navbar.php";
 </section>
 
 <!-- service area start -->
-<div class="choose-area bg-color area-padding">
+<!--<div class="choose-area bg-color area-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Why choose us</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>Zašto izabrati nas?</h3>
+                    <p>Uvek se osećate potpuno zadovoljni nakon što smo bili s Vama.</p>
                 </div>
             </div>
         </div>
         <div class="row">
-            <!-- single-well end-->
+
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="well-services text-center">
                     <div class="services-img">
@@ -234,12 +235,11 @@ include "php_vendor/navbar.php";
                     <div class="main-services">
                         <div class="service-content">
                             <h4>Expert Employee</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- single-well end-->
+
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="well-services text-center">
                     <div class="services-img">
@@ -248,12 +248,11 @@ include "php_vendor/navbar.php";
                     <div class="main-services">
                         <div class="service-content">
                             <h4>Secure Services</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- single-well end-->
+
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="well-services text-center">
                     <div class="services-img">
@@ -262,12 +261,11 @@ include "php_vendor/navbar.php";
                     <div class="main-services">
                         <div class="service-content">
                             <h4>Low Costing</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- single-well end -->
+
             <div class="col-md-3 hidden-sm col-xs-12">
                 <div class="well-services text-center">
                     <div class="services-img">
@@ -276,15 +274,14 @@ include "php_vendor/navbar.php";
                     <div class="main-services">
                         <div class="service-content">
                             <h4>On time Finished</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- single-well end -->
+
         </div>
     </div>
-</div>
+</div>-->
 <!-- service-area end -->
 <!-- Start portfolio Area -->
 <div class="project-area area-padding">
@@ -292,8 +289,7 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Our Projects</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>Naši projekti</h3>
                 </div>
             </div>
         </div>
@@ -303,7 +299,7 @@ include "php_vendor/navbar.php";
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="awesome-menu text-center">
                         <ul class="project-menu">
-                            <li><a href="#" class="active" data-filter="*">All</a></li>
+                            <li><a href="#" class="active" data-filter="*">Sve</a></li>
                             <li><a href="#" data-filter=".residential">Residential Cleaning</a></li>
                             <li><a href="#" data-filter=".commercial">Commercial Cleaning</a></li>
                             <li><a href="#" data-filter=".apartment">Apartment Cleaning</a></li>
@@ -430,25 +426,25 @@ include "php_vendor/navbar.php";
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-diamond"></i></a>
                             <span class="counter">13000</span>
-                            <h5>Complete Projects</h5>
+                            <h5>Završenih čišćenja</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-star"></i></a>
                             <span class="counter">4500</span>
-                            <h5>Happy Clients</h5>
+                            <h5>Srećnih klijenata</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-layers"></i></a>
                             <span class="counter">104</span>
-                            <h5>Present Projects</h5>
+                            <h5>Sadašnji projekti</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-users"></i></a>
-                            <span class="counter">4300</span>
-                            <h5>Total Employee</h5>
+                            <span class="counter">15</span>
+                            <h5>Zapošljenih</h5>
                         </div>
                     </div>
                 </div>
@@ -463,10 +459,10 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                    <h4>Are you looking for professional Cleaning Services for your House?</h4>
+                    <h4>Da li tražite profesionalne usluge čišćenja za svoj prostor?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="icon icon-phone-handset"></i>Call us:  +1313-4325432 </span><span>Or</span>
-                        <a class="banner-btn" href="#">Contact us</a>
+                        <span class="call-us"><i class="icon icon-phone-handset"></i>Pozovite: +1313-4325432 </span><span>ili</span>
+                        <a class="banner-btn" href="contact.php">Kontaktirajte</a>
                     </div>
                 </div>
             </div>

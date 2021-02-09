@@ -8,12 +8,12 @@
                             <div class="footer-logo">
                                 <a href="#"><h1 style="color: white;">Company logo</h1></a>
                             </div>
-                            <p>We help agencies to define their new business objectives and then create the road map to get them there by devising a business.We help agencies to define their new business.</p>
+                            <p>Naš cilj je da se vi kao kupac uvek osećate potpuno zadovoljni nakon što smo bili s vama. Kao deo ovoga, imamo garanciju zadovoljstva kupaca za izvršene zadatke.</p>
 
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +013 654 432</p>
-                                <p><span>Email:</span> info@grandfolkcompany.com</p>
-                                <p><span>Location:</span> 34, Stockholm, Sweden</p>
+                                <p><span>Email:</span> info@gladafolkcompany.com</p>
+                                <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>
                     </div>
@@ -22,7 +22,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <h4>Services Link</h4>
+                            <h4>Usluge</h4>
                             <div class="footer-services-link">
                                 <ul class="footer-list">
                                     <li><a href="#">Apartment</a></li>
@@ -40,7 +40,7 @@
                                 </ul>
                             </div>
                             <div class="footer-icons">
-                                <h5>Follow us</h5>
+                                <h5>Zapratite nas</h5>
                                 <ul>
                                     <li>
                                         <a href="#">
@@ -76,14 +76,14 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <h4>Subscribe</h4>
+                            <h4>Novosti</h4>
                             <p>
-                                We help agencies to define their new business objectives and then create the road map to get them there by devising a business.
+                                Prijavite se kako bi Vam na mejl slali sve novosti u vezi sa nasom kompanijom.
                             </p>
                             <div class="subs-feilds">
                                 <div class="suscribe-input">
                                     <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
-                                    <button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
+                                    <button type="submit" id="sus_submit" class="add-btn">Prijavi se</button>
                                 </div>
                             </div>
                         </div>

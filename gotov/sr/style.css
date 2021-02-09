@@ -282,6 +282,7 @@ div#preloader {
 }
 
 .section-headline h3 {
+    color: #2de232;
     display: inline-block;
     font-size: 30px;
     font-weight: 700;
@@ -1178,10 +1179,10 @@ div#preloader {
     height: 100px;
     font-size: 60px;
     line-height: 99px;
-    border: 1px solid #2de232;
+    border: 3px solid #2de232;
     color: #fff;
     transition: 0.4s;
-    background: #2de232;
+    background: #ff8201;
 }
 
 
