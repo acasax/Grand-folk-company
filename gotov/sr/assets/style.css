@@ -831,6 +831,7 @@ h6 {
   font-weight: 700;
   color: #2de232;
   margin-bottom: 18px;
+  padding-left: 25px;
   line-height: 48px;
   width: 100%;
   font-family: 'Poppins', sans-serif;
@@ -890,6 +891,7 @@ h6 {
   font-size: 24px;
   color: #ff8201;
   margin-bottom: 20px;
+  margin-left: 30px;
 }
 @media only screen and (max-width: 1199px) {
   .slider-area .slide-1 div.slider-sub-text,
@@ -932,6 +934,7 @@ h6 {
   color: black;
   font-weight: bold;
   margin-bottom: 20px;
+  padding-left: 30px;
   width: 40%;
 }
 @media only screen and (max-width: 1199px) {
@@ -993,6 +996,7 @@ h6 {
 }
 .slider-area .slider-btn-area {
   margin-top: 34px;
+  padding-left: 30px;
 }
 @media only screen and (max-width: 991px) {
   .slider-area .slider-btn-area {
@@ -1025,7 +1029,7 @@ h6 {
   content: "";
   height: 100%;
   width: 0;
-  background-color: #14287b;
+  background-color: #2de232;
   border-radius: 4px;
   position: absolute;
   top: 0;
@@ -4876,6 +4880,7 @@ ul {
   position: relative;
   margin-bottom: 2.6rem;
 }
+
 .process-box-layout1 .item-bg img {
   transform: rotate(0);
   -webkit-transition: all 0.3s ease-out;
@@ -4884,6 +4889,7 @@ ul {
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
 }
+
 .process-box-layout1 .item-bg .item-icon {
   position: absolute;
   top: 50%;
@@ -4893,17 +4899,26 @@ ul {
   color: #ff8201;
   font-size: 48px;
 }
+
+.process-box-layout1 .item-bg .item-icon:hover {
+  transform: scale(1.5);
+  transition: all 0.3s ease-out;
+}
+
 .process-box-layout1 .item-content .item-title {
   color: #2de232;
   font-weight: 700;
   margin-bottom: 10px;
 }
+
 .process-box-layout1:hover .item-bg img {
   transform: rotate(180deg);
 }
+
 .single-process:last-child .process-box-layout1:after {
   display: none;
 }
+
 /*------------------- 5.12 Progress -------------------*/
 .progress-wrap-layout1 {
   background-color: #f4efeb;

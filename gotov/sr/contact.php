@@ -45,7 +45,7 @@
     ?>
     <!-- header end -->
     <!-- Start Bottom Header -->
-    <div class="page-area">
+    <div class="page-area" style="background: url(img/background/2.jpeg);">
         <div class="breadcumb-overlay"></div>
         <div class="container">
             <div class="row">

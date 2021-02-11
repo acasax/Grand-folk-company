@@ -46,7 +46,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area">
+<div class="page-area" style="background: url(img/background/1.jpeg);">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
@@ -89,7 +89,7 @@ include "php_vendor/navbar.php";
                 <div class="video-text">
                     <h4>O nama</h4>
                     <p>
-                       Naša misija je da širokim spektrom usluga koje nudimo,stalnim inovacijama kao i motivisanim kadrom,obezbedimo usluge vrhunskog kvaliteta,a to težimo da postignemo kroz:
+                       Naša misija je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
                         <li>Povećanje zadovoljstva naših klijenata,neprestano osluškujući njihove potrebe</li>

@@ -72,7 +72,7 @@ include "php_vendor/navbar.php";
             <div class="slider-content s-tb slide-1">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text ">Sertifikovana kompanija</div>
+                        <div class="slider-sub-text">Sertifikovana kompanija</div>
                         <h1 class="slider-big-text">Glada folk company!</h1>
                         <div class="slider-paragraph">Obezbećujemo visok kvalitet usluga i kontinuirano zadovoljstvo klijenata!</div>
                         <div class="slider-btn-area">
@@ -298,9 +298,8 @@ include "php_vendor/navbar.php";
                     <div class="awesome-menu text-center">
                         <ul class="project-menu">
                             <li><a href="#" class="active" data-filter="*">Sve</a></li>
-                            <li><a href="#" data-filter=".residential">Residential Cleaning</a></li>
-                            <li><a href="#" data-filter=".commercial">Commercial Cleaning</a></li>
-                            <li><a href="#" data-filter=".apartment">Apartment Cleaning</a></li>
+                            <li><a href="#" data-filter=".residential">Za fizicka lica</a></li>
+                            <li><a href="#" data-filter=".commercial">Za pravna lica</a></li>
                         </ul>
                     </div>
                 </div>
@@ -310,12 +309,43 @@ include "php_vendor/navbar.php";
                 <div class="project-single all-padding commercial">
                     <div class="single-awesome-project">
                         <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
+                                <img src="img/service/4.jpg" alt="" />
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <h4>Flyttädning</h4>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- single-awesome-project end -->
+                <!-- single-awesome-project start -->
+                <div class="project-single all-padding residential">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/service/1.jpg">
+                                <img src="img/service/1.jpg" alt="" />
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <h4>Hemstädning</h4>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- single-awesome-project end -->
+                <!-- single-awesome-project start -->
+                <div class="project-single all-padding residential">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
                                 <img src="img/project/1.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Commercial</span>
+                                        <h4>Storstädning</h4>
                                     </div>
                                 </div>
                             </a>
@@ -327,46 +357,11 @@ include "php_vendor/navbar.php";
                 <div class="project-single all-padding residential">
                     <div class="single-awesome-project">
                         <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/2.jpg">
-                                <img src="img/project/2.jpg" alt="" />
+                            <a class="venobox" data-gall="myGallery" href="img/service/2.jpg">
+                                <img src="img/service/2.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Residential</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- single-awesome-project end -->
-                <!-- single-awesome-project start -->
-                <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/3.jpg">
-                                <img src="img/project/3.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Residential</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- single-awesome-project end -->
-                <!-- single-awesome-project start -->
-                <div class="project-single all-padding apartment">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/4.jpg">
-                                <img src="img/project/4.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Apartment</span>
+                                        <h4>Flyttstädning</h4>
                                     </div>
                                 </div>
                             </a>
@@ -378,12 +373,11 @@ include "php_vendor/navbar.php";
                 <div class="project-single all-padding commercial">
                     <div class="single-awesome-project">
                         <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/5.jpg">
-                                <img src="img/project/5.jpg" alt="" />
+                            <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
+                                <img src="img/project/6.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>commercial</span>
+                                        <h4>Storstädning</h4>
                                     </div>
                                 </div>
                             </a>
@@ -392,15 +386,14 @@ include "php_vendor/navbar.php";
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
-                <div class="project-single all-padding apartment">
+                <div class="project-single all-padding residential">
                     <div class="single-awesome-project">
                         <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
-                                <img src="img/project/6.jpg" alt="" />
+                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
+                                <img src="img/3.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Apartment</span>
+                                        <h4>Fönsterputs</h4>
                                     </div>
                                 </div>
                             </a>
