@@ -58,7 +58,7 @@
                                     </li>
                                     <li><a class="pagess" href="../blog-grid-1.php">Dodatni sadržaj</a>
                                     </li>
-                                    <li><a href=../"contact.php">Kontakt</a></li>
+                                    <li><a href="../contact.php">Kontakt</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -76,23 +76,27 @@
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="index.php"><img src="../img/logo/Glada%20Folk%20Company%20logo.jpg" alt=""></a>
+                            <a href="../index.php"><img src="../img/logo/Glada%20Folk%20Company%20logo.jpg" alt=""></a>
                         </div>
                         <nav id="dropdown">
                             <ul>
-                                <li><a class="pagess" href="index.php">Početna</a>
+                                <li><a class="pagess" href="../index.php">Početna</a>
                                 </li>
-                                <li><a class="pagess" href="about.php">O nama</a>
+                                <li><a class="pagess" href="../about.php">O nama</a>
                                 </li>
-                                <li><a class="pagess" href="#">Usluge</a>
+                                <li><a class="pagess" href="../services.php">Usluge</a>
                                     <ul class="sub-menu">
-                                        <li><a href="single-service.php">Single service</a></li>
-                                        <li><a href="single-service.php">Single service</a></li>
+                                        <li><a href="service1.php">Hemstädning</a></li>
+                                        <li><a href="service2.php">Storstädning</a></li>
+                                        <li><a href="service3.php">Flyttstädning</a></li>
+                                        <li><a href="service4.php">Fönsterputs</a></li>
+                                        <li><a href="service5.php">Fastighetsskötsel</a></li>
+                                        <li><a href="service6.php">Kontorsstädning</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="pagess" href="blog-grid-1.php">Dodatni sadržaj</a>
+                                <li><a class="pagess" href="../blog-grid-1.php">Dodatni sadržaj</a>
                                 </li>
-                                <li><a href="contact.php">Kontakt</a></li>
+                                <li><a href="../contact.php">Kontakt</a></li>
                             </ul>
                         </nav>
                     </div>
