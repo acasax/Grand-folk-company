@@ -38,8 +38,8 @@
                 <div class="col-md-3 col-sm-3">
                     <div class="logo">
                         <!-- Brand -->
-                        <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                            <h1>Logo</h1>
+                        <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                            <img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt="" style="height: 58px;">
                         </a>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="index.php"><h1>Logo</h1></a>
+                            <a href="index.php"><img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt=""></a>
                         </div>
                         <nav id="dropdown">
                             <ul>

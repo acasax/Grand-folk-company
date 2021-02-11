@@ -53,11 +53,10 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb">
                     <div class="section-headline white-headline text-center">
-                        <h3>About us</h3>
+                        <h3>Glada folk company</h3>
                     </div>
                     <ul>
-                        <li class="home-bread">Home</li>
-                        <li>About us</li>
+                        <li>O NAMA</li>
                     </ul>
                 </div>
             </div>
@@ -71,8 +70,8 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>More About Cleaning Services</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>Više o Glada folk company</h3>
+                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
                 </div>
             </div>
         </div>
@@ -88,16 +87,15 @@ include "php_vendor/navbar.php";
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
-                    <h4>Watch our video for details about cleaning services.</h4>
+                    <h4>O nama</h4>
                     <p>
-                        Redug Lares dolor sit amet, consectetur adipisicing elit. Animi vero excepturi magnam ducimus adipisci voluptas, praesentium maxime necessitatibus.ducimus adipisci voluptas, praesentium maxime necessitatibus.
+                       Naša misija je da širokim spektrom usluga koje nudimo,stalnim inovacijama kao i motivisanim kadrom,obezbedimo usluge vrhunskog kvaliteta,a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
-                        <li>Lares dolor sit amet.</li>
-                        <li>Animi vero excepturi magnam.</li>
-                        <li>ducimus adipisci voluptas.</li>
-                        <li>consectetur adipisicing elit.</li>
-                        <li>praesentium maxime necessitatibus.</li>
+                        <li>Povećanje zadovoljstva naših klijenata,neprestano osluškujući njihove potrebe</li>
+                        <li>Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal</li>
+                        <li>Stalni razvoj i istraživanje novih poslovnih mogućnosti</li>
+                        <li>Konstantna optimizacija troškova kada su u pitanju procesi rada</li>
                     </ul>
                 </div>
             </div>
@@ -118,8 +116,8 @@ include "php_vendor/navbar.php";
                             <i class="icon icon-layers"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Our <span class="color">Mission</span></h4>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace.</p>
+                            <h4>Naša <span class="color">misija</span></h4>
+                            <p>Čisto i uredno je naša misija. To je garancija.</p>
                         </div>
                     </div>
                 </div>
@@ -130,8 +128,8 @@ include "php_vendor/navbar.php";
                             <i class="icon icon-leaf"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Our <span class="color">Vision</span></h4>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace.</p>
+                            <h4>Naša <span class="color">vizija</span></h4>
+                            <p>Minimalna cena. Mnoge ponude i brze usluge.</p>
                         </div>
                     </div>
                 </div>
@@ -142,8 +140,8 @@ include "php_vendor/navbar.php";
                             <i class="icon icon-diamond"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Our <span class="color">Experience</span></h4>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace.</p>
+                            <h4>Naše <span class="color">iskustvo</span></h4>
+                            <p>Usavršavanje, obuka i motivacija stručnog kadra</p>
                         </div>
                     </div>
                 </div>
@@ -160,8 +158,8 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Our Team</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>Naš tim</h3>
+                    <pUsavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal.</p>
                 </div>
             </div>
         </div>
@@ -237,8 +235,7 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Testimonial</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>Utisci zadovoljnih mušterija</h3>
                 </div>
             </div>
         </div>

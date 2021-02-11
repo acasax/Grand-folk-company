@@ -52,10 +52,9 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb">
                         <div class="section-headline white-headline text-center">
-                            <h3>Services</h3>
+                            <h3>Glada folk company</h3>
                         </div>
                         <ul>
-                            <li class="home-bread">Home</li>
                             <li>All Services</li>
                         </ul>
                     </div>

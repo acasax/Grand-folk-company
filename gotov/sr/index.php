@@ -159,8 +159,6 @@ include "php_vendor/navbar.php";
 </div>
 <!-- about-area end -->
 <!-- End Quote -->
-
-
 <!-- Process Area Start Here -->
 <section class="section-padding-lg-2">
     <div class="container">
