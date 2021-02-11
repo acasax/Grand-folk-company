@@ -55,7 +55,7 @@
                             <h3>Glada folk company</h3>
                         </div>
                         <ul>
-                            <li>All Services</li>
+                            <li>Sve usluge</li>
                         </ul>
                     </div>
                 </div>
@@ -84,8 +84,7 @@
                                 <img src="img/service/1.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>House cleaning</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Hemstädning</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>
@@ -97,8 +96,7 @@
                                 <img src="img/service/2.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>Apartment cleaning</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Storstädning</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>
@@ -110,8 +108,7 @@
                                 <img src="img/service/3.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>Carpet cleaning</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Flyttstädning</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>
@@ -123,8 +120,7 @@
                                 <img src="img/service/4.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>Commercial cleaning</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Fönsterputs</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>
@@ -136,8 +132,7 @@
                                 <img src="img/service/5.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>Residential cleaning</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Fastighetsskötsel</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>
@@ -149,8 +144,7 @@
                                 <img src="img/service/6.jpg" alt="">
                             </a>
                             <div class="service-content">
-                                <h4>After renovation</h4>
-                                <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                <h4>Kontorsstädning</h4>
                                 <a class="service-btn" href="single-service.php">read more</a>
                             </div>
                         </div>

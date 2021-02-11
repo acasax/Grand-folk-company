@@ -1,3 +1,19 @@
+<div class="banner-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="banner-content">
+                    <h4>Da li tražite profesionalne usluge čišćenja za svoj prostor?</h4>
+                    <div class="banner-contact">
+                        <span class="call-us"><i class="icon icon-phone-handset"></i>Pozovite: +1313-4325432 </span><span>ili</span>
+                        <a class="banner-btn" href="contact.php">Kontaktirajte</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <footer class="footer-1">
     <div class="footer-area area-padding">
         <div class="container">
@@ -25,18 +41,14 @@
                             <h4>Usluge</h4>
                             <div class="footer-services-link">
                                 <ul class="footer-list">
-                                    <li><a href="#">Apartment</a></li>
-                                    <li><a href="#">Commercial </a></li>
-                                    <li><a href="#">Residential</a></li>
-                                    <li><a href="#">Move in </a></li>
-                                    <li><a href="#">Move out</a></li>
+                                    <li><a href="#">Hemstädning</a></li>
+                                    <li><a href="#">Storstädning </a></li>
+                                    <li><a href="#">Flyttstädning</a></li>
+                                    <li><a href="#">Fönsterputs</a></li>
                                 </ul>
                                 <ul class="footer-list hidden-sm">
-                                    <li><a href="#">Window Cleaning</a></li>
-                                    <li><a href="#">Maid Services</a></li>
-                                    <li><a href="#">Carpet </a></li>
-                                    <li><a href="#">Garden </a></li>
-                                    <li><a href="#">Bedroom </a></li>
+                                    <li><a href="#">Fastighetsskötsel</a></li>
+                                    <li><a href="#">Kontorsstädning</a></li>
                                 </ul>
                             </div>
                             <div class="footer-icons">

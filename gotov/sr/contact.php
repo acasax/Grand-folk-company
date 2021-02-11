@@ -52,11 +52,10 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb">
                         <div class="section-headline white-headline text-center">
-                            <h3>Contact us</h3>
+                            <h3>Glada folk company</h3>
                         </div>
                         <ul>
-                            <li class="home-bread">Home</li>
-                            <li>Contact</li>
+                            <li>Kontakt</li>
                         </ul>
                     </div>
                 </div>
@@ -71,7 +70,9 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="contact-head">
                         <h3>Request a <span class="color">Contact us</span></h3>
-                        <p>ConsultExprts The universal acceptance of bitcoin has given a tremendous opportunity for merchants to do crossborder transactions instantly and at reduced cost.</p>
+                        <p>Vår målsättning är att du som kund alltid ska känna dig helt nöjd efter att vi har varit hos dig. Som ett led i detta har vi nöjd-kund-garanti för utförda uppdrag.
+                            Det innebär att om du inte är nöjd med det vi utfört hos dig meddelar du oss senast 1 dag efter avslutat arbete. Vi kommer ut till dig kostnadsfritt och åtgärdar bristerna.
+                        </p>
                         <div class="project-share">
                             <h5>Our Social Link :</h5>
                             <ul class="project-social">
