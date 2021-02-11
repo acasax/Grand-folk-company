@@ -85,7 +85,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Hemstädning</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service1.php">read more</a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Storstädning</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service2.php">read more</a>
                             </div>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Flyttstädning</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service3.php">read more</a>
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Fönsterputs</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service4.php">read more</a>
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Fastighetsskötsel</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service5.php">read more</a>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                             </a>
                             <div class="service-content">
                                 <h4>Kontorsstädning</h4>
-                                <a class="service-btn" href="single-service.php">read more</a>
+                                <a class="service-btn" href="service/service6.php">read more</a>
                             </div>
                         </div>
                     </div>

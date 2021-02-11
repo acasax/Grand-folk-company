@@ -313,7 +313,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/service/4.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Flyttädning</h4>
+                                        <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -329,7 +329,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/service/1.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Hemstädning</h4>
+                                        <a href="service/service1.php"><h4>Hemstädning</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -345,7 +345,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/project/1.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Storstädning</h4>
+                                        <a href="service/service2.php"><h4>Storstädning</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -361,7 +361,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/service/2.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Flyttstädning</h4>
+                                        <a href="service/service3.php"><h4>Flyttstädning</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -377,7 +377,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/project/6.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Storstädning</h4>
+                                        <a href="service/service6.php"><h4>Kontorsstädning</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -393,7 +393,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/3.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
-                                        <h4>Fönsterputs</h4>
+                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
                                     </div>
                                 </div>
                             </a>

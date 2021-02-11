@@ -41,14 +41,14 @@
                             <h4>Usluge</h4>
                             <div class="footer-services-link">
                                 <ul class="footer-list">
-                                    <li><a href="#">Hemstädning</a></li>
-                                    <li><a href="#">Storstädning </a></li>
-                                    <li><a href="#">Flyttstädning</a></li>
-                                    <li><a href="#">Fönsterputs</a></li>
+                                    <li><a href="service/service1.php">Hemstädning</a></li>
+                                    <li><a href="service/service2.php">Storstädning </a></li>
+                                    <li><a href="service/service3.php">Flyttstädning</a></li>
+                                    <li><a href="service/service4.php">Fönsterputs</a></li>
                                 </ul>
                                 <ul class="footer-list hidden-sm">
-                                    <li><a href="#">Fastighetsskötsel</a></li>
-                                    <li><a href="#">Kontorsstädning</a></li>
+                                    <li><a href="service/service5.php">Fastighetsskötsel</a></li>
+                                    <li><a href="service/service6.php">Kontorsstädning</a></li>
                                 </ul>
                             </div>
                             <div class="footer-icons">
