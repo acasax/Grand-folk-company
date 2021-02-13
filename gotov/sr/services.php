@@ -80,7 +80,7 @@
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
+                            <a class="service-image" href="service/service1.php">
                                 <img src="img/service/1.jpg" alt="">
                             </a>
                             <div class="service-content">
@@ -89,11 +89,10 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
-                                <img src="img/service/2.jpg" alt="">
+                            <a class="service-image" href="service/service2.php">
+                                <img src="img/project/1.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Storstädning</h4>
@@ -101,11 +100,11 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Start services -->
+
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
-                                <img src="img/service/3.jpg" alt="">
+                            <a class="service-image" href="service/service3.php">
+                                <img src="img/service/2.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Flyttstädning</h4>
@@ -113,11 +112,10 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
-                                <img src="img/service/4.jpg" alt="">
+                            <a class="service-image" href="service/service4.php">
+                                <img src="img/3.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fönsterputs</h4>
@@ -128,8 +126,8 @@
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
-                                <img src="img/service/5.jpg" alt="">
+                            <a class="service-image" href="service/service5.php">
+                                <img src="img/service/4.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fastighetsskötsel</h4>
@@ -140,8 +138,8 @@
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="#">
-                                <img src="img/service/6.jpg" alt="">
+                            <a class="service-image" href="service/service6.php">
+                                <img src="img/project/6.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Kontorsstädning</h4>
@@ -149,6 +147,8 @@
                             </div>
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </div>

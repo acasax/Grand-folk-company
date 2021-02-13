@@ -4901,6 +4901,10 @@ ul {
 }
 
 .process-box-layout1 .item-bg .item-icon:hover {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
   transform: scale(1.5);
   transition: all 0.3s ease-out;
 }

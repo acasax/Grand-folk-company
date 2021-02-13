@@ -1037,6 +1037,7 @@ div#preloader {
 .service-content h4 {
     text-transform: uppercase;
     font-size: 18px;
+    color: #2de232;
 }
 
 .services-img a {
@@ -1223,7 +1224,7 @@ div#preloader {
 .service-btn {
     font-weight: 700;
     text-transform: uppercase;
-    color: #666;
+    color: #ff8201;
     position: relative;
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;

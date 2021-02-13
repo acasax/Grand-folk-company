@@ -46,7 +46,11 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(img/background/1.jpeg);">
+<div class="page-area" style="background: url(img/background/1.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
@@ -129,7 +133,7 @@ include "php_vendor/navbar.php";
                         </div>
                         <div class="feature-text">
                             <h4>Naša <span class="color">vizija</span></h4>
-                            <p>Minimalna cena. Mnoge ponude i brze usluge.</p>
+                            <p>Postati lider na tržištu, obezbeđujući visok kvalitet usluga i kontinuirano zadovoljstvo klijenata!</p>
                         </div>
                     </div>
                 </div>

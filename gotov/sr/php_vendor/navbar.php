@@ -18,11 +18,10 @@
                             <a href="reservate.php" class="quote-btn">Rezerviši</a>
                         </div>
                         <ul>
-                            <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                             <li><a href="#"><i class="fa fa-google"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>

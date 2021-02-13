@@ -99,7 +99,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-well">
                             <a href="#">
-                                <h3>Hemstädning</h3>
+                                <h3>HEMSTÄDNING  INNEFATTAR</h3>
                             </a>
                             <p>Den återkommande städningen kallar vi veckostädning</p>
                         </div>

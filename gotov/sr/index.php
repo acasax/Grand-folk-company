@@ -106,7 +106,7 @@ include "php_vendor/navbar.php";
                     <div class="container">
                         <div class="slider-sub-text ">Sertifikovana kompanija</div>
                         <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Vasa sreca je i nasa , zato smo tu za vas!</div>
+                        <div class="slider-paragraph">Vasa sreca je i nasa , zato smo mi tu za vas!</div>
                         <div class="slider-btn-area">
                             <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
                                 <i class="fas fa-angle-right"></i>
@@ -212,82 +212,14 @@ include "php_vendor/navbar.php";
     </div>
 </section>
 
-<!-- service area start -->
-<!--<div class="choose-area bg-color area-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-headline text-center">
-                    <h3>Zašto izabrati nas?</h3>
-                    <p>Uvek se osećate potpuno zadovoljni nakon što smo bili s Vama.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-cleaning-6"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Expert Employee</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-cleaning-8"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Secure Services</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-spray"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Low Costing</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 hidden-sm col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-sweeping-3"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>On time Finished</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>-->
 <!-- service-area end -->
 <!-- Start portfolio Area -->
-<div class="project-area area-padding">
+<div class="about-area area-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Naši projekti</h3>
+                    <h3>Naše usluge</h3>
                 </div>
             </div>
         </div>
@@ -306,20 +238,7 @@ include "php_vendor/navbar.php";
             </div>
             <div class="project-content">
                 <!-- single-awesome-project start -->
-                <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
-                                <img src="img/service/4.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
@@ -368,6 +287,36 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
+
+                <div class="project-single all-padding residential">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
+                                <img src="img/3.jpg" alt="" />
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-single all-padding commercial">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
+                                <img src="img/service/4.jpg" alt="" />
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding commercial">
@@ -386,20 +335,7 @@ include "php_vendor/navbar.php";
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
-                <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
-                                <img src="img/3.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+
                 <!-- single-awesome-project end -->
             </div>
         </div>

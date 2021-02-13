@@ -110,7 +110,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/project/1.jpg" alt="">
+                                <img src="../img/1.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -154,7 +154,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/project/2.jpg" alt="">
+                                <img src="../img/7.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -164,7 +164,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/blog/222.jpg" alt="">
+                                <img src="../img/Čišćenje-wc-šolje.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -176,11 +176,12 @@ include "../php_vendor/navbarservice.php";
                                 <li>Avtorkning snickerier, dörrkarmar, golv och golvlister</li>
                                 <li>Rengöring golv och kakelväggar</li>
                                 <li>Avtorkning rör</li>
-                                <li>Speglar putsas</li>
-                                <li>Avtorkning snickerier, dörrkarmar, golv och golvlister</li>
-                                <li>Rengöring golv och kakelväggar</li>
-                                <li>Avtorkning rör</li>
                                 <li>Rengöring ovan- och undersida av tvättställ</li>
+                                <li>Damma tak</li>
+                                <li>Rensning golvbrunn</li>
+                                <li>Rengöring badkar och badkarsfront samt under badkar</li>
+                                <li>Avtorkning badrumsskåp</li>
+                                <li>Rengöring in- och utsidan av toalettstol</li>
                             </ul>
                         </div>
                     </div>
@@ -205,7 +206,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/service/5.jpg" alt="">
+                                <img src="../img/2.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -215,7 +216,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/blog/222.jpg" alt="">
+                                <img src="../img/8.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -224,23 +225,21 @@ include "../php_vendor/navbarservice.php";
                             <h4>Vad ingår inte i flyttstädningen?</h4>
                             <p>Det finns olika uppfattningar om vad som ska ingå i en flyttstädning. Det kan vara bra att veta följande:</p>
                             <ul class="marker-list">
-                                <li>•	Framkörningsavgift tillkommer med 250 kr/tillfälle</li>
-                                <li>•	Alla priser än inklusive mervärdesskatt och skatteavdrag.</li>
-                                <li>•	Möbler som lämnats kvar till nya hyresgästen torkas ej av, om annat inte är överenskommet i förväg</li>
-                                <li>•	Vi rengör inte bakom varmvattenberedare</li>
-                                <li>•	Ej rengöring av diskmaskinens filter</li>
-                                <li>•	Garage/vindsförråd städas ej (kan beställas extra).</li>
-                                <li>•	Rutorna på inglasad balkong ingår inte</li>
-                                <li>•	Vi utför inte tomt- eller trädgårdsarbeten (kan beställas extra)</li>
-                                <li>•	Tak i köket tvättas inte</li>
-                                <li>•	Kyl och Frys ska vara avstängda och avfrostade</li>
-                                <li>•	Ugnsplåtar gör vi inte en grovrengöring på</li>
-                                <li>•	Vi rensar inte avloppsrör.</li>
-                                <li>•	Vi kopplar ej ur el-armaturer, tvätt-& diskmaskiner mm</li>
-                                <li>•	Ruta/fönster om det är oåtkomligt eller trasigt.</li>
-                                <li>•	Ej rengöring av persienner</li>
-                                <li>•	Ej rengöring av väggar, endast dammning</li>
-                                <li•	Vi tar inte bort tavelkrokar och dekaler</li>
+                                <li>Möbler som lämnats kvar till nya hyresgästen torkas ej av, om annat inte är överenskommet i förväg</li>
+                                <li>Vi rengör inte bakom varmvattenberedare</li>
+                                <li>Ej rengöring av diskmaskinens filter</li>
+                                <li>Garage/vindsförråd städas ej (kan beställas extra).</li>
+                                <li>Rutorna på inglasad balkong ingår inte</li>
+                                <li>Vi utför inte tomt- eller trädgårdsarbeten (kan beställas extra)</li>
+                                <li>Tak i köket tvättas inte</li>
+                                <li>Kyl och Frys ska vara avstängda och avfrostade</li>
+                                <li>Ugnsplåtar gör vi inte en grovrengöring på</li>
+                                <li>Vi rensar inte avloppsrör.</li>
+                                <li>Vi kopplar ej ur el-armaturer, tvätt-& diskmaskiner mm</li>
+                                <li>Ruta/fönster om det är oåtkomligt eller trasigt.</li>
+                                <li>Ej rengöring av persienner</li>
+                                <li>Ej rengöring av väggar, endast dammning</li>
+                                <li>Vi tar inte bort tavelkrokar och dekaler</li>
                             </ul>
                         </div>
                     </div>

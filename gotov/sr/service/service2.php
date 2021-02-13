@@ -90,7 +90,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/background/bg1.jpg" alt="">
+                                <img src="../img/project/1.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -109,7 +109,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/service/3.jpg" alt="">
+                                <img src="../img/project/2.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -137,19 +137,17 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I badrum och toalett</h4>
                             <ul class="marker-list">
-                                <li>Alla priser än inklusive mervärdesskatt och skatteavdrag.</li>
                                 <li>Rengöring av kran och handfat</li>
                                 <li>Rengöring av badkar/dusch och toalett</li>
                                 <li>Torkning av badrumsskåp utvändigt</li>
                                 <li>Avtorkning väggar</li>
-                                <li>Framkörningsavgift tillkommer med 250 kr/tillfälle</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/toalet.jpg" alt="">
+                                <img src="../img/toalet2.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -159,7 +157,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/service/1.jpg" alt="">
+                                <img src="../img/blog/222.jpg" alt="">
                             </div>
                         </div>
                     </div>

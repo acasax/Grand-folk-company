@@ -54,6 +54,7 @@
                             <div class="footer-icons">
                                 <h5>Zapratite nas</h5>
                                 <ul>
+                                    <li><a href="#"><i class="fa fa-google"></i></a></li>
                                     <li>
                                         <a href="#">
                                             <i class="fa fa-facebook"></i>
@@ -62,16 +63,6 @@
                                     <li>
                                         <a href="#">
                                             <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-google"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-pinterest"></i>
                                         </a>
                                     </li>
                                     <li>
