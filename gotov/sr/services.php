@@ -81,7 +81,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
                             <a class="service-image" href="service/service1.php">
-                                <img src="img/service/1.jpg" alt="">
+                                <img src="img/background/bg1.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Hemstädning</h4>
@@ -115,7 +115,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
                             <a class="service-image" href="service/service4.php">
-                                <img src="img/3.jpg" alt="">
+                                <img src="img/prozor.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fönsterputs</h4>
@@ -127,7 +127,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
                             <a class="service-image" href="service/service5.php">
-                                <img src="img/service/4.jpg" alt="">
+                                <img src="img/4.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fastighetsskötsel</h4>
@@ -139,7 +139,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
                             <a class="service-image" href="service/service6.php">
-                                <img src="img/project/6.jpg" alt="">
+                                <img src="img/service/4.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Kontorsstädning</h4>

@@ -44,7 +44,11 @@
 include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(../img/background/3.jpeg);">
+<div class="page-area" style="background: url(../img/background/3.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">

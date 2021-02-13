@@ -245,7 +245,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/1.jpg">
-                                <img src="img/service/1.jpg" alt="" />
+                                <img src="img/background/bg1.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service1.php"><h4>Hemstädning</h4></a>
@@ -292,7 +292,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/3.jpg">
-                                <img src="img/3.jpg" alt="" />
+                                <img src="img/prozor.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service4.php"><h4>Fönsterputs</h4></a>
@@ -307,7 +307,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
-                                <img src="img/service/4.jpg" alt="" />
+                                <img src="img/4.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
@@ -323,7 +323,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
-                                <img src="img/project/6.jpg" alt="" />
+                                <img src="img/service/4.jpg" alt="" />
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service6.php"><h4>Kontorsstädning</h4></a>
