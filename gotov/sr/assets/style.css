@@ -2233,14 +2233,7 @@ ul {
     width: 100%;
   }
 }
-.heading-layout1:after {
-  content: url('img/figure/figure3.png');
-  position: absolute;
-  top: -50px;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
+
 .heading-layout2 {
   text-align: center;
   margin-bottom: 6rem;

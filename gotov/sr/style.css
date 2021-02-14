@@ -1037,7 +1037,7 @@ div#preloader {
 .service-content h4 {
     text-transform: uppercase;
     font-size: 18px;
-    color: #2de232;
+    color: white;
 }
 
 .services-img a {
@@ -1212,8 +1212,8 @@ div#preloader {
 
 .service-image {
     display: block;
-    margin-bottom: 20px;
     overflow: hidden;
+    height: 200px;
 }
 
 .service-image img {
@@ -1224,7 +1224,7 @@ div#preloader {
 .service-btn {
     font-weight: 700;
     text-transform: uppercase;
-    color: #ff8201;
+    color: white;
     position: relative;
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
@@ -3716,7 +3716,8 @@ span.slugan {
 }
 
 .services-4 .service-content {
-    padding: 10px 25px 30px;
+    padding: 20px 25px 30px;
+    background: #2de232;
 }
 
 .bg-color {

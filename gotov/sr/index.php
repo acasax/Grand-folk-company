@@ -160,7 +160,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2">
+<section class="section-padding-lg-2 counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6"s">
     <div class="container">
         <div class="heading-layout1">
             <h2>Kako mi radimo</h2>
@@ -176,7 +176,7 @@ include "php_vendor/navbar.php";
                     </div>
                     <div class="item-content">
                         <h3 class="item-title">Zakaži online</h3>
-                        <p>Rezervišite čišćenje u par klika.</p>
+                        <p style="color: white;">Rezervišite čišćenje u par klika.</p>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@ include "php_vendor/navbar.php";
                     </div>
                     <div class="item-content">
                         <h3 class="item-title">Sačekaj potvrdu</h3>
-                        <p>Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem roku.</p>
+                        <p style="color: white;">Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem roku.</p>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@ include "php_vendor/navbar.php";
                     </div>
                     <div class="item-content">
                         <h3 class="item-title">Uživajte</h3>
-                        <p>Po završenom čišćenju Vaše je samo da uživate u čistom prostoru.</p>
+                        <p style="color: white;">Po završenom čišćenju Vaše je samo da uživate u čistom prostoru.</p>
                     </div>
                 </div>
             </div>
