@@ -85,29 +85,6 @@
         type: 'iframe'
     });
 
-    /*--------------------------
-         slider carousel
-    ---------------------------- */
-    var intro_carousel = $('.intro-carousel');
-    intro_carousel.owlCarousel({
-        loop: true,
-        nav: true,
-        autoplay: false,
-        dots: false,
-        navText: ["<i class='icon icon-chevron-left'></i>", "<i class='icon icon-chevron-right'></i>"],
-        responsive: {
-            0: {
-                items: 1
-            },
-            600: {
-                items: 1
-            },
-            1000: {
-                items: 1
-            }
-        }
-    });
-
     /*----------------------------
      isotope active
     ------------------------------ */

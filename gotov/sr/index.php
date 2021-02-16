@@ -64,9 +64,9 @@ include "php_vendor/navbar.php";
 <div class="slider-area slider-layout1 mt-5">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-4" class="slides">
-            <img src="img/slider/slide1-1.jpg" alt="slider" title="#slider-direction-1" />
-            <img src="img/slider/slide1-2.jpg" alt="slider" title="#slider-direction-2" />
-            <img src="img/slider/slide1-3.jpg" alt="slider" title="#slider-direction-3" />
+            <img src="img/slider/slide1-1.jpg" alt="slider" title="#slider-direction-1"/>
+            <img src="img/slider/slide1-2.jpg" alt="slider" title="#slider-direction-2"/>
+            <img src="img/slider/slide1-3.jpg" alt="slider" title="#slider-direction-3"/>
         </div>
         <div id="slider-direction-1" class="t-cn slider-direction">
             <div class="slider-content s-tb slide-1">
@@ -74,7 +74,9 @@ include "php_vendor/navbar.php";
                     <div class="container">
                         <div class="slider-sub-text">Sertifikovana kompanija</div>
                         <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Obezbećujemo visok kvalitet usluga i kontinuirano zadovoljstvo klijenata!</div>
+                        <div class="slider-paragraph">Obezbećujemo visok kvalitet usluga i kontinuirano zadovoljstvo
+                            klijenata!
+                        </div>
                         <div class="slider-btn-area">
                             <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
                                 <i class="fas fa-angle-right"></i>
@@ -90,7 +92,9 @@ include "php_vendor/navbar.php";
                     <div class="container">
                         <div class="slider-sub-text ">Sertifikovana kompanija</div>
                         <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Pružanjem širokog spektra usluga, stalnim inovacijama kao i motivisanim kadrom, obezbećujemo usluge vrhunskog kvaliteta</div>
+                        <div class="slider-paragraph">Pružanjem širokog spektra usluga, stalnim inovacijama kao i
+                            motivisanim kadrom, obezbećujemo usluge vrhunskog kvaliteta
+                        </div>
                         <div class="slider-btn-area">
                             <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
                                 <i class="fas fa-angle-right"></i>
@@ -125,22 +129,24 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
-                    <h4> <span class="color">Glada folk company</span> - pružamo izvrsnu uslugu čišćenja prostora</h4>
-                    <p>Mi smo kompanija za ciscenje  koja u svom timu ima osoblje sa dugogodisnjim iskustvom u radu. Glada folk company je
-                        porodicna firma koja je otvorena u nameni da i nasa deca nastave sa poslovanjem kada odrastu. Sam naziv firme ”Glada folk” ima u cilju da VAS,
+                    <h4><span class="color">Glada folk company</span> - pružamo izvrsnu uslugu čišćenja prostora</h4>
+                    <p>Mi smo kompanija za ciscenje koja u svom timu ima osoblje sa dugogodisnjim iskustvom u radu.
+                        Glada folk company je
+                        porodicna firma koja je otvorena u nameni da i nasa deca nastave sa poslovanjem kada odrastu.
+                        Sam naziv firme ”Glada folk” ima u cilju da VAS,
                         nase korisnike ucinimo nasmejane i srecne po povratku u vas dom ili kompaniju.
                     </p>
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="#"><i class="icon icon-gift"></i></a>
+                                <a href="about.php#about-feature"><i class="icon icon-gift"></i></a>
                                 <h5>Misija</h5>
                             </div>
                             <p>Čisto i uredno je naša misija. To je garancija.</p>
                         </div>
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="#"><i class="icon icon-thumbs-up"></i></a>
+                                <a href="about.php#about-feature"><i class="icon icon-thumbs-up"></i></a>
                                 <h5>Vizija</h5>
                             </div>
                             <p>Minimalna cena. Mnoge ponude i brze usluge.</p>
@@ -160,7 +166,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2 counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6"s">
+<section class="section-padding-lg-2 counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
             <h2>Kako mi radimo</h2>
@@ -169,7 +175,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
@@ -183,21 +189,22 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
                     </div>
                     <div class="item-content">
                         <h3 class="item-title">Sačekaj potvrdu</h3>
-                        <p style="color: white;">Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem roku.</p>
+                        <p style="color: white;">Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem
+                            roku.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -245,7 +252,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/1.jpg">
-                                <img src="img/background/bg1.jpg" alt="" />
+                                <img src="img/servicepocetna/bg1.jpg" alt=""/>
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service1.php"><h4>Hemstädning</h4></a>
@@ -261,7 +268,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
-                                <img src="img/project/1.jpg" alt="" />
+                                <img src="img/servicepocetna/1.jpg" alt=""/>
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service2.php"><h4>Storstädning</h4></a>
@@ -271,31 +278,18 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
+
+
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/2.jpg">
-                                <img src="img/service/2.jpg" alt="" />
+                                <img src="img/servicepocetna/2.jpg" alt=""/>
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service3.php"><h4>Flyttstädning</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
-                                <img src="img/prozor.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -307,10 +301,27 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
-                                <img src="img/4.jpg" alt="" />
+                                <img src="img/servicepocetna/5.jpg" alt=""/>
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="project-single all-padding residential">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
+                                <img src="img/servicepocetna/prozor.jpg" alt=""/>
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
                                     </div>
                                 </div>
                             </a>
@@ -323,7 +334,7 @@ include "php_vendor/navbar.php";
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
-                                <img src="img/service/4.jpg" alt="" />
+                                <img src="img/servicepocetna/4.jpg" alt=""/>
                                 <div class="add-actions text-center">
                                     <div class="project-dec">
                                         <a href="service/service6.php"><h4>Kontorsstädning</h4></a>
@@ -333,15 +344,27 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
-                <!-- single-awesome-project end -->
-                <!-- single-awesome-project start -->
 
-                <!-- single-awesome-project end -->
+                <div class="project-single all-padding commercial">
+                    <div class="single-awesome-project">
+                        <div class="awesome-img">
+                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
+                                <img src="img/servicepocetna/ciscenje-prozora-5.jpg" alt=""/>
+                                <div class="add-actions text-center">
+                                    <div class="project-dec">
+                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    <!-- End main content -->
 </div>
+<!-- End main content -->
+
 <!-- End portfolio Area -->
 <!-- Start Counter area -->
 <div class="counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
@@ -412,12 +435,12 @@ include "php_vendor/footer.php";
 
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
+<!-- Counter js -->
+<script src="js/jquery.counterup.min.js"></script>
 <!-- bootstrap js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- owl.carousel js -->
 <script src="js/owl.carousel.min.js"></script>
-<!-- Counter js -->
-<script src="js/jquery.counterup.min.js"></script>
 <!-- waypoint js -->
 <script src="js/waypoints.js"></script>
 <!-- isotope js -->

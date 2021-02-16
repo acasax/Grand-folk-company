@@ -752,7 +752,7 @@ h6 {
   }
 }
 .slider-area .nivo-directionNav a.nivo-prevNav:hover {
-  background-color: #14287b;
+  background-color: #2de232;
 }
 .slider-area .nivo-directionNav a.nivo-prevNav:hover:before {
   color: #ffffff !important;
@@ -831,7 +831,7 @@ h6 {
   font-weight: 700;
   color: #2de232;
   margin-bottom: 18px;
-  padding-left: 25px;
+  padding-left: 45px;
   line-height: 48px;
   width: 100%;
   font-family: 'Poppins', sans-serif;
@@ -891,7 +891,7 @@ h6 {
   font-size: 24px;
   color: #ff8201;
   margin-bottom: 20px;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 @media only screen and (max-width: 1199px) {
   .slider-area .slide-1 div.slider-sub-text,
@@ -934,7 +934,7 @@ h6 {
   color: black;
   font-weight: bold;
   margin-bottom: 20px;
-  padding-left: 30px;
+  padding-left: 50px;
   width: 40%;
 }
 @media only screen and (max-width: 1199px) {
@@ -996,7 +996,7 @@ h6 {
 }
 .slider-area .slider-btn-area {
   margin-top: 34px;
-  padding-left: 30px;
+  padding-left: 50px;
 }
 @media only screen and (max-width: 991px) {
   .slider-area .slider-btn-area {
@@ -4888,7 +4888,7 @@ ul {
   top: 50%;
   left: 0;
   right: 0;
-  transform: translateY(-50%);
+  transform: translateY(-50%) scale(1.5);
   color: #ff8201;
   font-size: 48px;
 }
@@ -4898,7 +4898,7 @@ ul {
   top: 40%;
   left: 0;
   right: 0;
-  transform: scale(1.5);
+  transform: scale(2);
   transition: all 0.3s ease-out;
 }
 

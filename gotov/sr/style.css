@@ -1222,6 +1222,16 @@ div#preloader {
 }
 
 .service-btn {
+     font-weight: 700;
+     text-transform: uppercase;
+     color: white;
+     position: relative;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 13px;
+     z-index: 2;
+ }
+
+.service-btn:hover {
     font-weight: 700;
     text-transform: uppercase;
     color: white;
@@ -1428,6 +1438,13 @@ div#preloader {
 
 .counter-area {
     background: url(img/background/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+.counter-area1 {
+    background: url(img/slider/s2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;

@@ -69,7 +69,7 @@ include "php_vendor/navbar.php";
 </div>
 <!-- END Header -->
 <!-- about-area start -->
-<div class="video-area area-padding">
+<div class="video-area area-padding" id="about-feature">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -109,10 +109,10 @@ include "php_vendor/navbar.php";
 </div>
 <!-- about-area end -->
 <!-- Start-About-feature-area -->
-<div class="about-feature area-padding">
+<div class="about-feature area-padding" >
     <div class="container">
         <div class="row">
-            <div class="about-feature">
+            <div class="about-feature" >
                 <!-- Start column -->
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single-feature">

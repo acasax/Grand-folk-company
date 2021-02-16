@@ -94,7 +94,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/4.jpg" alt="">
+                                <img src="../img/5.jpg" alt="">
                             </div>
                         </div>
                     </div>
