@@ -4876,6 +4876,7 @@ ul {
 
 .process-box-layout1 .item-bg img {
   transform: rotate(0);
+  height: 200px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -4888,9 +4889,10 @@ ul {
   top: 50%;
   left: 0;
   right: 0;
-  transform: translateY(-50%) scale(1.5);
+  transform: translateY(-50%) scale(1.2);
   color: #ff8201;
   font-size: 48px;
+
 }
 
 .process-box-layout1 .item-bg .item-icon:hover {
@@ -4898,7 +4900,7 @@ ul {
   top: 40%;
   left: 0;
   right: 0;
-  transform: scale(2);
+  transform: scale(1.7);
   transition: all 0.3s ease-out;
 }
 

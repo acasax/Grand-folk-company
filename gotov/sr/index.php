@@ -189,7 +189,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/balon.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -204,7 +204,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/soap_bubbles_PNG47.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -277,6 +277,7 @@ include "php_vendor/navbar.php";
                             </a>
                         </div>
                     </div>
+
                 </div>
 
 

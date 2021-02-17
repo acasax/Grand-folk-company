@@ -79,6 +79,7 @@
                 <div class="all-services">
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
+
                         <div class="single-service">
                             <a class="service-image" href="service/service1.php">
                                 <img src="img/servicepocetna/bg1.jpg" alt="">

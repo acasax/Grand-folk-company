@@ -1758,7 +1758,6 @@ span.dolar {
     border: none;
     border-radius: 0;
     height: 46px;
-    margin-bottom: 20px;
     width: 100%;
     padding: 6px 12px;
     color: #555;
@@ -3739,6 +3738,20 @@ span.slugan {
 
 .bg-color {
     background: #fafafa;
+}
+
+
+/*--------- custom ----------*/
+
+.boja {
+    color: white;
+}
+
+label.error {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: red;
+    font-size: 17px;
 }
 
 

@@ -33,6 +33,8 @@
     <!-- responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
 
+    <link rel="stylesheet" href="assets/vendor/swall/sweetalert.css">
+
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
@@ -75,26 +77,34 @@ include "php_vendor/navbar.php";
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="row">
-                            <form id="contactForm" method="POST" action="contact.php" class="contact-form">
+                            <form id="contactForm" method="post" enctype="multipart/form-data"  class="contact-form">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <input type="text" id="name" class="form-control" placeholder="Name" required data-error="Please enter your name">
-                                    <div class="help-block with-errors"></div>
-                                    <input type="email" class="email form-control" id="email" placeholder="Email" required data-error="Please enter your email">
-                                    <div class="help-block with-errors"></div>
-                                    <input type="number" class="form-control" id="phone" placeholder="phone number" required data-error="Please enter your Phone number">
-                                    <div class="help-block with-errors"></div>
-                                    <select>
-                                        <option value="position">Hemstädning</option>
-                                        <option value="position">Storstädning</option>
-                                        <option value="position">Flyttstädning</option>
-                                        <option value="position">Fönsterputs</option>
-                                        <option value="position">Fastighetsskötsel</option>
-                                        <option value="position">Kontorsstädning</option>
+                                    <label for="name" class="boja">Please enter your name</label>
+                                    <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
+                                    <br>
+                                    <label for="email" class="boja">Please enter your email</label>
+                                    <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                                    <br>
+                                    <label for="phone" class="boja">Please enter your Phone number</label>
+                                    <input type="number" class="form-control" id="phone" name="phone" placeholder="phone number" onblur="$(this).valid()">
+                                    <br>
+                                    <label for="service" class="boja">Please chose service</label>
+                                    <select id="service" name="service">
+                                        <option value="1">Hemstädning</option>
+                                        <option value="2">Storstädning</option>
+                                        <option value="3">Flyttstädning</option>
+                                        <option value="4">Fönsterputs</option>
+                                        <option value="5">Fastighetsskötsel</option>
+                                        <option value="6">Kontorsstädning</option>
                                     </select>
-                                    <div class="help-block with-errors"></div>
+
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <textarea id="message" rows="7" placeholder="Massage" class="form-control" required data-error="Write your message"></textarea>
+                                    <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
+                                    <input type="number" class="form-control" id="space" name="space" placeholder="phone number" onblur="$(this).valid()">
+                                    <br>
+                                    <label for="message" class="boja">Write your message</label>
+                                    <textarea id="message" rows="7" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message" ></textarea>
                                     <div class="help-block with-errors"></div>
                                     <button type="submit" id="submit" class="quote-btn">Submit</button>
                                     <div id="msgSubmit" class="h3 text-center hidden"></div>
@@ -117,12 +127,18 @@ include "php_vendor/footer.php";
 ?>
 
 
-<!-- all js here -->
-
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
 <!-- bootstrap js -->
 <script src="js/bootstrap.min.js"></script>
+
+<script type="text/javascript" language="javascript" src="js/reservate.js"></script>
+<script type="text/javascript" language="javascript" src="assets/vendor/swall/sweetalert.js" ></script>
+
+<script src="assets/vendor/form-validation/jquery.form.js"></script>
+<script src="assets/vendor/form-validation/jquery.validate.min.js"></script>
+
+<script src="assets/vendor/swall/sweetalert.js"></script>
 <!-- owl.carousel js -->
 <script src="js/owl.carousel.min.js"></script>
 <!-- Counter js -->
@@ -143,8 +159,7 @@ include "php_vendor/footer.php";
 <script src="js/form-validator.min.js"></script>
 <!-- plugins js -->
 <script src="js/plugins.js"></script>
-<!-- main js -->
-<script src="js/main.js"></script>
+
 </body>
 
 </html>
