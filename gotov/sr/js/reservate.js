@@ -23,6 +23,12 @@ $(document).ready(function() {
                 phone: {
                     required: true,
                 },
+                space: {
+                    required: true,
+                },
+                time: {
+                    required: true,
+                },
                 message: {
                     required: true,
                 }
@@ -36,6 +42,12 @@ $(document).ready(function() {
                 },
                 phone: {
                     required: 'Please enter your Phone number',
+                },
+                space: {
+                    required: 'Please enter your space for cleaning (m2)',
+                },
+                time: {
+                    required: 'Please enter your time for cleaning (h)',
                 },
                 message: {
                     required: 'Write your message',

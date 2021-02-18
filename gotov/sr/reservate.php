@@ -81,13 +81,10 @@ include "php_vendor/navbar.php";
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <label for="name" class="boja">Please enter your name</label>
                                     <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
-                                    <br>
                                     <label for="email" class="boja">Please enter your email</label>
                                     <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
-                                    <br>
                                     <label for="phone" class="boja">Please enter your Phone number</label>
                                     <input type="number" class="form-control" id="phone" name="phone" placeholder="phone number" onblur="$(this).valid()">
-                                    <br>
                                     <label for="service" class="boja">Please chose service</label>
                                     <select id="service" name="service">
                                         <option value="1">Hemstädning</option>
@@ -97,14 +94,22 @@ include "php_vendor/navbar.php";
                                         <option value="5">Fastighetsskötsel</option>
                                         <option value="6">Kontorsstädning</option>
                                     </select>
-
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <label for="city" class="boja">Please chose location</label>
+                                    <select id="city" name="city">
+                                        <option value="1">Landskrona</option>
+                                        <option value="2">Helsingborg</option>
+                                        <option value="3">Vesteros</option>
+                                        <option value="4">Malme</option>
+
+                                    </select>
                                     <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
-                                    <input type="number" class="form-control" id="space" name="space" placeholder="phone number" onblur="$(this).valid()">
-                                    <br>
+                                    <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()">
+                                    <label for="time" class="boja">Please enter your time for cleaning (h)</label>
+                                    <input type="number" class="form-control" id="time" name="time" placeholder="" onblur="$(this).valid()">
                                     <label for="message" class="boja">Write your message</label>
-                                    <textarea id="message" rows="7" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message" ></textarea>
+                                    <textarea id="message" rows="5" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message" ></textarea>
                                     <div class="help-block with-errors"></div>
                                     <button type="submit" id="submit" class="quote-btn">Submit</button>
                                     <div id="msgSubmit" class="h3 text-center hidden"></div>
