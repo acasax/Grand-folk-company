@@ -189,7 +189,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/balon.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -204,7 +204,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/soap_bubbles_PNG47.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -249,6 +249,17 @@ include "php_vendor/navbar.php";
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/bg1.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service1.php">Hemstädning</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--
                     <div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/1.jpg">
@@ -260,12 +271,22 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/1.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service2.php">Storstädning</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
                                 <img src="img/servicepocetna/1.jpg" alt=""/>
@@ -276,7 +297,7 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
 
                 </div>
 
@@ -284,7 +305,17 @@ include "php_vendor/navbar.php";
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/2.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service3.php">Flyttstädning</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/2.jpg">
                                 <img src="img/servicepocetna/2.jpg" alt=""/>
@@ -295,11 +326,21 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
 
                 <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/5.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service5.php">Fastighetsskötsel</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
                                 <img src="img/servicepocetna/5.jpg" alt=""/>
@@ -310,13 +351,23 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
 
                 </div>
 
 
                 <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/prozor.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service4.php">Fönsterputs</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/3.jpg">
                                 <img src="img/servicepocetna/prozor.jpg" alt=""/>
@@ -327,12 +378,22 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/4.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service6.php">Kontorsstädning</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
                                 <img src="img/servicepocetna/4.jpg" alt=""/>
@@ -343,11 +404,22 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
+
                 </div>
 
                 <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
+                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/ciscenje-prozora-5.jpg">
+                            </div>
+                            <div class="back">
+                                <a class="back-title" href="service/service4.php">Fönsterputs</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="single-awesome-project">
                         <div class="awesome-img">
                             <a class="venobox" data-gall="myGallery" href="img/3.jpg">
                                 <img src="img/servicepocetna/ciscenje-prozora-5.jpg" alt=""/>
@@ -358,7 +430,7 @@ include "php_vendor/navbar.php";
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>

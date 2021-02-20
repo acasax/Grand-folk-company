@@ -22,7 +22,7 @@
                     <div class="footer-content">
                         <div class="footer-head">
                             <div class="footer-logo">
-                                <a href="#"><h1 style="color: white;">Company logo</h1></a>
+                                <a href="#"><h1 style="color: white;"> <img src="img/logo/Glada%20Folk%20Company%20logo.png" style="height: 150px"></a>
                             </div>
                             <p>Naš cilj je da se vi kao kupac uvek osećate potpuno zadovoljni nakon što smo bili s vama. Kao deo ovoga, imamo garanciju zadovoljstva kupaca za izvršene zadatke.</p>
 

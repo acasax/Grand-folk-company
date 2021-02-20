@@ -217,14 +217,7 @@ include "../php_vendor/navbarservice.php";
                 </div>
 
                 <div class="row mar-row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="single-page">
-                            <div class="page-img elec-page">
-                                <img src="../img/8.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-well">
                             <h4>Vad ingår inte i flyttstädningen?</h4>
                             <p>Det finns olika uppfattningar om vad som ska ingå i en flyttstädning. Det kan vara bra att veta följande:</p>

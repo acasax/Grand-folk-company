@@ -100,9 +100,11 @@ include "php_vendor/navbar.php";
                                     <select id="city" name="city">
                                         <option value="1">Landskrona</option>
                                         <option value="2">Helsingborg</option>
-                                        <option value="3">Vesteros</option>
-                                        <option value="4">Malme</option>
-
+                                        <option value="3">Ängelholm</option>
+                                        <option value="4">Löddeköpinge</option>
+                                        <option value="5">Lund</option>
+                                        <option value="6">Malmö</option>
+                                        <option value="7">Omgivande platser</option>
                                     </select>
                                     <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
                                     <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()">
