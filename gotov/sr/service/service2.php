@@ -44,7 +44,7 @@
 include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(../img/background/3.jpeg);
+<div class="page-area" style="background: url(../img/background/b.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;

@@ -1446,7 +1446,7 @@ div#preloader {
 }
 
 .counter-area1 {
-    background: url(img/slider/s2.jpg);
+    background: url(img/background/2.jpeg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -3739,10 +3739,10 @@ span.slugan {
     background: #2de232;
 }
 
-.services-4 .service-content:hover {
+/*.services-4 .service-content:hover {
    transform: scale(1.2);
     transition: 0.3s;
-}
+}*/
 
 
 .bg-color {
@@ -3822,9 +3822,9 @@ label.error {
     -moz-transform: rotateY(180deg);
     -o-transform: rotateY(180deg);
     transform: rotateY(180deg);
-
     background: #2de232;
 }
+
 
 .front .name {
     font-size: 2em;
@@ -3853,9 +3853,64 @@ label.error {
     left: 0;
     right: 0;
     text-align: center;
-    text-shadow: 0.1em 0.1em 0.05em #acd7e5;
     font-family: Courier;
     font-size: 2em;
+}
+
+.back-title1 {
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: Courier;
+    font-size: 2em;
+}
+
+.back-title2 {
+     font-weight: bold;
+     color: green;
+     position: absolute;
+     top: 100px;
+     left: 0;
+     right: 0;
+     text-align: center;
+     font-family: Courier;
+     font-size: 2em;
+ }
+
+.back-title3 {
+    font-weight: bold;
+    color: darkslateblue;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: Courier;
+    font-size: 2em;
+}
+
+.back-title:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.back-title1:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.back-title2:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.back-title3:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
 }
 
 .back p {

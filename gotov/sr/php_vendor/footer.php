@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                    <h4>Da li tražite profesionalne usluge čišćenja za svoj prostor?</h4>
+                    <h4>Da li tražite profesionalne usluge čišćenja za svoj prostor ?</h4>
                     <div class="banner-contact">
                         <span class="call-us"><i class="icon icon-phone-handset"></i>Pozovite: +1313-4325432 </span><span>ili</span>
                         <a class="banner-btn" href="contact.php">Kontaktirajte</a>

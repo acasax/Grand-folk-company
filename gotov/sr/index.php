@@ -146,10 +146,10 @@ include "php_vendor/navbar.php";
                         </div>
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="about.php#about-feature"><i class="icon icon-thumbs-up"></i></a>
+                                <a href="about.php#vizija"><i class="icon icon-thumbs-up"></i></a>
                                 <h5>Vizija</h5>
                             </div>
-                            <p>Minimalna cena. Mnoge ponude i brze usluge.</p>
+                            <p>Mnoge ponude i brze usluge.</p>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2 counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<section class="section-padding-lg-2 counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
             <h2>Kako mi radimo</h2>
@@ -282,7 +282,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/1.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service2.php">Storstädning</a>
+                                <a class="back-title1" href="service/service2.php">Storstädning</a>
                             </div>
                         </div>
                     </div>
@@ -311,7 +311,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/2.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service3.php">Flyttstädning</a>
+                                <a class="back-title2" href="service/service3.php">Flyttstädning</a>
                             </div>
                         </div>
                     </div>
@@ -336,7 +336,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/5.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service5.php">Fastighetsskötsel</a>
+                                <a class="back-title3" href="service/service5.php">Fastighetsskötsel</a>
                             </div>
                         </div>
                     </div>
@@ -362,7 +362,7 @@ include "php_vendor/navbar.php";
                             <div class="front">
                                 <img src="img/servicepocetna/prozor.jpg">
                             </div>
-                            <div class="back">
+                            <div class="back" style="background: green">
                                 <a class="back-title" href="service/service4.php">Fönsterputs</a>
                             </div>
                         </div>
@@ -440,7 +440,7 @@ include "php_vendor/navbar.php";
 
 <!-- End portfolio Area -->
 <!-- Start Counter area -->
-<div class="counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<div class="counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
