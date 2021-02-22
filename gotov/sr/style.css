@@ -253,7 +253,7 @@ div#preloader {
 }
 
 .color {
-    color: #2de232;
+    color: darkgreen;
     font-weight: 900;
 }
 
@@ -282,7 +282,7 @@ div#preloader {
 }
 
 .section-headline h3 {
-    color: #2de232;
+    color: darkgreen;
     display: inline-block;
     font-size: 30px;
     font-weight: 700;
@@ -290,7 +290,7 @@ div#preloader {
 }
 
 .section-headline.white-headline h3 {
-    color: #fff;
+    color: #2de232;
 }
 
 .section-headline.text-left {
@@ -553,14 +553,15 @@ div#preloader {
     font-family: 'Montserrat', sans-serif;
     margin: 0px 15px;
     position: relative;
+
 }
 
 .main-menu ul.navbar-nav>li>a::before {
     background: #2de232;
     content: "";
-    height: 2px;
+    height: 4px;
     position: absolute;
-    top: 0;
+    bottom: 0;
     width: 0;
     transition: .5s;
 }
@@ -1229,25 +1230,11 @@ div#preloader {
      font-family: 'Montserrat', sans-serif;
      font-size: 13px;
      z-index: 2;
+    border-bottom: 2px solid white;
 }
 
-.service-btn-1 {
-    font-weight: 700;
-    text-transform: uppercase;
-    color: white;
-    position: relative;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 13px;
-    z-index: 2;
-}
-
-.service-btn-1:hover {
-    transform: scale(1.5);
-    transition: all 0.3s ease-in-out 0.1s;
-}
-
-.service-btn:hover {
-    transform: scale(1.2);
+.service-content:hover {
+    transform: scale(1.1);
     transition: all 0.3s ease-in-out 0.1s;
 }
 
@@ -2373,7 +2360,7 @@ span.dolar {
 
 .breadcrumb ul li {
     display: inline-block;
-    color: #fff;
+    color: #ff8201;
     padding: 0px 10px 0px 20px;
     position: relative;
     font-size: 16px;
@@ -3739,10 +3726,11 @@ span.slugan {
     background: #2de232;
 }
 
-/*.services-4 .service-content:hover {
-   transform: scale(1.2);
+.services-4 .service-content:hover {
+   transform: scale(1.1);
+    background: #ff8201;
     transition: 0.3s;
-}*/
+}
 
 
 .bg-color {

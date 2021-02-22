@@ -83,7 +83,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-inner text-center">
                     <div class="video-content">
-                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+                        <a href="https://www.youtube.com/watch?v=HGUQmTyUurI" class="video-play vid-zone">
                             <i class="fa fa-play"></i>
                         </a>
                     </div>

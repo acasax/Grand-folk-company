@@ -45,7 +45,11 @@
     ?>
     <!-- header end -->
     <!-- Start Bottom Header -->
-    <div class="page-area" style="background: url(img/background/b.jpg);">
+    <div class="page-area" style="background: url(img/background/b.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;">
         <div class="breadcumb-overlay"></div>
         <div class="container">
             <div class="row">
@@ -84,7 +88,7 @@
                             <a class="service-image" href="service/service1.php">
                                 <img src="img/servicepocetna/bg1.jpg" alt="">
                             </a>
-                            <div class="service-content">
+                            <div class="service-content" style="background: darkgreen">
                                 <h4>Hemstädning</h4>
                                 <a class="service-btn" href="service/service1.php">read more</a>
                             </div>
@@ -92,10 +96,10 @@
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service2.php">
+                            <a class="service-image" href="service/service2.php" >
                                 <img src="img/servicepocetna/1.jpg" alt="">
                             </a>
-                            <div class="service-content">
+                            <div class="service-content" style="background: darkgreen">
                                 <h4>Storstädning</h4>
                                 <a class="service-btn" href="service/service2.php">read more</a>
                             </div>
@@ -107,7 +111,7 @@
                             <a class="service-image" href="service/service3.php">
                                 <img src="img/servicepocetna/2.jpg" alt="">
                             </a>
-                            <div class="service-content">
+                            <div class="service-content" style="background: darkgreen">
                                 <h4>Flyttstädning</h4>
                                 <a class="service-btn" href="service/service3.php">read more</a>
                             </div>
