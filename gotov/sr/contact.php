@@ -54,9 +54,9 @@
                         <div class="section-headline white-headline text-center">
                             <h3>Glada folk company</h3>
                         </div>
-                        <ul>
+                        <!--<ul>
                             <li>Kontakt</li>
-                        </ul>
+                        </ul>-->
                     </div>
                 </div>
             </div>

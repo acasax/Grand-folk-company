@@ -255,7 +255,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/bg1.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service1.php">Hemstädning</a>
+                                <a class="back-title1" href="service/service1.php">Hemstädning</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -283,6 +285,8 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service2.php">Storstädning</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -311,7 +315,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/2.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title2" href="service/service3.php">Flyttstädning</a>
+                                <a class="back-title1" href="service/service3.php">Flyttstädning</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -336,7 +342,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/5.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title3" href="service/service5.php">Fastighetsskötsel</a>
+                                <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -362,8 +370,10 @@ include "php_vendor/navbar.php";
                             <div class="front">
                                 <img src="img/servicepocetna/prozor.jpg">
                             </div>
-                            <div class="back" style="background: green">
-                                <a class="back-title" href="service/service4.php">Fönsterputs</a>
+                            <div class="back">
+                                <a class="back-title1" href="service/service4.php">Fönsterputs</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -389,7 +399,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/4.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service6.php">Kontorsstädning</a>
+                                <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -415,7 +427,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/ciscenje-prozora-5.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title" href="service/service4.php">Fönsterputs</a>
+                                <a class="back-title1" href="service/service4.php">Fönsterputs</a>
+                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>

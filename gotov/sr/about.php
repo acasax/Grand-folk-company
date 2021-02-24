@@ -46,7 +46,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(img/background/b.jpg);
+<!--<div class="page-area" style="background: url(img/background/b.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,7 +66,7 @@ include "php_vendor/navbar.php";
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- END Header -->
 <!-- about-area start -->
 <div class="video-area area-padding" id="about-feature">

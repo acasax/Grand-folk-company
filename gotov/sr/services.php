@@ -45,7 +45,7 @@
     ?>
     <!-- header end -->
     <!-- Start Bottom Header -->
-    <div class="page-area" style="background: url(img/background/b.jpg);
+    <!--<div class="page-area" style="background: url(img/background/b.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -65,7 +65,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- END Header -->
     <!-- service-area end -->
     <!-- Start Service area -->

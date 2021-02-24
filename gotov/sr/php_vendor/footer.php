@@ -54,20 +54,20 @@
                             <div class="footer-icons">
                                 <h5>Zapratite nas</h5>
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                    <li><a href="#"><!--<i class="fa fa-google"></i>--><img src="img/ikonice/insta.ico"></a></li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-facebook"></i>
+                                            <img src="img/ikonice/output-onlinepngtools(1).png">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-twitter"></i>
+                                            <img src="img/ikonice/slikatwitter.png">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-instagram"></i>
+                                            <img src="img/ikonice/facebbok.png">
                                         </a>
                                     </li>
                                 </ul>
