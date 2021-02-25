@@ -37,7 +37,7 @@
                 <div class="col-md-3 col-sm-3">
                     <div class="logo">
                         <!-- Brand -->
-                        <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                        <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                             <img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt="" style="height: 58px;">
                         </a>
                     </div>

@@ -249,9 +249,8 @@ include "../php_vendor/navbarservice.php";
 <!-- End page Area -->
 <!-- Start Footer bottom Area -->
 <?php
-include "../php_vendor/footer.php";
+include "../php_vendor/footerservice.php";
 ?>
-
 <!-- all js here -->
 
 <!-- jquery latest version -->

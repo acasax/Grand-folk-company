@@ -96,10 +96,10 @@ include "php_vendor/navbar.php";
                        Naša misija je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
-                        <li>Povećanje zadovoljstva naših klijenata,neprestano osluškujući njihove potrebe</li>
-                        <li>Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal</li>
-                        <li>Stalni razvoj i istraživanje novih poslovnih mogućnosti</li>
-                        <li>Konstantna optimizacija troškova kada su u pitanju procesi rada</li>
+                        <li><i class="fas fa-check-circle"></i> Povećanje zadovoljstva naših klijenata,neprestano osluškujući njihove potrebe</li>
+                        <li><i class="fas fa-check-circle"></i> Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal</li>
+                        <li><i class="fas fa-check-circle"></i> Stalni razvoj i istraživanje novih poslovnih mogućnosti</li>
+                        <li><i class="fas fa-check-circle"></i> Konstantna optimizacija troškova kada su u pitanju procesi rada</li>
                     </ul>
                 </div>
             </div>

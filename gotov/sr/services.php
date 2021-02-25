@@ -85,83 +85,153 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
 
                         <div class="single-service">
-                            <a class="service-image" href="service/service1.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service1.php">
+                                    <img src="img/servicepocetna/bg1.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Hemstädning</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service1.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service1.php">
                                 <img src="img/servicepocetna/bg1.jpg" alt="">
                             </a>
                             <div class="service-content" style="background: darkgreen">
                                 <h4>Hemstädning</h4>
                                 <a class="service-btn" href="service/service1.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service2.php" >
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service2.php">
+                                    <img src="img/servicepocetna/1.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Storstädning</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service2.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service2.php" >
                                 <img src="img/servicepocetna/1.jpg" alt="">
                             </a>
                             <div class="service-content" style="background: darkgreen">
                                 <h4>Storstädning</h4>
                                 <a class="service-btn" href="service/service2.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service3.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service3.php">
+                                    <img src="img/servicepocetna/2.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Flyttstädning</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service3.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service3.php">
                                 <img src="img/servicepocetna/2.jpg" alt="">
                             </a>
                             <div class="service-content" style="background: darkgreen">
                                 <h4>Flyttstädning</h4>
                                 <a class="service-btn" href="service/service3.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service4.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service4.php">
+                                    <img src="img/servicepocetna/prozor.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Fönsterputs</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service4.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service4.php">
                                 <img src="img/servicepocetna/prozor.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fönsterputs</h4>
                                 <a class="service-btn" href="service/service4.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service5.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service5.php">
+                                    <img src="img/servicepocetna/5.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Fastighetsskötsel</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service5.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service5.php">
                                 <img src="img/servicepocetna/5.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fastighetsskötsel</h4>
                                 <a class="service-btn" href="service/service5.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service6.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service6.php">
+                                    <img src="img/servicepocetna/4.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Kontorsstädning</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service6.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service6.php">
                                 <img src="img/servicepocetna/4.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Kontorsstädning</h4>
                                 <a class="service-btn" href="service/service6.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-service">
-                            <a class="service-image" href="service/service4.php">
+                            <div class="card" style="width: 100%;">
+                                <a class="service-image" href="service/service4.php">
+                                    <img src="img/servicepocetna/ciscenje-prozora-5.jpg" alt="">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">Fönsterputs</h5>
+                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
+                                    <a href="service/service4.php" class="btn btn-primary">READ MORE</a>
+                                </div>
+                            </div>
+                            <!--<a class="service-image" href="service/service4.php">
                                 <img src="img/servicepocetna/ciscenje-prozora-5.jpg" alt="">
                             </a>
                             <div class="service-content">
                                 <h4>Fönsterputs</h4>
                                 <a class="service-btn" href="service/service4.php">read more</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
 
