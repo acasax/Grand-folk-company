@@ -255,7 +255,7 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/bg1.jpg">
                             </div>
                             <div class="back">
-                                <h1 class="back-title1">Hemstädning</h1>
+                                <a class="back-title1" href="service/service1.php">Hemstädning</a>
                                 <p>Den återkommande städningen kallar vi veckostädning</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>

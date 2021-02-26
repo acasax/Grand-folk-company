@@ -21,7 +21,7 @@
                             <li><a href="#" ><img src="../img/ikonice/output-onlinepngtools(1).png"></a></li>
                             <li><a href="#" ><img src="../img/ikonice/facebbok.png"></a></li>
                             <li><a href="#" ><img src="../img/ikonice/slikatwitter.png"></a></li>
-                            <li><a href="#" ><img src="../img/ikonice/insta.ico"></a></li>
+                            <li><a href="#" ><img src="img/ikonice/iconfinder_instagram_6636603.png"></a></li>
                         </ul>
                     </div>
                 </div>

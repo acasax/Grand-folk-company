@@ -91,7 +91,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Hemstädning</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service1.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -112,7 +111,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Storstädning</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service2.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -134,7 +132,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Flyttstädning</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service3.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -155,7 +152,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Fönsterputs</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service4.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -177,7 +173,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Fastighetsskötsel</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service5.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -199,7 +194,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Kontorsstädning</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service6.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>
@@ -221,7 +215,6 @@
                                 </a>
                                 <div class="card-body">
                                     <h5 class="card-title">Fönsterputs</h5>
-                                    <p class="card-text">Den återkommande städningen kallar vi veckostädning</p>
                                     <a href="service/service4.php" class="btn btn-primary">READ MORE</a>
                                 </div>
                             </div>

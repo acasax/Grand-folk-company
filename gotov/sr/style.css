@@ -402,9 +402,8 @@ div#preloader {
 }
 
 .topbar-right ul li a:hover {
-    color: #fff;
-    border: 1px solid #2de232;
-    background: #2de232;
+    transform: scale(1.1);
+    transition: 0.3s;
 }
 
 .topbar-right ul li a {
@@ -1952,9 +1951,9 @@ span.dolar {
 }
 
 .banner-btn:hover {
-    background: transparent;
-    border: 1px solid #fff;
-    color: #fff;
+   transform: scale(1.1);
+    transition: 0.3ms;
+    color: #2de232;
 }
 
 .banner-content h4 {
@@ -2038,11 +2037,10 @@ span.dolar {
     border-radius: 2px;
 }
 
-/*.footer-icons ul li a:hover {
-    color: #2de232;
-    background: transparent;
-    border: 1px solid #2de232;
-}*/
+.footer-icons ul li a:hover {
+   transform: scale(1.1);
+    transition: 0.3ms;
+}
 
 .footer-icons {
     margin-top: 30px;
@@ -3882,10 +3880,12 @@ label.error {
     color: white;
     line-height: 2em;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 .back .a:hover {
     transform: scale(1.2);
+
     transition: 0.3s;
 }
 
@@ -3907,16 +3907,16 @@ label.error {
 }
 
 .card-body a{
-    background: darkgreen;
+    background: #2de232 ;
     border: none;
-    margin-bottom: 2px;
+    margin-bottom: 6px;
 }
 
 .card-body a:hover{
-    background: #2de232 ;
-    border: 1px solid white;
-    margin-bottom: 0px;
-    transition: 0.1s;
+    transform: scale(1.1);
+    background: #2de232;
+    border-bottom: 3px solid white;
+    margin-bottom: 3px;
 }
 
 /*----------------------------------------

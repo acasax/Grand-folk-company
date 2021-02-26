@@ -54,7 +54,7 @@
                             <div class="footer-icons">
                                 <h5>Zapratite nas</h5>
                                 <ul>
-                                    <li><a href="#"><!--<i class="fa fa-google"></i>--><img src="img/ikonice/insta.ico"></a></li>
+                                    <li><a href="#"><!--<i class="fa fa-google"></i>--><img src="img/ikonice/iconfinder_instagram_6636603.png"></a></li>
                                     <li>
                                         <a href="#">
                                             <img src="img/ikonice/output-onlinepngtools(1).png">
