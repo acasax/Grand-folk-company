@@ -304,7 +304,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
-                                <p>Ciscenje unutrasnjosti zgrada ( stepenista, ulaza, lifrova itd.)</p>
+                                <p>Ciscenje unutrasnjosti zgrada</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
@@ -351,7 +351,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
-                                <p>Ciscenje prozora u Vasem poslovnom prostoru</p>
+                                <p>Ciscenje prozora u poslovnom prostoru</p>
                                 <a class="a" href="service/service4.php">Read more</a>
                             </div>
                         </div>

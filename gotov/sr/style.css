@@ -3850,7 +3850,7 @@ label.error {
     font-weight: bold;
     color: white;
     position: absolute;
-    top: 60px;
+    top: 75px;
     left: 0;
     right: 0;
     text-align: center;
@@ -3865,7 +3865,7 @@ label.error {
 
 .back p {
     position: absolute;
-    bottom: 50px;
+    bottom: 65px;
     left: 0;
     right: 0;
     text-align: center;
