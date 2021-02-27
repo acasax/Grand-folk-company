@@ -256,24 +256,11 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service1.php">Hemstädning</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Redovno ciscenje Vaseg doma</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/service/1.jpg">
-                                <img src="img/servicepocetna/bg1.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service1.php"><h4>Hemstädning</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
@@ -285,26 +272,12 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service2.php">Storstädning</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Detaljno i kompletno ciscenje Vaseg doma</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
-                                <img src="img/servicepocetna/1.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service2.php"><h4>Storstädning</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
-
                 </div>
-
 
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
@@ -316,23 +289,11 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service3.php">Flyttstädning</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Ciscenje prostora posle iseljena</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/service/2.jpg">
-                                <img src="img/servicepocetna/2.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service3.php"><h4>Flyttstädning</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
                 </div>
 
                 <div class="project-single all-padding commercial">
@@ -343,24 +304,11 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Ciscenje unutrasnjosti zgrada ( stepenista, ulaza, lifrova itd.)</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/service/4.jpg">
-                                <img src="img/servicepocetna/5.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service5.php"><h4>Fastighetsskötsel</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
-
                 </div>
 
 
@@ -372,23 +320,11 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Ciscenje prostora u Vasem domu</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
-                                <img src="img/servicepocetna/prozor.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
@@ -400,51 +336,26 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
+                                <p>Cisecenje kancelarija i poslovnog prostora</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
-                                <img src="img/servicepocetna/4.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service6.php"><h4>Kontorsstädning</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
-
                 </div>
 
                 <div class="project-single all-padding commercial">
                     <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/ciscenje-prozora-5.jpg">
+                                <img src="img/servicepocetna/7.jpg">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
-                                <p>Den återkommande städningen kallar vi veckostädning</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <p>Ciscenje prozora u Vasem poslovnom prostoru</p>
+                                <a class="a" href="service/service4.php">Read more</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/3.jpg">
-                                <img src="img/servicepocetna/ciscenje-prozora-5.jpg" alt=""/>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a href="service/service4.php"><h4>Fönsterputs</h4></a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>-->
                 </div>
             </div>
         </div>

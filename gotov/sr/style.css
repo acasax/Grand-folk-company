@@ -501,12 +501,13 @@ div#preloader {
     display: inline-block;
     border: 1px solid #2de232;
     padding: 10px 20px;
+    border-radius: 10px;
 }
 
 .quote-btn:hover {
-    color: #2de232;
-    background: #fff;
-    border: 1px solid #2de232;
+    color: white;
+    background: darkgreen;
+    border: 1px solid darkgreen;
 }
 
 
@@ -1213,6 +1214,7 @@ div#preloader {
     display: block;
     overflow: hidden;
     height: 200px;
+    border-radius: 20px 20px 0 0;
 }
 
 .service-image img {
@@ -1947,13 +1949,15 @@ span.dolar {
     font-weight: 700;
     font-size: 20px;
     background: #fff;
-    border-radius: 2px;
+    border-radius: 10px;
 }
 
 .banner-btn:hover {
-   transform: scale(1.1);
+   transform: scale(1.05);
     transition: 0.3ms;
-    color: #2de232;
+    color: white;
+    background: darkgreen;
+    border: 1px solid darkgreen;
 }
 
 .banner-content h4 {
@@ -2070,7 +2074,7 @@ span.dolar {
     color: #fff;
     font-size: 18px;
     padding: 11px 20px;
-    border-radius: 2px;
+    border-radius: 10px;
     transition: 0.4s;
     margin-top: 15px;
     text-transform: capitalize;
@@ -2335,7 +2339,7 @@ span.dolar {
 }
 
 .breadcrumb {
-    padding: 130px 0px;
+    padding: 160px 0px;
     background-color: transparent;
     margin-bottom: 0;
 }
@@ -2354,11 +2358,13 @@ span.dolar {
 }
 
 .breadcrumb ul li {
+    max-width: 650px;
     display: inline-block;
-    color: #ff8201;
-    padding: 0px 10px 0px 20px;
+    color: white;
+    padding: 0 10px 0 20px;
+    font-weight: bold;
     position: relative;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .breadcrumb ul li.home-bread {
@@ -2373,9 +2379,9 @@ span.dolar {
     top: 0;
 }
 
-.breadcrumb .section-headline h3 {
-    font-size: 34px;
-    line-height: 38px;
+.breadcrumb .section-headline h1 {
+    font-size: 40px !important;
+    line-height: 38px !important;
 }
 
 
@@ -3806,12 +3812,18 @@ label.error {
     z-index: 2;
 }
 
+.front img {
+    border-radius: 10px;
+}
+
+
 .back {
     -webkit-transform: rotateY(180deg);
     -moz-transform: rotateY(180deg);
     -o-transform: rotateY(180deg);
     transform: rotateY(180deg);
     background: #2de232;
+    border-radius: 10px;
 }
 
 
@@ -3864,11 +3876,6 @@ label.error {
     font-weight: bold;
 }
 
-.back p:hover {
-    transform: scale(1.2);
-    transition: 0.3s;
-}
-
 .back .a {
     position: absolute;
     bottom: 30px;
@@ -3893,13 +3900,15 @@ label.error {
 
 .card-body {
     background: #2de232;
-    padding: 15px 10px;
+    padding: 20px 10px;
+    border-radius: 0 0 20px 20px;
 }
 
 .card-title {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
+    margin: 5px 0 ;
 }
 
 .card-text {
@@ -3909,15 +3918,15 @@ label.error {
 .card-body a{
     background: #2de232 ;
     border: none;
-    margin-bottom: 6px;
 }
 
 .card-body a:hover{
     transform: scale(1.1);
     background: #2de232;
-    border-bottom: 3px solid white;
-    margin-bottom: 3px;
+    text-decoration: underline;
+    font-weight: bold;
 }
+
 
 /*----------------------------------------
  .End CSS

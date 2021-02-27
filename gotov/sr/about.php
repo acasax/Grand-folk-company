@@ -81,13 +81,14 @@ include "php_vendor/navbar.php";
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
-                <div class="video-inner text-center">
+                <!--<div class="video-inner text-center">
                     <div class="video-content">
-                        <a href="https://www.youtube.com/watch?v=HGUQmTyUurI" class="video-play vid-zone">
-                            <i class="fa fa-play"></i>
-                        </a>
+                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+                           <i class="fa fa-play"></i>
+                       </a>
                     </div>
-                </div>
+                </div>-->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
@@ -163,7 +164,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>Naš tim</h3>
-                    <pUsavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal.</p>
+                    <p>Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal.</p>
                 </div>
             </div>
         </div>

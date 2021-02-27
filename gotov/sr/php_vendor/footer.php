@@ -53,21 +53,25 @@
                             </div>
                             <div class="footer-icons">
                                 <h5>Zapratite nas</h5>
-                                <ul>
-                                    <li><a href="#"><!--<i class="fa fa-google"></i>--><img src="img/ikonice/iconfinder_instagram_6636603.png"></a></li>
+                                <ul style="height: 120px; padding-left: 5px">
+                                    <li>
+                                        <a href="#">
+                                            <img src="img/ikonice/iconfinder_25_social_2609558.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="img/ikonice/iconfinder_facebook_386622.png">
+                                        </a>
+                                    </li>
                                     <li>
                                         <a href="#">
                                             <img src="img/ikonice/output-onlinepngtools(1).png">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img src="img/ikonice/slikatwitter.png">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img src="img/ikonice/facebbok.png">
                                         </a>
                                     </li>
                                 </ul>
