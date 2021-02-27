@@ -139,7 +139,7 @@ include "php_vendor/navbar.php";
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="about.php#about-feature"><i class="icon icon-gift"></i></a>
+                                <a href="about.php#vizija"><i class="icon icon-gift"></i></a>
                                 <h5>Misija</h5>
                             </div>
                             <p>Čisto i uredno je naša misija. To je garancija.</p>
@@ -304,7 +304,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
-                                <p>Ciscenje unutrasnjosti zgrada</p>
+                                <p>Ciscenje unutrasnjosti zgrada (stepenista, ulaza, lifta itd.)</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
@@ -320,7 +320,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
-                                <p>Ciscenje prostora u Vasem domu</p>
+                                <p>Ciscenje prozora u Vasem domu</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>
