@@ -66,7 +66,7 @@ include "php_vendor/navbar.php";
 </div>
 <!-- END Header -->
 <!-- about-area start -->
-<div class="video-area area-padding">
+<div class="video-area area-padding" id="misija">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">

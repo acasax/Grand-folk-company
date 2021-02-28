@@ -139,7 +139,7 @@ include "php_vendor/navbar.php";
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="about.php#vizija"><i class="icon icon-gift"></i></a>
+                                <a href="about.php#misija"><i class="icon icon-gift"></i></a>
                                 <h5>Misija</h5>
                             </div>
                             <p>Čisto i uredno je naša misija. To je garancija.</p>

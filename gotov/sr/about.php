@@ -46,7 +46,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<!--<div class="page-area" style="background: url(img/background/b.jpg);
+<div class="page-area" style="background: url(img/background/1.jpeg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,50 +57,55 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb">
                     <div class="section-headline white-headline text-center">
-                        <h3>Glada folk company</h3>
+                        <h3>Više o Glada folk company</h3>
                     </div>
                     <ul>
-                        <li>O NAMA</li>
+                        <li>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
+                            budu zadovoljni.
+                        </li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
-</div>-->
+</div>
 <!-- END Header -->
 <!-- about-area start -->
-<div class="video-area area-padding" id="about-feature">
+<div class="video-area area-padding" id="misija">
     <div class="container">
-        <div class="row">
+        <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>Više o Glada folk company</h3>
                     <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
                 </div>
             </div>
-        </div>
+        </div>-->
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
-                <!--<div class="video-inner text-center">
-                    <div class="video-content">
-                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-                           <i class="fa fa-play"></i>
-                       </a>
-                    </div>
-                </div>-->
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
                     <h4>O nama</h4>
                     <p>
-                       Naša misija je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
+                        Naša misija je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
+                        kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
-                        <li><i class="fas fa-check-circle"></i> Povećanje zadovoljstva naših klijenata,neprestano osluškujući njihove potrebe</li>
-                        <li><i class="fas fa-check-circle"></i> Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal</li>
-                        <li><i class="fas fa-check-circle"></i> Stalni razvoj i istraživanje novih poslovnih mogućnosti</li>
-                        <li><i class="fas fa-check-circle"></i> Konstantna optimizacija troškova kada su u pitanju procesi rada</li>
+                        <li><i class="fas fa-check-circle"></i> Povećanje zadovoljstva naših klijenata,neprestano
+                            osluškujući njihove potrebe
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Usavršavanje,obuka i motivacija stručnog kadra,jer samo
+                            zadovoljan kadar će maksimalno iskoristiti svoj potencijal
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Stalni razvoj i istraživanje novih poslovnih mogućnosti
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Konstantna optimizacija troškova kada su u pitanju
+                            procesi rada
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -110,10 +115,10 @@ include "php_vendor/navbar.php";
 </div>
 <!-- about-area end -->
 <!-- Start-About-feature-area -->
-<div class="about-feature area-padding" >
+<div class="about-feature area-padding">
     <div class="container">
         <div class="row">
-            <div class="about-feature" >
+            <div class="about-feature">
                 <!-- Start column -->
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single-feature">
@@ -134,7 +139,8 @@ include "php_vendor/navbar.php";
                         </div>
                         <div class="feature-text">
                             <h4>Naša <span class="color">vizija</span></h4>
-                            <p>Postati lider na tržištu, obezbeđujući visok kvalitet usluga i kontinuirano zadovoljstvo klijenata!</p>
+                            <p>Postati lider na tržištu, obezbeđujući visok kvalitet usluga i kontinuirano zadovoljstvo
+                                klijenata!</p>
                         </div>
                     </div>
                 </div>
@@ -155,6 +161,51 @@ include "php_vendor/navbar.php";
         </div>
     </div>
 </div>
+
+<div class="video-area area-padding" id="vizija">
+    <div class="container">
+        <!--<div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-headline text-center">
+                    <h3>Više o Glada folk company</h3>
+                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
+                </div>
+            </div>
+        </div>-->
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="video-text">
+                    <h4>Naša vizija</h4>
+                    <p>
+                        Naša vizija je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
+                        zadovoljstvo klijenat i postanemo sinonim za kompaniju koja posluje u dosluhu s vremenom koje
+                        dolazi. Mi težimo ka tome da:
+                    </p>
+                    <ul class="marker-list">
+                        <li>
+                            <i class="fas fa-check-circle"></i> Postanemo lider na tržištu
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Konstantno unapređujemo svoje poslocanje obučavanjem kadra i nabavljanjem nove opreme
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Uvođenje novih usluga
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Prađenje trendova i digitalizacija određenih poslovnih procesa
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="video-inner text-center">
+                    <div class="video-content">
+                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end Row -->
+    </div>W
+</div>
 <!-- End-About-feature-area -->
 <!-- Team area start -->
 <div class="team-area area-padding">
@@ -164,7 +215,8 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
                     <h3>Naš tim</h3>
-                    <p>Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno  iskoristiti svoj potencijal.</p>
+                    <p>Usavršavanje,obuka i motivacija stručnog kadra,jer samo zadovoljan kadar će maksimalno
+                        iskoristiti svoj potencijal.</p>
                 </div>
             </div>
         </div>
@@ -261,7 +313,8 @@ include "php_vendor/navbar.php";
                                 <a href="#"><i class="icon icon-star"></i></a>
                             </div>
                             <div class="testi-text">
-                                <p>Designer have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.</p>
+                                <p>Designer have to make sure the prototype looks finished by inserting text or
+                                    photo.make sure the prototype looks finished by.</p>
                                 <h4>Arnold russel</h4>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
@@ -279,7 +332,8 @@ include "php_vendor/navbar.php";
                                 <a href="#"><i class="icon icon-star"></i></a>
                             </div>
                             <div class="testi-text">
-                                <p>Designer have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.</p>
+                                <p>Designer have to make sure the prototype looks finished by inserting text or
+                                    photo.make sure the prototype looks finished by.</p>
                                 <h4>Selena gomaz</h4>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
@@ -297,7 +351,8 @@ include "php_vendor/navbar.php";
                                 <a href="#"><i class="icon icon-star"></i></a>
                             </div>
                             <div class="testi-text">
-                                <p>Designer have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.</p>
+                                <p>Designer have to make sure the prototype looks finished by inserting text or
+                                    photo.make sure the prototype looks finished by.</p>
 
                                 <h4>Mickhel mick</h4>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
@@ -316,7 +371,8 @@ include "php_vendor/navbar.php";
                                 <a href="#"><i class="icon icon-star"></i></a>
                             </div>
                             <div class="testi-text">
-                                <p>Designer have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.</p>
+                                <p>Designer have to make sure the prototype looks finished by inserting text or
+                                    photo.make sure the prototype looks finished by.</p>
 
                                 <h4>Manila meri</h4>
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>

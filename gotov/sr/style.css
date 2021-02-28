@@ -1933,6 +1933,12 @@ span.dolar {
     line-height: 40px;
     border-radius: 50%;
     margin-right: 20px;
+    background: darkgreen;
+}
+
+.banner-contact span i:hover{
+    transform: scale(1.2);
+    transition: 0.3s;
 }
 
 .banner-contact span {
@@ -1947,19 +1953,16 @@ span.dolar {
     border: 1px solid #fff;
     display: inline-block;
     padding: 10px 20px;
-    color: #2de232;
+    color: white;
     font-weight: 700;
     font-size: 20px;
-    background: #fff;
+    background: darkgreen;
     border-radius: 10px;
 }
 
 .banner-btn:hover {
-   transform: scale(1.05);
-    transition: 0.3ms;
-    color: white;
-    background: darkgreen;
-    border: 1px solid darkgreen;
+    transform: scale(1.13);
+    transition: 0.3s;
 }
 
 .banner-content h4 {
@@ -3928,7 +3931,6 @@ label.error {
     text-decoration: underline;
     font-weight: bold;
 }
-
 
 /*----------------------------------------
  .End CSS
