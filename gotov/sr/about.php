@@ -46,7 +46,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(img/background/1.jpeg);
+<div class="page-area" style="background: url(img/background/porodica.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,7 +71,8 @@ include "php_vendor/navbar.php";
 </div>
 <!-- END Header -->
 <!-- about-area start -->
-<div class="video-area area-padding" id="misija">
+<span class="anchor" id="misija"></span>
+<div class="video-area area-padding" >
     <div class="container">
         <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -91,7 +92,7 @@ include "php_vendor/navbar.php";
                 <div class="video-text">
                     <h4>O nama</h4>
                     <p>
-                        Naša misija je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
+                        <span style="color: darkgreen; font-weight: bold;">Naša misija</span> je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
                         kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
@@ -115,6 +116,52 @@ include "php_vendor/navbar.php";
 </div>
 <!-- about-area end -->
 <!-- Start-About-feature-area -->
+
+<span class="anchor" id="vizija"></span>
+<div class="video-area area-padding" >
+    <div class="container">
+        <!--<div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="section-headline text-center">
+                    <h3>Više o Glada folk company</h3>
+                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
+                </div>
+            </div>
+        </div>-->
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="video-text">
+                    <p>
+                        <span style="color: darkgreen; font-weight: bold;">Naša vizija</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
+                        zadovoljstvo klijenata i postanemo sinonim za kompaniju koja posluje u koraku s vremenom koje
+                        dolazi.<br>Mi težimo ka tome da:
+                    </p>
+                    <ul class="marker-list">
+                        <li>
+                            <i class="fas fa-check-circle"></i> Postanemo lider na tržištu
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Konstantno unapređujemo svoje poslovanje obučavanjem kadra i nabavljanjem nove opreme
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Uvođenje novih usluga
+                        </li>
+                        <li><i class="fas fa-check-circle"></i> Praćenje trendova i digitalizacija poslovnih procesa
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="video-inner text-center">
+                    <div class="video-content">
+                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end Row -->
+    </div>
+</div>
+
 <div class="about-feature area-padding">
     <div class="container">
         <div class="row">
@@ -160,51 +207,6 @@ include "php_vendor/navbar.php";
             </div>
         </div>
     </div>
-</div>
-
-<div class="video-area area-padding" id="vizija">
-    <div class="container">
-        <!--<div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-headline text-center">
-                    <h3>Više o Glada folk company</h3>
-                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
-                </div>
-            </div>
-        </div>-->
-        <div class="row">
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <div class="video-text">
-                    <h4>Naša vizija</h4>
-                    <p>
-                        Naša vizija je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
-                        zadovoljstvo klijenat i postanemo sinonim za kompaniju koja posluje u dosluhu s vremenom koje
-                        dolazi. Mi težimo ka tome da:
-                    </p>
-                    <ul class="marker-list">
-                        <li>
-                            <i class="fas fa-check-circle"></i> Postanemo lider na tržištu
-                        </li>
-                        <li><i class="fas fa-check-circle"></i> Konstantno unapređujemo svoje poslocanje obučavanjem kadra i nabavljanjem nove opreme
-                        </li>
-                        <li><i class="fas fa-check-circle"></i> Uvođenje novih usluga
-                        </li>
-                        <li><i class="fas fa-check-circle"></i> Prađenje trendova i digitalizacija određenih poslovnih procesa
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <div class="video-inner text-center">
-                    <div class="video-content">
-                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end Row -->
-    </div>W
 </div>
 <!-- End-About-feature-area -->
 <!-- Team area start -->

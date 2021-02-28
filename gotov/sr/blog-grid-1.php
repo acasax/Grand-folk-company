@@ -12,7 +12,11 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.ico">
 
     <!-- all css here -->
-
+    <!-- font-awesome css -->
+    <script src="https://kit.fontawesome.com/42e48cdd3e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icon.css">
     <!-- bootstrap v3.3.6 css -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- owl.carousel css -->

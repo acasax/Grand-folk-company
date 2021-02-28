@@ -1141,7 +1141,7 @@ div#preloader {
     width: 40px;
     height: 40px;
     background: #2de232;
-    border-radius: 3px;
+    border-radius: 10px;
 }
 
 .single-about h5 {
@@ -1435,7 +1435,7 @@ div#preloader {
 }
 
 .counter-area1 {
-    background: url(img/background/2.jpeg);
+    background: url(img/project/3.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -1926,9 +1926,9 @@ span.dolar {
 .banner-contact span i {
     display: inline-block;
     width: 40px;
-    height: 40px;
+    height: 41px;
     color: #fff;
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
@@ -1950,7 +1950,7 @@ span.dolar {
 
 .banner-btn {
     float: right;
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     display: inline-block;
     padding: 10px 20px;
     color: white;
@@ -1969,7 +1969,7 @@ span.dolar {
     float: left;
     margin-bottom: 0;
     color: #fff;
-    font-size: 26px;
+    font-size: 30px;
     max-width: 600px;
     line-height: 32px;
 }
@@ -3877,7 +3877,7 @@ label.error {
     padding: 0 20px;
     font-family: arial;
     color: white;
-    line-height: 2em;
+    line-height: 1em;
     font-weight: bold;
 }
 
@@ -3930,6 +3930,13 @@ label.error {
     background: #2de232;
     text-decoration: underline;
     font-weight: bold;
+}
+
+.anchor{
+    display: block;
+    height: 115px; /*same height as header*/
+    margin-top: -115px; /*same height as header*/
+    visibility: hidden;
 }
 
 /*----------------------------------------

@@ -800,8 +800,9 @@ h6 {
 }
 .slider-area .nivo-directionNav a.nivo-nextNav:hover {
   background-color: #2de232;
-};
+  color: #ffffff;
 }
+
 .slider-area .nivo-directionNav a.nivo-nextNav:hover:before {
   color: #ffffff !important;
 }
