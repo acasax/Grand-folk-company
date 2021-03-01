@@ -49,7 +49,10 @@
     ?>
     <!-- header end -->
     <!-- Start Bottom Header -->
-    <div class="page-area" style="background: url(img/background/2.jpeg);">
+    <div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/2.jpeg);width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;">
         <div class="breadcumb-overlay"></div>
         <div class="container">
             <div class="row">
@@ -79,30 +82,25 @@
                         </p>
                         <div class="project-share">
                             <h5>Our Social Link :</h5>
-                            <ul class="project-social">
+                            <ul class="project-social" style="height: 120px; padding-left: 5px">
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-facebook"></i>
+                                        <img src="img/ikonice/iconfinder_25_social_2609558.png" width="40px">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-twitter"></i>
+                                        <img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png" width="40px">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-google"></i>
+                                        <img src="img/ikonice/iconfinder_facebook_386622.png" width="40px">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-pinterest"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-instagram"></i>
+                                        <img src="img/ikonice/output-onlinepngtools(1).png" style="height: 40px">
                                     </a>
                                 </li>
                             </ul>

@@ -46,7 +46,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(img/background/porodica.jpg);
+<div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/porodica.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,7 +57,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb">
                     <div class="section-headline white-headline text-center">
-                        <h3>Više o Glada folk company</h3>
+                        <h3 style="color:darkgreen;">Više o Glada folk company</h3>
                     </div>
                     <ul>
                         <li>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
@@ -92,7 +92,7 @@ include "php_vendor/navbar.php";
                 <div class="video-text">
                     <h4>O nama</h4>
                     <p>
-                        <span style="color: darkgreen; font-weight: bold;">Naša misija</span> je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
+                        <span style="color: darkgreen; font-weight: bold; font-size: 17px;">Naša misija</span> je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
                         kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
                     </p>
                     <ul class="marker-list">
@@ -132,7 +132,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
                     <p>
-                        <span style="color: darkgreen; font-weight: bold;">Naša vizija</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
+                        <span style="color: darkgreen; font-weight: bold;font-size: 17px;">Naša vizija</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
                         zadovoljstvo klijenata i postanemo sinonim za kompaniju koja posluje u koraku s vremenom koje
                         dolazi.<br>Mi težimo ka tome da:
                     </p>

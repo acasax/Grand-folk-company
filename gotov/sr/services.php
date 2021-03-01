@@ -50,7 +50,7 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area" style="background: url(img/background/b.jpg);
+<div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/b.jpg);
 width: 100%;
 background-repeat: no-repeat;
 background-size: cover;
