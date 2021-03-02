@@ -265,7 +265,11 @@ div#preloader {
 }
 
 .area-padding {
-    padding: 30px 0px;
+    padding: 45px 0px;
+}
+
+.area-padding15 {
+    padding: 15px 0px;
 }
 
 .area-padding-2 {
@@ -377,6 +381,7 @@ div#preloader {
 
 .topbar-area {
     background: #fafafa;
+    padding: 10px 0;
 }
 
 .topbar-left p {
@@ -507,7 +512,9 @@ div#preloader {
 .quote-btn:hover {
     color: white;
     background: darkgreen;
-    border: 1px solid darkgreen;
+    border: none;
+    transform: scale(1.1);
+    transition: 0.3s;
 }
 
 
@@ -606,10 +613,10 @@ div#preloader {
 }
 
 .main-menu ul.nav li ul.sub-menu {
-    background: #fff;
-    border-top: 2px solid #2de232;
+    background: rgba(255, 255, 255, 0.5);
+    border-top: 4px solid #2de232;
     left: 0;
-    opacity: 0;
+    opacity: 1;
     position: absolute;
     top: 115%;
     transition: all 0.3s ease 0s;
@@ -1428,14 +1435,14 @@ div#preloader {
 /*----------------------------------------*/
 
 .counter-area {
-    background: url(img/background/bg1.jpg);
+    background: url(img/7.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
 }
 
 .counter-area1 {
-    background: url(img/project/3.jpg);
+    background: url(img/background/bg1.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;

@@ -166,7 +166,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2 counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<section class="section-padding-lg-2 counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
             <h2>Kako mi radimo</h2>
@@ -221,7 +221,7 @@ include "php_vendor/navbar.php";
 
 <!-- service-area end -->
 <!-- Start portfolio Area -->
-<div class="about-area area-padding">
+<div class="about-area area-padding15">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -365,7 +365,7 @@ include "php_vendor/navbar.php";
 
 <!-- End portfolio Area -->
 <!-- Start Counter area -->
-<div class="counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<div class="counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
