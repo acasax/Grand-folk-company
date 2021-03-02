@@ -28,13 +28,16 @@
      TOP Menu Stick
     --------------------- */
     var s = $("#sticker");
+    var d = $("#sadrzaj");
     var pos = s.position();
     $(window).on('scroll', function() {
         var windowpos = $(window).scrollTop();
-        if (windowpos > pos.top) {
+        if (windowpos > 0) {
             s.addClass("stick");
+            d.addClass("sadrzaj");
         } else {
             s.removeClass("stick");
+            d.removeClass("sadrzaj");
         }
     });
     /*----------------------------

@@ -119,34 +119,6 @@
         return false;
     });
 
-    /*-------------------------------------
-    On Scroll 
-    -------------------------------------*/
-    $(window).on('scroll', function () {
-
-        // Back Top Button
-        if ($(window).scrollTop() > 500) {
-            $('.scrollup').addClass('back-top');
-        } else {
-            $('.scrollup').removeClass('back-top');
-        }
-        // Sticky Header
-        if ($('body').hasClass('sticky-header')) {
-            var stickyPlaceHolder = $("#rt-sticky-placeholder"),
-                menu = $("#header-menu"),
-                menuH = menu.outerHeight(),
-                topHeaderH = $('#header-topbar').outerHeight() || 0,
-                middleHeaderH = $('#header-middlebar').outerHeight() || 0,
-                targrtScroll = topHeaderH + middleHeaderH;
-            if ($(window).scrollTop() > targrtScroll) {
-                menu.addClass('rt-sticky');
-                stickyPlaceHolder.height(menuH);
-            } else {
-                menu.removeClass('rt-sticky');
-                stickyPlaceHolder.height(0);
-            }
-        }
-    });
 
     /*-------------------------------------
     MeanMenu activation code

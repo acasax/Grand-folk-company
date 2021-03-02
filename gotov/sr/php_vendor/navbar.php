@@ -1,6 +1,6 @@
 <header class="header-style-3">
     <!-- Start top bar -->
-    <div class="topbar-area topbar-3 fix hidden-xs">
+    <!--<div class="topbar-area topbar-3 fix hidden-xs">
         <div class="container">
             <div class="row">
                 <div class=" col-md-8 col-sm-6">
@@ -27,10 +27,38 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- End top bar -->
     <!-- header-area start -->
     <div id="sticker" class="header-area header-area-3 hidden-xs">
+        <div class="topbar-area topbar-3 fix hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class=" col-md-8 col-sm-6">
+                        <div class="topbar-left">
+                            <ul>
+                                <li><a href="#"><i class="icon icon-envelope"></i>info@gladafolkcompany.se</a></li>
+                                <li><a href="#"><i class="icon icon-phone"></i>+1313-4535434</a></li>
+                                <li><a href="#"><i class="icon icon-clock"></i>8:00 am - 5:00 pm</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="topbar-right">
+                            <div class="quote-button">
+                                <a href="reservate.php" class="quote-btn">Rezerviši</a>
+                            </div>
+                            <ul>
+                                <li><a href="#" ><img src="img/ikonice/output-onlinepngtools(1).png" style="height: 28px"></a></li>
+                                <li><a href="#" ><img src="img/ikonice/iconfinder_facebook_386622.png"></a></li>
+                                <li><a href="#" ><img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png"></a></li>
+                                <li><a href="#" ><img src="img/ikonice/iconfinder_25_social_2609558.png"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <!-- logo start -->
@@ -38,7 +66,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                            <img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt="" style="height: 58px;">
+                            <img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt="" style="height: 60px;">
                         </a>
                     </div>
                 </div>
@@ -113,3 +141,7 @@
     </div>
     <!-- mobile-menu-area end -->
 </header>
+
+<div id="sadrzaj" >
+
+</div>

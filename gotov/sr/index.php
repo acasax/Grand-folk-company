@@ -52,7 +52,7 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 
-<body class="sticky-header">
+<body>
 
 <div id="preloader"></div>
 <?php
@@ -61,7 +61,8 @@ include "php_vendor/navbar.php";
 ?>
 <!-- Header Area End Here -->
 <!-- Slider Area Start Here -->
-<div class="slider-area slider-layout1 mt-5">
+
+<div class="slider-area slider-layout1">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-4" class="slides">
             <img src="img/slider/slide1-1.jpg" alt="slider" title="#slider-direction-1"/>
@@ -304,7 +305,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
-                                <p>Ciscenje unutrasnjosti zgrada (stepenista, ulaza, lifta ...)</p>
+                                <p class="dvareda">Ciscenje unutrasnjosti zgrada (stepenista, ulaza, lifta ...)</p>
                                 <a class="a" href="service/service1.php">Read more</a>
                             </div>
                         </div>

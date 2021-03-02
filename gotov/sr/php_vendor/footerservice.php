@@ -15,7 +15,7 @@
 </div>
 
 <footer class="footer-1">
-    <div class="footer-area area-padding">
+    <div class="footer-area area-padding17">
         <div class="container">
             <div class="row">
                 <div class="col-md-5 col-sm-5 col-xs-12">
@@ -28,7 +28,7 @@
 
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +013 654 432</p>
-                                <p><span>Email:</span> info@gladafolkcompany.com</p>
+                                <p><span>Email:</span> info@gladafolkcompany.se</p>
                                 <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>
