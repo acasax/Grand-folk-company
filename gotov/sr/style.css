@@ -736,6 +736,7 @@ div#preloader {
 }
 
 
+
 /*--------------------------------*/
 
 
@@ -1278,7 +1279,7 @@ div#preloader {
     font-size: 14px;
     margin: 0px 8px 32px;
     text-transform: uppercase;
-    transition: all 0.3s ease 0s;git
+    transition: all 0.3s ease 0s;
     font-weight: 600;
     letter-spacing: 0.5px;
     background: transparent;

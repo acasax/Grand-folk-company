@@ -50,6 +50,8 @@
 
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- menu -->
+    <link rel="stylesheet" href="css/menu.css">
 </head>
 
 <body>
@@ -59,6 +61,8 @@
 
 include "php_vendor/navbar.php";
 ?>
+
+
 <!-- Header Area End Here -->
 <!-- Slider Area Start Here -->
 
