@@ -167,7 +167,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2 counter-area1 area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
             <h2>Kako mi radimo</h2>
@@ -249,6 +249,7 @@ include "php_vendor/navbar.php";
 
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
+
                 <div class="project-single all-padding residential">
                     <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">

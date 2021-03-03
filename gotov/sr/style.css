@@ -265,15 +265,15 @@ div#preloader {
 }
 
 .area-padding {
-    padding: 45px 0px;
+    padding: 47px 0px;
 }
 
 .area-padding15 {
-    padding: 15px 0px;
+    padding: 20px 0px;
 }
 
 .area-padding17 {
-    padding: 21px 0px;
+    padding: 35px 0px;
 }
 
 .area-padding-2 {
@@ -619,7 +619,6 @@ div#preloader {
 }
 
 .main-menu ul.nav li ul.sub-menu {
-    background: rgba(255, 255, 255, 0.5);
     border-top: 4px solid #2de232;
     left: 0;
     opacity: 1;
@@ -629,6 +628,7 @@ div#preloader {
     visibility: hidden;
     width: 220px;
     z-index: -99;
+    margin-top: -5px;
 }
 
 .pagess {
@@ -640,8 +640,11 @@ div#preloader {
 }
 
 .main-menu ul.nav li ul.sub-menu li {
-    border-bottom: 1px solid #ddd;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid white;
+    border-radius: 10px;
     padding: 0;
+    margin-bottom: 6px;
     position: relative;
     width: 100%;
 }
@@ -670,6 +673,7 @@ div#preloader {
 .main-menu ul.nav li:hover ul.sub-menu li a:hover {
     color: #fff;
     background: #2de232;
+    border-radius: 10px;
 }
 
 .search-option-5 button.button {
@@ -753,16 +757,12 @@ div#preloader {
 .header-area.stick .logo a {
     display: inline-block;
     height: auto;
-    padding: 15px 0;
+   /* padding: 15px 0;*/
 }
 
 .header-area.stick .quote-button {
     float: right;
     /*padding: 13px 5px;*/
-}
-
-.header-area.stick .header-right-link a.main-search {
-    padding: 16px 15px;
 }
 
 .header-area.stick .main-menu ul.nav li ul.sub-menu li a {
@@ -1104,7 +1104,7 @@ div#preloader {
 
 .about-content {
     background: #fff;
-    padding: 30px 20px;
+    padding: 35px 20px;
 }
 
 .about-image img {
@@ -1126,6 +1126,7 @@ div#preloader {
     display: block;
     overflow: hidden;
     margin-bottom: 15px;
+    padding: 10px;
 }
 
 .single-about {
@@ -1136,6 +1137,7 @@ div#preloader {
 
 .single-about p {
     text-align: left;
+    padding-left: 10px;
 }
 
 .single-about:nth-child(2n),
@@ -1274,10 +1276,9 @@ div#preloader {
     color: darkgreen;
     display: inline-block;
     font-size: 14px;
-    margin: 0 12px;
-    margin: 0px 8px 8px;
+    margin: 0px 8px 32px;
     text-transform: uppercase;
-    transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;git
     font-weight: 600;
     letter-spacing: 0.5px;
     background: transparent;
@@ -1294,7 +1295,7 @@ div#preloader {
 }
 
 .project-menu {
-    margin-bottom: 10px;
+    margin-bottom: 13px;
 }
 
 .project-menu li {
@@ -1313,7 +1314,7 @@ div#preloader {
 }
 
 .all-padding {
-    padding: 15px;
+    padding: 10px;
 }
 
 .single-awesome-project {
@@ -2330,7 +2331,7 @@ span.dolar {
 }
 
 .header-area-3.stick .main-menu ul.navbar-nav li a {
-    padding: 35px 0px;
+   /* padding: 35px 0px;*/
 }
 
 .header-area-3.stick .header-right-link a.main-search {
@@ -3976,7 +3977,7 @@ label.error {
 }
 
 .sadrzaj {
-    height: 140px;
+    height: 120px;
 }
 
 /*----------------------------------------
