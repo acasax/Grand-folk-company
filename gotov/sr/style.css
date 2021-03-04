@@ -268,12 +268,16 @@ div#preloader {
     padding: 47px 0px;
 }
 
+.area-padding50 {
+    padding: 55px 0px;
+}
+
 .area-padding15 {
-    padding: 20px 0px;
+    padding: 31px 0px;
 }
 
 .area-padding17 {
-    padding: 35px 0px;
+    padding: 42px 0px;
 }
 
 .area-padding-2 {
@@ -292,7 +296,7 @@ div#preloader {
 .section-headline h3 {
     color: darkgreen;
     display: inline-block;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -568,7 +572,12 @@ div#preloader {
 
 }
 
-.main-menu ul.navbar-nav>li>a::before {
+.main-menu ul.navbar-nav li a:hover {
+   transform: scale(1.15);
+    transition: 0.3s;
+    color: darkgreen;
+}
+/*.main-menu ul.navbar-nav>li>a::before {
     background: #2de232;
     content: "";
     height: 4px;
@@ -576,7 +585,7 @@ div#preloader {
     bottom: 35%;
     width: 0;
     transition: .5s;
-}
+}*/
 
 .main-menu ul.navbar-nav>li:hover>a:before,
 .main-menu ul.navbar-nav>li.active>a::before {
@@ -1315,7 +1324,8 @@ div#preloader {
 }
 
 .all-padding {
-    padding: 10px;
+    padding: 20px 10px;
+    margin-top: 5px;
 }
 
 .single-awesome-project {
@@ -1938,7 +1948,7 @@ span.dolar {
     background: #2de232;
     display: block;
     overflow: hidden;
-    padding: 40px 0px;
+    padding: 45px 0px;
 }
 
 .banner-contact {
@@ -1960,7 +1970,7 @@ span.dolar {
 }
 
 .banner-contact span i:hover{
-    transform: scale(1.2);
+    transform: scale(1.15);
     transition: 0.3s;
 }
 
@@ -1975,16 +1985,17 @@ span.dolar {
     float: right;
     border: 2px solid #fff;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 10px 10px;
     color: white;
     font-weight: 700;
     font-size: 20px;
     background: darkgreen;
     border-radius: 10px;
+    margin-right: 30px;
 }
 
 .banner-btn:hover {
-    transform: scale(1.13);
+    transform: scale(1.15);
     transition: 0.3s;
 }
 
@@ -1992,7 +2003,7 @@ span.dolar {
     float: left;
     margin-bottom: 0;
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
     max-width: 600px;
     line-height: 32px;
 }
@@ -2157,7 +2168,7 @@ span.dolar {
 
 .footer-area-bottom {
     background: #111;
-    padding: 25px 0;
+    padding: 10px 0;
 }
 
 .copyright-text a:hover {
@@ -2367,7 +2378,7 @@ span.dolar {
 }
 
 .breadcrumb {
-    padding: 160px 0px;
+    padding: 260px 0;
     background-color: transparent;
     margin-bottom: 0;
 }
@@ -2392,7 +2403,7 @@ span.dolar {
     padding: 0 10px 0 20px;
     font-weight: bold;
     position: relative;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 .breadcrumb ul li.home-bread {

@@ -36,6 +36,7 @@
     <link rel="stylesheet" href="../style.css">
     <!-- responsive css -->
     <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="stylesheet" href="../css/menu.css">
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>

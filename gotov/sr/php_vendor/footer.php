@@ -5,9 +5,9 @@
                 <div class="banner-content">
                     <h4>Da li tražite profesionalne usluge<br>čišćenja za svoj prostor ?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Pozovite: +1313-4325432 </span><span>ili</span>
-                        <a class="banner-btn" href="contact.php">Kontaktirajte</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Pozovite: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontaktirajte</a>
                     </div>
+
                 </div>
             </div>
         </div>

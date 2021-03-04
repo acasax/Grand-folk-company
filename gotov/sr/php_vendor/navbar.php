@@ -52,7 +52,7 @@
                                     </li>
                                     <li><a class="pagess" href="about.php">O nama</a>
                                     </li>
-                                    <li class="dropdown dropdown-4"><a class="pagess" href="#">Usluge</a>
+                                    <li class="dropdown dropdown-4"><a class="pagess" href="services.php">Usluge</a>
                                         <ul class="sub-menu dropdown_menu dropdown_menu-4">
                                             <li class="dropdown_item-1"><a href="service/service1.php">Hemstädning</a></li>
                                             <li class="dropdown_item-2"><a href="service/service2.php">Storstädning</a></li>

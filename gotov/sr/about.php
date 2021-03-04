@@ -36,6 +36,8 @@
 
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <link rel="stylesheet" href="css/menu.css">
 </head>
 
 <body>
@@ -46,7 +48,8 @@ include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/porodica.jpg);
+<div class="page-area"  style="background: url(img/background/porodica.jpg);
+    height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,7 +60,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb">
                     <div class="section-headline white-headline text-center">
-                        <h3 style="color:darkgreen;">Više o Glada folk company</h3>
+                        <h3>Više o Glada folk company</h3>
                     </div>
                     <ul>
                         <li>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
@@ -210,9 +213,9 @@ include "php_vendor/navbar.php";
 </div>
 <!-- End-About-feature-area -->
 <!-- Team area start -->
-<div class="team-area area-padding">
+<!--<div class="team-area area-padding">
     <div class="container">
-        <!-- section head -->
+
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
@@ -224,7 +227,7 @@ include "php_vendor/navbar.php";
         </div>
         <div class="row">
             <div class="team-member text-center">
-                <!-- Single team member -->
+
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single-member">
                         <div class="team-img">
@@ -243,7 +246,7 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
-                <!-- Single team member -->
+
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single-member">
                         <div class="team-img">
@@ -262,7 +265,7 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
-                <!-- Single team member -->
+
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="single-member">
                         <div class="team-img">
@@ -281,11 +284,11 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                 </div>
-                <!-- Single team member -->
+
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- team area end -->
 <!-- Start testimonials Area -->
 <div class="testimonial-area area-padding">
