@@ -75,7 +75,7 @@ include "php_vendor/navbar.php";
 <!-- END Header -->
 <!-- about-area start -->
 <span class="anchor" id="misija"></span>
-<div class="video-area area-padding" >
+<div class="video-area area-padding" style="margin-top: 70px">
     <div class="container">
         <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -121,7 +121,7 @@ include "php_vendor/navbar.php";
 <!-- Start-About-feature-area -->
 
 <span class="anchor" id="vizija"></span>
-<div class="video-area area-padding" >
+<div class="video-area area-padding" style="margin-top: 10px">
     <div class="container">
         <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">

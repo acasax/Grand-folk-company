@@ -209,6 +209,11 @@ nav {
     animation: scaleZ 300ms 300ms ease-in-out forwards;
 }
 
+.dropdown_menu-4 .dropdown_item-6 {
+    transform-origin: top center;
+    animation: scaleZ 300ms 360ms ease-in-out forwards;
+}
+
 .dropdown_menu-4 .dropdown_item-1 {
     transform-origin: top center;
     animation: scaleZ 300ms 60ms ease-in-out forwards;
@@ -232,6 +237,11 @@ nav {
 .dropdown_menu-4 .dropdown_item-5 {
     transform-origin: top center;
     animation: scaleZ 300ms 300ms ease-in-out forwards;
+}
+
+.dropdown_menu-4 .dropdown_item-6 {
+    transform-origin: top center;
+    animation: scaleZ 300ms 360ms ease-in-out forwards;
 }
 
 .dropdown_menu-5 .dropdown_item-1 {

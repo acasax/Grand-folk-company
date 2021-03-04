@@ -265,7 +265,7 @@ div#preloader {
 }
 
 .area-padding {
-    padding: 47px 0px;
+    padding: 40px 0px;
 }
 
 .area-padding50 {
@@ -277,7 +277,7 @@ div#preloader {
 }
 
 .area-padding17 {
-    padding: 42px 0px;
+    padding: 41px 0px;
 }
 
 .area-padding-2 {
@@ -1286,7 +1286,7 @@ div#preloader {
     color: darkgreen;
     display: inline-block;
     font-size: 14px;
-    margin: 0px 8px 32px;
+    margin: 0px 8px 5px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     font-weight: 600;
@@ -2378,7 +2378,7 @@ span.dolar {
 }
 
 .breadcrumb {
-    padding: 260px 0;
+    padding-top: 250px;
     background-color: transparent;
     margin-bottom: 0;
 }
@@ -2578,7 +2578,7 @@ span.dolar {
 }
 
 .video-inner {
-    background: url(assets/img/blog/blog3.jpg);
+    background: url(img/about/onama.jpg);
     background-repeat: no-repeat;
     position: relative;
 }

@@ -54,14 +54,14 @@
                                     </li>
                                     <li><a class="pagess" href="../about.php">O nama</a>
                                     </li>
-                                    <li><a class="pagess" href="../services.php">Usluge</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service1.php">Hemstädning</a></li>
-                                            <li><a href="service2.php">Storstädning</a></li>
-                                            <li><a href="service3.php">Flyttstädning</a></li>
-                                            <li><a href="service4.php">Fönsterputs</a></li>
-                                            <li><a href="service5.php">Fastighetsskötsel</a></li>
-                                            <li><a href="service6.php">Kontorsstädning</a></li>
+                                    <li class="dropdown dropdown-4"><a class="pagess" href="../services.php">Usluge</a>
+                                        <ul class="sub-menu dropdown_menu dropdown_menu-4">
+                                            <li class="dropdown_item-1"><a href="../service/service1.php">Hemstädning</a></li>
+                                            <li class="dropdown_item-2"><a href="../service/service2.php">Storstädning</a></li>
+                                            <li class="dropdown_item-3"><a href="../service/service3.php">Flyttstädning</a></li>
+                                            <li class="dropdown_item-4"><a href="../service/service4.php">Fönsterputs</a></li>
+                                            <li class="dropdown_item-5"><a href="../service/service5.php">Fastighetsskötsel</a></li>
+                                            <li class="dropdown_item-6"><a href="../service/service6.php">Kontorsstädning</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pagess" href="../blog-grid-1.php">Dodatni sadržaj</a>
