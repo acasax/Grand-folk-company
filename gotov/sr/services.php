@@ -41,6 +41,10 @@
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="stylesheet" href="css/menu.css">
+    <!-- Animacije na elemente -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Animacija ulaz -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -49,18 +53,17 @@
 <?php
 include "php_vendor/navbar.php";
 ?>
-<!-- header end -->
-<!-- Start Bottom Header -->
-<div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/b.jpg);
-width: 100%;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: top center;">
+<div class="page-area"  style="background: url(img/background/b.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
-        <div class="row">
+        <div class="row ">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-1s animate__animated animate__zoomInDown animate__slow" >
                     <div class="section-headline white-headline text-center">
                         <h3>Naše usluge</h3>
                     </div>
@@ -73,10 +76,12 @@ background-position: top center;">
         </div>
     </div>
 </div>
+<!-- header end -->
+<!-- Start Bottom Header -->
 <!-- END Header -->
 <!-- service-area end -->
 <!-- Start Service area -->
-<div class="services-area services-4 area-padding">
+<div class="services-area services-4 area-padding" style="margin-top: 30px">
     <div class="container">
         <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">

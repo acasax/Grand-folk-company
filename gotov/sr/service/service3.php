@@ -50,6 +50,7 @@ include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
 <div class="page-area" style="background: url(../img/background/b.jpg);
+    height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;

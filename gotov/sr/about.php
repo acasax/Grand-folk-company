@@ -36,8 +36,12 @@
 
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-
+    <!--Meni padajuci-->
     <link rel="stylesheet" href="css/menu.css">
+    <!-- Animacije na elemente -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Animacija ulaz -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -56,10 +60,10 @@ include "php_vendor/navbar.php";
     background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
-        <div class="row">
+        <div class="row ">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
-                    <div class="section-headline white-headline text-center">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
+                    <div class="section-headline white-headline text-center " >
                         <h3>Više o Glada folk company</h3>
                     </div>
                     <ul>
@@ -92,7 +96,7 @@ include "php_vendor/navbar.php";
                         allowfullscreen></iframe>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
-                <div class="video-text">
+                <div class="video-text" >
                     <h4>O nama</h4>
                     <p>
                         <span style="color: darkgreen; font-weight: bold; font-size: 17px;">Naša misija</span> je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
@@ -121,7 +125,7 @@ include "php_vendor/navbar.php";
 <!-- Start-About-feature-area -->
 
 <span class="anchor" id="vizija"></span>
-<div class="video-area area-padding" style="margin-top: 10px">
+<div class="video-area" style="margin-top: 25px">
     <div class="container">
         <!--<div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -165,7 +169,7 @@ include "php_vendor/navbar.php";
     </div>
 </div>
 
-<div class="about-feature area-padding">
+<div class="about-feature area-padding15">
     <div class="container">
         <div class="row">
             <div class="about-feature">
@@ -400,7 +404,7 @@ include "php_vendor/footer.php";
 ?>
 
 <!-- all js here -->
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
 <!-- bootstrap js -->
@@ -427,6 +431,9 @@ include "php_vendor/footer.php";
 <script src="js/plugins.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>
+<script>
+    AOS.init();
+</script>
 </body>
 
 </html>

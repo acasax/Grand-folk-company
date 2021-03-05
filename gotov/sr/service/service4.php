@@ -50,10 +50,11 @@ include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
 <div class="page-area" style="background: url(../img/background/b.jpg);
+    height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;;">
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
