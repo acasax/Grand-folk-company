@@ -54,7 +54,7 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;">
+    background-position: top center;" style="margin-top: 20px">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
@@ -75,7 +75,7 @@ include "../php_vendor/navbarservice.php";
 <!-- End services Area -->
 <div class="single-services-page area-padding">
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-top: 15px">
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="page-head-left">
                     <!-- strat single area -->
@@ -107,7 +107,7 @@ include "../php_vendor/navbarservice.php";
                     <!-- strat single page -->
                     <!-- single-well end-->
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="single-well">
+                        <div class="single-well" style="margin-top: 65px">
                             <a href="#">
                                 <h3>Kontorsstädning innefattar</h3>
                             </a>
@@ -127,17 +127,17 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I alla rum</h4>
                             <ul class="marker-list">
-                                <li>Moppar alla golv</li>
-                                <li>Torkar bort fläckar på dörrar och karmar</li>
-                                <li>Tömning av papperskorgar</li>
-                                <li>Dammtorkar fönsterbrädor och fria ytor</li>
-                                <li>Avtorkning av bord och stolar</li>
-                                <li>Avtorkning av samtliga ytor</li>
-                                <li>Rengöring av samtliga glaspartier</li>
-                                <li>Dammtorkar lister, elkontakter, element och armaturer</li>
-                                <li>Rengöring av belysningsknappar, strömbrytare, väggkontakter</li>
-                                <li>Dammsuger golv, mattor och klädda/stoppade möbler</li>
-                                <li>Putsar speglar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Moppar alla golv</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort fläckar på dörrar och karmar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Tömning av papperskorgar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammtorkar fönsterbrädor och fria ytor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av bord och stolar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av samtliga ytor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av samtliga glaspartier</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammtorkar lister, elkontakter, element och armaturer</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av belysningsknappar, strömbrytare, väggkontakter</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammsuger golv, mattor och klädda/stoppade möbler</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsar speglar</li>
                             </ul>
                         </div>
                     </div>
@@ -150,27 +150,27 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>KÖK</h4>
                             <ul class="marker-list">
-                                <li>Avtorkning av hissknappar och hissdörrar</li>
-                                <li>Rengöring av Entrédörrar</li>
-                                <li>Putsning av glas på anslagstavlor</li>
-                                <li>Rengöring och moppning av trapphus och hiss</li>
-                                <li>Dammsugning och moppning av golvet</li>
-                                <li>Rengör spis och kaklad vägg, samt disk- och köksbänk</li>
-                                <li>Rengöring av bord och stolar</li>
-                                <li>Avtorkning av samtliga ytor</li>
-                                <li>Torkar bort fläckar på utsidan av vitvaror, köksluckor och fläkt</li>
-                                <li>Diskhantering</li>
-                                <li>Hiss, trappuppgång & éntreplan</li>
-                                <li>Avtorkning av värmeelement samt golvlister</li>
-                                <li>Putsning av glasrutor i entré</li>
-                                <li>Fönsterputsning av samtliga fönster ingår</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av hissknappar och hissdörrar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av Entrédörrar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsning av glas på anslagstavlor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring och moppning av trapphus och hiss</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammsugning och moppning av golvet</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengör spis och kaklad vägg, samt disk- och köksbänk</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av bord och stolar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av samtliga ytor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort fläckar på utsidan av vitvaror, köksluckor och fläkt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Diskhantering</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Hiss, trappuppgång & éntreplan</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av värmeelement samt golvlister</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsning av glasrutor i entré</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Fönsterputsning av samtliga fönster ingår</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/project/6.jpg" alt="">
+                                <img src="../img/janitor_0.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -188,10 +188,10 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>TOALETT OCH BADRUM</h4>
                             <ul class="marker-list">
-                                <li>Rengör dusch, toalett och handfat</li>
-                                <li>Påfyllning av förbrukningsmaterial</li>
-                                <li>Torkar bort synliga fläckar från väggar, vitvaror och badrumsskåp</li>
-                                <li>Putsar speglar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengör dusch, toalett och handfat</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Påfyllning av förbrukningsmaterial</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort synliga fläckar från väggar, vitvaror och badrumsskåp</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsar speglar</li>
                             </ul>
                         </div>
                     </div>

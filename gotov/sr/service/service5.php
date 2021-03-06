@@ -54,7 +54,7 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;">
+    background-position: top center;" style="margin-top: 20px">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">

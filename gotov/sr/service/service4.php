@@ -54,7 +54,7 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;">
+    background-position: top center;" style="margin-top: 20px">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
@@ -75,8 +75,8 @@ include "../php_vendor/navbarservice.php";
 <!-- End services Area -->
 <div class="single-services-page area-padding">
     <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-4 col-xs-12">
+        <div class="row" >
+            <div class="col-md-3 col-sm-4 col-xs-12" style="margin-top: 15px">
                 <div class="page-head-left">
                     <!-- strat single area -->
                     <div class="single-page-head">
@@ -96,7 +96,7 @@ include "../php_vendor/navbarservice.php";
             <!-- End left sidebar -->
             <!-- Start service page -->
             <div class="col-md-9 col-sm-8 col-xs-12">
-                <div class="row">
+                <div class="row" style="margin-top: 13px">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
@@ -107,15 +107,15 @@ include "../php_vendor/navbarservice.php";
                     <!-- strat single page -->
                     <!-- single-well end-->
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="single-well">
+                        <div class="single-well" style="margin-top: 65px">
                             <a href="#">
-                                <h3>Fönsterputs</h3>
+                                <h3>Fönsterputs INNEFATTAR</h3>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- end Row -->
-                <div class="row mar-row">
+                <div class="row mar-row" style="margin-bottom: 20px">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
@@ -126,11 +126,11 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-well">
                             <ul class="marker-list">
-                                <li>Mi razumemo proces pranja stakala i njihovo održavanje više od bilo koga.</li>
-                                <li>Neophodno je puno napora i energije da bi stakla ponovo izgledala kao nova.</li>
-                                <li>Imamo savršene tehnike i princip rada koji ovaj posao čini bržim i efektnijim nego ikad.</li>
-                                <li>Za vaše potrebe i vrstu staklene površine koja treba da se čisti, biramo specijalne alate i sredstva.</li>
-                                <li>U svakom trenutku smo spremni da radimo za vas i da vam ispunimo sve potrebe i zahteve.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Mi razumemo proces pranja stakala i njihovo održavanje više od bilo koga.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Neophodno je puno napora i energije da bi stakla ponovo izgledala kao nova.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Imamo savršene tehnike i princip rada koji ovaj posao čini bržim i efektnijim nego ikad.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Za vaše potrebe i vrstu staklene površine koja treba da se čisti, biramo specijalne alate i sredstva.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>U svakom trenutku smo spremni da radimo za vas i da vam ispunimo sve potrebe i zahteve.</li>
                             </ul>
                         </div>
                     </div>

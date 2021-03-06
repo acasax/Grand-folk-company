@@ -73,7 +73,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 20px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -128,13 +128,13 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>SAMTLIGA UTRYMMEN</h4>
                             <ul class="marker-list">
-                                <li>Fönsterputs insida. För utsida/mellan tillkommer pris enligt lista</li>
-                                <li>Avtorkning eluttag och strömbrytare</li>
-                                <li>Våttorkning golvlister, trösklar och golv</li>
-                                <li>Avtorkning snickerier, fönsterbågar, dörrkarmar och innerdörrar</li>
-                                <li>Rengöring av element</li>
-                                <li>Avtorkning skåp, garderober och andra förvaringsutrymmen</li>
-                                <li>Dammning av  väggar och tak</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Fönsterputs insida. För utsida/mellan tillkommer pris enligt lista</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning eluttag och strömbrytare</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Våttorkning golvlister, trösklar och golv</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning snickerier, fönsterbågar, dörrkarmar och innerdörrar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av element</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning skåp, garderober och andra förvaringsutrymmen</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammning av  väggar och tak</li>
                             </ul>
                         </div>
                     </div>
@@ -147,17 +147,17 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>KÖK</h4>
                             <ul class="marker-list">
-                                <li>Diskmaskin avtorkas utvändigt</li>
-                                <li>Rengöring av kakel och kryddhylla</li>
-                                <li>Rengöring spisfläkt och ventiler</li>
-                                <li>Avtorkning plåtar och galler (ej rengöring)</li>
-                                <li>Rengöring spisfläkt, kåpa och filter</li>
-                                <li>Rengöring ovan- och insida samt samtliga  utsidor på spis</li>
-                                <li>Rengöring av diskbänk, vask och skärbräda</li>
-                                <li>Avtorkning köksskåp, in- och utvändigt</li>
-                                <li>Rengöring kyl/frys invändigt och utvändigt</li>
-                                <li>Rengöring ugn och värmeskåp</li>
-                                <li>Rengöring kokplattor, även kokplattornas  kanter</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Diskmaskin avtorkas utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av kakel och kryddhylla</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring spisfläkt och ventiler</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning plåtar och galler (ej rengöring)</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring spisfläkt, kåpa och filter</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring ovan- och insida samt samtliga  utsidor på spis</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av diskbänk, vask och skärbräda</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning köksskåp, in- och utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring kyl/frys invändigt och utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring ugn och värmeskåp</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring kokplattor, även kokplattornas  kanter</li>
                             </ul>
                         </div>
                     </div>
@@ -182,16 +182,16 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>TOALETT OCH BADRUM</h4>
                             <ul class="marker-list">
-                                <li>Speglar putsas</li>
-                                <li>Avtorkning snickerier, dörrkarmar, golv och golvlister</li>
-                                <li>Rengöring golv och kakelväggar</li>
-                                <li>Avtorkning rör</li>
-                                <li>Rengöring ovan- och undersida av tvättställ</li>
-                                <li>Damma tak</li>
-                                <li>Rensning golvbrunn</li>
-                                <li>Rengöring badkar och badkarsfront samt under badkar</li>
-                                <li>Avtorkning badrumsskåp</li>
-                                <li>Rengöring in- och utsidan av toalettstol</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Speglar putsas</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning snickerier, dörrkarmar, golv och golvlister</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring golv och kakelväggar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning rör</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring ovan- och undersida av tvättställ</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Damma tak</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rensning golvbrunn</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring badkar och badkarsfront samt under badkar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning badrumsskåp</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring in- och utsidan av toalettstol</li>
                             </ul>
                         </div>
                     </div>
@@ -205,11 +205,11 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>GROVKÖK</h4>
                             <ul class="marker-list">
-                                <li>Tvättkorgar och andra förvaringsutrymmen avtorkas</li>
-                                <li>Luddfilter rengöres</li>
-                                <li>Torkskåp rengöres in- utvändigt</li>
-                                <li>Golvbrunn och ventiler rengöres</li>
-                                <li>Tvättmaskin rengöras från tvättmedelsrester och avtorkas utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Tvättkorgar och andra förvaringsutrymmen avtorkas</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Luddfilter rengöres</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkskåp rengöres in- utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Golvbrunn och ventiler rengöres</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Tvättmaskin rengöras från tvättmedelsrester och avtorkas utvändigt</li>
                             </ul>
                         </div>
                     </div>
@@ -228,21 +228,21 @@ include "../php_vendor/navbarservice.php";
                             <h4>Vad ingår inte i flyttstädningen?</h4>
                             <p>Det finns olika uppfattningar om vad som ska ingå i en flyttstädning. Det kan vara bra att veta följande:</p>
                             <ul class="marker-list">
-                                <li>Möbler som lämnats kvar till nya hyresgästen torkas ej av, om annat inte är överenskommet i förväg</li>
-                                <li>Vi rengör inte bakom varmvattenberedare</li>
-                                <li>Ej rengöring av diskmaskinens filter</li>
-                                <li>Garage/vindsförråd städas ej (kan beställas extra).</li>
-                                <li>Rutorna på inglasad balkong ingår inte</li>
-                                <li>Vi utför inte tomt- eller trädgårdsarbeten (kan beställas extra)</li>
-                                <li>Tak i köket tvättas inte</li>
-                                <li>Kyl och Frys ska vara avstängda och avfrostade</li>
-                                <li>Ugnsplåtar gör vi inte en grovrengöring på</li>
-                                <li>Vi rensar inte avloppsrör.</li>
-                                <li>Vi kopplar ej ur el-armaturer, tvätt-& diskmaskiner mm</li>
-                                <li>Ruta/fönster om det är oåtkomligt eller trasigt.</li>
-                                <li>Ej rengöring av persienner</li>
-                                <li>Ej rengöring av väggar, endast dammning</li>
-                                <li>Vi tar inte bort tavelkrokar och dekaler</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Möbler som lämnats kvar till nya hyresgästen torkas ej av, om annat inte är överenskommet i förväg</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Vi rengör inte bakom varmvattenberedare</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Ej rengöring av diskmaskinens filter</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>/vindsförråd städas ej (kan beställas extra).</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Rutorna på inglasad balkong ingår inte</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Vi utför inte tomt- eller trädgårdsarbeten (kan beställas extra)</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Tak i köket tvättas inte</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Kyl och Frys ska vara avstängda och avfrostade</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Ugnsplåtar gör vi inte en grovrengöring på</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Vi rensar inte avloppsrör.</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Vi kopplar ej ur el-armaturer, tvätt-& diskmaskiner mm</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Ruta/fönster om det är oåtkomligt eller trasigt.</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Ej rengöring av persienner</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Ej rengöring av väggar, endast dammning</li>
+                                <li class="red"><i class="fas fa-times-circle"></i>Vi tar inte bort tavelkrokar och dekaler</li>
                             </ul>
                         </div>
                     </div>

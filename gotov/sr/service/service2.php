@@ -73,7 +73,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 20px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -107,7 +107,7 @@ include "../php_vendor/navbarservice.php";
                     <!-- strat single page -->
                     <!-- single-well end-->
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="single-well">
+                        <div class="single-well" style="margin-top: 35px">
                             <a href="#">
                                 <h3>STORSTÄDNING INNEFATTAR</h3>
                             </a>
@@ -127,14 +127,14 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I alla rum</h4>
                             <ul class="marker-list">
-                                <li>Damning väggar och tak</li>
-                                <li>Lampor och möbler dammas</li>
-                                <li>Torkning av lister, dörrar och karmar, elkontakter, fönsterbrädor, fria ytor exempelvis ovanpå skåp och garderober</li>
-                                <li>Skakning av små mattor</li>
-                                <li>Dammsuger golv, mattor och klädda/stoppade möbler</li>
-                                <li>Golv moppas</li>
-                                <li>Putsning av speglar</li>
-                                <li>Prydnadssaker, tavlor och hyllor dammas</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Damning väggar och tak</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Lampor och möbler dammas</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkning av lister, dörrar och karmar, elkontakter, fönsterbrädor, fria ytor exempelvis ovanpå skåp och garderober</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Skakning av små mattor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammsuger golv, mattor och klädda/stoppade möbler</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Golv moppas</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsning av speglar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Prydnadssaker, tavlor och hyllor dammas</li>
                             </ul>
                         </div>
                     </div>
@@ -147,10 +147,10 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I badrum och toalett</h4>
                             <ul class="marker-list">
-                                <li>Rengöring av kran och handfat</li>
-                                <li>Rengöring av badkar/dusch och toalett</li>
-                                <li>Torkning av badrumsskåp utvändigt</li>
-                                <li>Avtorkning väggar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av kran och handfat</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av badkar/dusch och toalett</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkning av badrumsskåp utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning väggar</li>
                             </ul>
                         </div>
                     </div>
@@ -163,11 +163,11 @@ include "../php_vendor/navbarservice.php";
                     </div>
                 </div>
 
-                <div class="row mar-row">
+                <div class="row mar-row" style="margin-top: 45px">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/blog/222.jpg" alt="">
+                                <img src="../img/kuhinja.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -175,10 +175,10 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I kök</h4>
                             <ul class="marker-list">
-                                <li>Avtorkning av vitvaror och fläkt utvändigt</li>
-                                <li>Utvändig torkning av köksluckor och köksskåp</li>
-                                <li>Rengöring in- och utvändigt i skåp där avfallskärl finns</li>
-                                <li>Rengöring av spis och kakelvägg, disk- och köksbänk</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Avtorkning av vitvaror och fläkt utvändigt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Utvändig torkning av köksluckor och köksskåp</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring in- och utvändigt i skåp där avfallskärl finns</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengöring av spis och kakelvägg, disk- och köksbänk</li>
                             </ul>
                         </div>
                     </div>

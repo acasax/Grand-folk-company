@@ -73,7 +73,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 20px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -100,7 +100,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/background/bg1.jpg" alt="">
+                                <img src="../img/background/bg1%20-%20Copy.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -128,14 +128,14 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I alla rum</h4>
                             <ul class="marker-list">
-                                <li>Dammar tavelramar som är nåbara utan stege</li>
-                                <li>Moppar alla golv</li>
-                                <li>Dammtorkar prydnadssaker, lister, elkontakter och element</li>
-                                <li>Torkar bort fläckar på dörrar och karmar,</li>
-                                <li>Dammsuger golv, mattor och klädda/stoppade möbler</li>
-                                <li>Dammtorkar fönsterbrädor och fria ytor</li>
-                                <li>Putsar speglar</li>
-                                <li>Dammar lampskärmar i nåbar höjd</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammar tavelramar som är nåbara utan stege</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Moppar alla golv</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammtorkar prydnadssaker, lister, elkontakter och element</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort fläckar på dörrar och karmar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammsuger golv, mattor och klädda/stoppade möbler</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammtorkar fönsterbrädor och fria ytor</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsar speglar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Dammar lampskärmar i nåbar höjd</li>
                             </ul>
                         </div>
                     </div>
@@ -148,9 +148,9 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I badrum och toalett</h4>
                             <ul class="marker-list">
-                                <li>Putsar speglar</li>
-                                <li>Rengör dusch/badkar, toalett och handfat</li>
-                                <li>Torkar bort synliga fläckar från väggar, vitvaror och badrumsskåp</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Putsar speglar</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengör dusch/badkar, toalett och handfat</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort synliga fläckar från väggar, vitvaror och badrumsskåp</li>
                             </ul>
                         </div>
                     </div>
@@ -175,8 +175,8 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-well">
                             <h4>I kök</h4>
                             <ul class="marker-list">
-                                <li>Rengör spis och kaklad vägg, samt disk- och köksbänk</li>
-                                <li>Torkar bort fläckar på utsidan av vitvaror, köksluckor och fläkt</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Rengör spis och kaklad vägg, samt disk- och köksbänk</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Torkar bort fläckar på utsidan av vitvaror, köksluckor och fläkt</li>
                             </ul>
                         </div>
                     </div>
