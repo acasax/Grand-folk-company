@@ -63,7 +63,7 @@ include "php_vendor/navbar.php";
     <div class="container">
         <div class="row ">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb animate__delay-1s animate__animated animate__zoomInDown animate__slow" >
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
                     <div class="section-headline white-headline text-center">
                         <h3>Naše usluge</h3>
                     </div>
@@ -133,43 +133,6 @@ include "php_vendor/navbar.php";
                 </div>
                 <!-- Start services -->
 
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service5.php">
-                                <img src="img/servicepocetna/5.jpg" alt="">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">Fastighetsskötsel</h5>
-                                <a href="service/service5.php" class="btn btn-primary">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Start services -->
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service6.php">
-                                <img src="img/servicepocetna/4.jpg" alt="">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">Kontorsstädning</h5>
-                                <a href="service/service6.php" class="btn btn-primary">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service4.php">
-                                <img src="img/servicepocetna/7.jpg" alt="">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">Fönsterputs</h5>
-                                <a href="service/service4.php" class="btn btn-primary">READ MORE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="card" style="width: 100%;">

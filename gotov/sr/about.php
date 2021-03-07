@@ -93,7 +93,7 @@ include "php_vendor/navbar.php";
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                        allowfullscreen style="border-radius: 10px; box-shadow: 5px 10px 18px #ccc;"></iframe>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text" >

@@ -25,12 +25,6 @@ $(document).ready(function() {
                 },
                 space: {
                     required: true,
-                },
-                time: {
-                    required: true,
-                },
-                message: {
-                    required: true,
                 }
             },
             messages: {
@@ -45,12 +39,6 @@ $(document).ready(function() {
                 },
                 space: {
                     required: 'Please enter your space for cleaning (m2)',
-                },
-                time: {
-                    required: 'Please enter your time for cleaning (h)',
-                },
-                message: {
-                    required: 'Write your message',
                 }
             },
             submitHandler: function submitHandler(form) {
@@ -80,14 +68,13 @@ $(document).ready(function() {
                         if (str === 'OK') {
                             str = objResp.data;
                             swal({
-                                    title: "Uspešno",
-                                    text: str,
-                                    showCancelButton: false,
-                                    showConfirmButton: true,
-                                    type: "success",
+                                title: "Uspešno",
+                                text: str,
+                                showCancelButton: false,
+                                showConfirmButton: true,
+                                type: "success",
 
-                                }
-                            );
+                            });
                             $('#contactForm')[0].reset();
                         }
 

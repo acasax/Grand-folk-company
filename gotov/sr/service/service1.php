@@ -40,6 +40,8 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- Animacija ulaz -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -49,7 +51,7 @@
 include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
-<div class="page-area" style="background:  url(../img/background/b.jpg);
+<div class="page-area" style="background:  url(../img/background/hem.jpg);
     height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -59,7 +61,7 @@ include "../php_vendor/navbarservice.php";
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                     <div class="section-headline white-headline text-center">
                         <h3>Glada folk company</h3>
                     </div>
@@ -73,7 +75,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding" style="margin-top: 20px">
+<div class="single-services-page area-padding" style="margin-top: 26px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -86,8 +88,9 @@ include "../php_vendor/navbarservice.php";
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
                                 <li><a href="service4.php">Fönsterputs</a></li>
-                                <li><a href="service5.php">Fastighetsskötsel</a></li>
+                                <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
                                 <li><a href="service6.php">Kontorsstädning</a></li>
+                                <li><a href="service7.php">Fönsterputs för företag</a></li>-->
                             </ul>
                         </div>
                     </div>
@@ -102,6 +105,9 @@ include "../php_vendor/navbarservice.php";
                             <div class="page-img elec-page">
                                 <img src="../img/background/bg1%20-%20Copy.jpg" alt="">
                             </div>
+                            <p style="margin-top: 15px; text-align: justify">Hur väl du städar ditt hus beror på hur du städar det. Om du har några smarta knep i ärmen är du verkligen en riktig "rengöringskonstnär".
+                                Rengöring av ditt hem betyder inte att lokalerna bara behöver göras bra, men rengöring måste vara hygienisk, så vi är här för att hjälpa dig att använda din fritid för dina behov.</p>
+
                         </div>
                     </div>
                     <!-- strat single page -->

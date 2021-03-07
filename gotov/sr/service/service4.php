@@ -40,6 +40,7 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -54,17 +55,17 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;" style="margin-top: 20px">
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                     <div class="section-headline white-headline text-center">
                         <h3>Glada folk company</h3>
                     </div>
                     <ul>
-                        <li>Fönsterputs </li>
+                        <li>Fönsterputs</li>
                     </ul>
                 </div>
             </div>
@@ -73,10 +74,10 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 26px">
     <div class="container">
-        <div class="row" >
-            <div class="col-md-3 col-sm-4 col-xs-12" style="margin-top: 15px">
+        <div class="row">
+            <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="page-head-left">
                     <!-- strat single area -->
                     <div class="single-page-head">
@@ -86,8 +87,8 @@ include "../php_vendor/navbarservice.php";
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
                                 <li    class="active" ><a href="service4.php">Fönsterputs</a></li>
-                                <li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>
+                                <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
+                                <li><a href="service6.php">Kontorsstädning</a></li>-->
                             </ul>
                         </div>
                     </div>
@@ -96,12 +97,20 @@ include "../php_vendor/navbarservice.php";
             <!-- End left sidebar -->
             <!-- Start service page -->
             <div class="col-md-9 col-sm-8 col-xs-12">
-                <div class="row" style="margin-top: 13px">
+                <div class="row" >
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
                                 <img src="../img/prozor.jpg" alt="">
                             </div>
+                            <p style="margin-top: 15px; text-align: justify">Redskap som vanligen brukar användas är fönsterputsmedel, gummiskrapa.
+                                Som alternativ till fönsterputsmedel kan en svag diskmedelslösning användas eller fönstersåpa.
+                                Sämskskinnet används för att torka kan ersättas med en microfiberduk och gamla trasor.
+                                Är du som många andra och ogillar att behöva ta tag i de där skitiga fönstren? Men, det är ju ett nödvändigt ont, för vem vill
+                                se de där gråa fönstren när solen ligger på?  Fräscha fönsterrutor gör även så att utsidan på huset ser bättre ut, något som ger ett gott intryck på besökare och förbipasserande.
+                                Vi hjälper dig att fånga in ljuse.
+                                Om du låter oss ta hand om arbetet för dig så sparar du mycket tid, tid som du kan lägga på roligare saker i din tillvaro.
+                                <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där vi diskuterar vad ni  har för behov och önskemål.</span></p>
                         </div>
                     </div>
                     <!-- strat single page -->
@@ -121,7 +130,7 @@ include "../php_vendor/navbarservice.php";
                             <div class="page-img elec-page">
                                 <img src="../img/ciscenje-prozora-5.jpg" alt="">
                             </div>
-                        </div>
+                           </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-well">

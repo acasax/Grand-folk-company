@@ -40,6 +40,7 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -54,12 +55,12 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;" style="margin-top: 20px">
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                     <div class="section-headline white-headline text-center">
                         <h3>Glada folk company</h3>
                     </div>
@@ -73,21 +74,22 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 26px">
     <div class="container">
-        <div class="row" style="margin-top: 15px">
+        <div class="row" >
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="page-head-left">
                     <!-- strat single area -->
                     <div class="single-page-head">
                         <div class="left-menu">
                             <ul>
-                                <li><a href="service1.php">Hemstädning</a></li>
+                                <!--<li><a href="service1.php">Hemstädning</a></li>
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
-                                <li><a href="service4.php">Fönsterputs</a></li>
+                                <li><a href="service4.php">FÖNSTERPUTS FÖR PRIVAT PERSONER</a></li>-->
                                 <li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li    class="active"><a href="service6.php">Kontorsstädning</a></li>
+                                <li class="active"><a href="service6.php">Kontorsstädning</a></li>
+                                <li><a href="service7.php">Fönsterputs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -102,6 +104,13 @@ include "../php_vendor/navbarservice.php";
                             <div class="page-img elec-page">
                                 <img src="../img/service/4.jpg" alt="">
                             </div>
+                            <p style="margin-top: 15px; text-align: justify">Vi på <span style="font-weight: bold">Glada Folk Company</span> erbjuder professionell kontorsstädning av hög kvalité till små och
+                                medelstora företag. Anställda som arbetar i ett rent och fräscht kontor arbetar mer effektivt
+                                än de skulle göra i en smutsig miljö. Kontorsstädning behövs både för att visa upp presentabla
+                                lokaler, ge ett gott intryck för kunder och övriga besökare, men framför allt för att öka personalens välmående.
+                                Även om man kommer långt med den vardagliga städningen Vi utför kontorsstädning alla dagar i veckan, kontorstid eller enligt överenskommelse.
+                                <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där vi diskuterar vad just ert företag har för behov och önskemål.av
+                                kontoret missas fortfarande vissa områden att städas.</span></p>
                         </div>
                     </div>
                     <!-- strat single page -->

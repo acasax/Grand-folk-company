@@ -356,9 +356,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/7.jpg">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service4.php">Fönsterputs</a>
+                                <a class="back-title1" href="service/service7.php">Fönsterputs</a>
                                 <p>Ciscenje prozora u poslovnom prostoru</p>
-                                <a class="a" href="service/service4.php">Read more</a>
+                                <a class="a" href="service/service7.php">Read more</a>
                             </div>
                         </div>
                     </div>

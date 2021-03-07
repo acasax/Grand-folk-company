@@ -40,6 +40,7 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -54,12 +55,12 @@ include "../php_vendor/navbarservice.php";
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top center;" style="margin-top: 20px">
+    background-position: top center;">
     <div class="breadcumb-overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                     <div class="section-headline white-headline text-center">
                         <h3>Glada folk company</h3>
                     </div>
@@ -73,7 +74,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding">
+<div class="single-services-page area-padding" style="margin-top: 26px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -82,12 +83,13 @@ include "../php_vendor/navbarservice.php";
                     <div class="single-page-head">
                         <div class="left-menu">
                             <ul>
-                                <li><a href="service1.php">Hemstädning</a></li>
+                                <!--<li><a href="service1.php">Hemstädning</a></li>
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
-                                <li><a href="service4.php">Fönsterputs</a></li>
-                                <li    class="active"><a href="service5.php">Fastighetsskötsel</a></li>
+                                <li><a href="service4.php">Fönsterputs för privat personer</a></li>-->
+                                <li class="active"><a href="service5.php">Fastighetsskötsel</a></li>
                                 <li><a href="service6.php">Kontorsstädning</a></li>
+                                <li><a href="service7.php">Fönsterputs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -100,20 +102,46 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/5.jpg" alt="">
+                                <img src="../img/22.jpg" alt="" style="width: 100%;">
+                                <p style="margin-top: 15px; text-align: justify">Vi kan hjälpa dig hålla fastigheten i form med tex trappstädning.
+                                    Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
+
+                                    <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där
+                                    vi diskuterar vad just din fastighet har för servicebehov och önskemål.</span>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <!-- strat single page -->
                     <!-- single-well end-->
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="single-well">
+                        <div class="single-well" style="margin-top: 35px">
                             <a href="#">
-                                <h3>Fastighetsskötsel INNEFATTAR</h3>
-                                <p>Vi kan hjälpa dig hålla fastigheten i form med tex trappstädning.
-                                    Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
-                                </p>
+                                <h3>FASTIGHETSSKÖTSEL INNEFATTAR</h3>
+
                             </a>
+                        </div>
+                        <div class="row mar-row" style="margin-bottom: 20px">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                <div class="single-page">
+                                    <div class="page-img elec-page">
+                                        <img src="../img/5.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                <div class="single-well">
+                                    <h4>Trappstädning omfattar</h4>
+                                    <ul class="marker-list">
+                                        <li><i class="fas fa-arrow-circle-right"></i>sopning</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>moppning</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>dammtorkning</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>avtorkning samt putsning av golv, väggar och dörrar</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Detta görs även på alla övriga ytor och anordningar i trappuppgångar, entréplan, våningsplan, källare och hissar.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- End single page -->
                         </div>
                     </div>
                 </div>

@@ -38,17 +38,20 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <h4>Usluge</h4>
+                            <!--<h4>Usluge</h4>-->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
+                                    <p>Privatpersoner</p>
                                     <li><a href="service/service1.php">Hemstädning</a></li>
                                     <li><a href="service/service2.php">Storstädning </a></li>
                                     <li><a href="service/service3.php">Flyttstädning</a></li>
                                     <li><a href="service/service4.php">Fönsterputs</a></li>
                                 </ul>
                                 <ul class="footer-list hidden-sm">
+                                    <p>För företag</p>
                                     <li><a href="service/service5.php">Fastighetsskötsel</a></li>
                                     <li><a href="service/service6.php">Kontorsstädning</a></li>
+                                    <li><a href="service/service7.php">Fönsterputs</a></li>
                                 </ul>
                             </div>
                             <div class="footer-icons">

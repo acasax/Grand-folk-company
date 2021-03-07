@@ -40,6 +40,7 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
 
 <body>
@@ -59,7 +60,7 @@ include "../php_vendor/navbarservice.php";
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb">
+                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                     <div class="section-headline white-headline text-center">
                         <h3>Glada folk company</h3>
                     </div>
@@ -73,7 +74,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding" style="margin-top: 20px">
+<div class="single-services-page area-padding" style="margin-top: 26px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -86,8 +87,8 @@ include "../php_vendor/navbarservice.php";
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li   class="active"><a href="service3.php">Flyttstädning</a></li>
                                 <li><a href="service4.php">Fönsterputs</a></li>
-                                <li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>
+                                <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
+                                <li><a href="service6.php">Kontorsstädning</a></li>-->
                             </ul>
                         </div>
                     </div>
@@ -102,6 +103,10 @@ include "../php_vendor/navbarservice.php";
                             <div class="page-img elec-page">
                                 <img src="../img/service/2.jpg" alt="">
                             </div>
+                            <p style="margin-top: 15px; text-align: justify">Det finns ingen plats som hemma - speciellt när det är rent!
+                                Vårt team kommer att ge det perfekta ljuset till ditt nya hem innan du flyttar in eller till ett som är klart för försäljning.
+                                Var säker på att vi torkar, skrubbar och dammsuger hela området på något sätt och lämnar det utan spår av smuts.
+                                Vår personal är grundlig, professionell och vi erbjuder ett flexibelt schema så att du kan göra allt i tid. Vi är redo att komma och rengöra även de hårdaste orenheterna</p>
                         </div>
                     </div>
                     <!-- strat single page -->

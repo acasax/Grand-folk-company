@@ -514,7 +514,7 @@ div#preloader {
     display: inline-block;
     border: 1px solid #2de232;
     margin-top: 5px;
-    padding: 5px 20px;
+    padding: 6px 25px;
     border-radius: 10px;
 }
 
@@ -569,14 +569,15 @@ div#preloader {
     font-family: 'Montserrat', sans-serif;
     margin: 0px 15px;
     position: relative;
-
 }
 
-.main-menu ul.navbar-nav li a:hover {
-   transform: scale(1.15);
+.main-menu ul.navbar-nav>li>a:hover {
+    transform: scale(1.15);
     transition: 0.3s;
     color: darkgreen;
 }
+
+
 /*.main-menu ul.navbar-nav>li>a::before {
     background: #2de232;
     content: "";
@@ -628,14 +629,14 @@ div#preloader {
 }
 
 .main-menu ul.nav li ul.sub-menu {
-    border-top: 4px solid #2de232;
+    border-top: 4px solid darkgreen;
     left: 0;
     opacity: 1;
     position: absolute;
     top: 115%;
     transition: all 0.3s ease 0s;
     visibility: hidden;
-    width: 220px;
+    width: 162px;
     z-index: -99;
     margin-top: -5px;
 }
@@ -674,8 +675,9 @@ div#preloader {
     display: block;
     font-size: 13px;
     font-weight: 700;
-    padding: 10px 15px;
+    padding: 10px 0;
     text-transform: uppercase;
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -745,7 +747,6 @@ div#preloader {
 }
 
 
-
 /*--------------------------------*/
 
 
@@ -760,14 +761,12 @@ div#preloader {
     box-shadow: 0px 0px 5px #ccc, -2px -2px 5px #ccc;
     background: #fff;
     transition: 2s;
-
 }
-
 
 .header-area.stick .logo a {
     display: inline-block;
     height: auto;
-   /* padding: 15px 0;*/
+    /* padding: 15px 0;*/
 }
 
 .header-area.stick .quote-button {
@@ -1109,16 +1108,20 @@ div#preloader {
 .about-image {
     position: relative;
     display: block;
-    border-radius: 5px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 18px #ccc;
 }
 
 .about-content {
     background: #fff;
     padding: 35px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #ccc;
 }
 
 .about-image img {
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .about-content h4 {
@@ -1172,7 +1175,7 @@ div#preloader {
 }
 
 .single-about a:hover {
- transform: scale(1.07);
+    transform: scale(1.07);
     transition: 0.3s;
 }
 
@@ -1255,13 +1258,13 @@ div#preloader {
 }
 
 .service-btn {
-     font-weight: 700;
-     text-transform: uppercase;
-     color: white;
-     position: relative;
-     font-family: 'Montserrat', sans-serif;
-     font-size: 13px;
-     z-index: 2;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    z-index: 2;
     border-bottom: 2px solid white;
 }
 
@@ -1636,6 +1639,7 @@ span.dolar {
     padding: 30px 20px;
     position: relative;
     background-color: #fff;
+    border-radius: 20px;
 }
 
 .testi-img {
@@ -1969,7 +1973,7 @@ span.dolar {
     background: darkgreen;
 }
 
-.banner-contact span i:hover{
+.banner-contact span i:hover {
     transform: scale(1.15);
     transition: 0.3s;
 }
@@ -2049,12 +2053,13 @@ span.dolar {
 
 .footer-head p {
     color: #ddd;
+    font-weight: bold;
 }
 
 .footer-head h4 {
     color: #ddd;
     font-size: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -2081,7 +2086,7 @@ span.dolar {
 }
 
 .footer-icons ul li a:hover {
-   transform: scale(1.2);
+    transform: scale(1.2);
     transition: 0.3ms;
 }
 
@@ -2343,7 +2348,7 @@ span.dolar {
 }
 
 .header-area-3.stick .main-menu ul.navbar-nav li a {
-   /* padding: 35px 0px;*/
+    /* padding: 35px 0px;*/
 }
 
 .header-area-3.stick .header-right-link a.main-search {
@@ -2362,7 +2367,6 @@ span.dolar {
 }
 
 .page-area {
-
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -2585,6 +2589,7 @@ span.dolar {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
+    border-radius: 10px;
 }
 
 .video-inner::after {
@@ -2640,6 +2645,7 @@ span.dolar {
     font-size: 16px;
 }
 
+
 /*.marker-list li::after {
     position: absolute;
     content: "\e87f";
@@ -2667,6 +2673,7 @@ span.dolar {
     font-weight: 700;
     transform: scale(1.27);
 }
+
 
 /*--------------------------------*/
 
@@ -2820,6 +2827,10 @@ span.dolar {
 
 .build-img .page-img {
     padding-bottom: 0;
+}
+
+.single-page .page-img img {
+    border-radius: 10px;
 }
 
 .left-menu ul li.active a {
@@ -3792,11 +3803,10 @@ span.slugan {
 }
 
 .services-4 .service-content:hover {
-   transform: scale(1.1);
+    transform: scale(1.1);
     background: #ff8201;
     transition: 0.3s;
 }
-
 
 .bg-color {
     background: #fafafa;
@@ -3810,8 +3820,6 @@ span.slugan {
 }
 
 label.error {
-    margin-top: 10px;
-    margin-bottom: 10px;
     color: red;
     font-size: 17px;
 }
@@ -3821,7 +3829,6 @@ label.error {
     -moz-perspective: 1000;
     -o-perspective: 1000;
     perspective: 1000;
-
 }
 
 .flip-container:hover .flipper,
@@ -3832,7 +3839,9 @@ label.error {
     transform: rotateY(180deg);
 }
 
-.flip-container, .front, .back {
+.flip-container,
+.front,
+.back {
     width: 360px;
     height: 225px;
 }
@@ -3840,25 +3849,21 @@ label.error {
 .flipper {
     -webkit-transition: 0.6s;
     -webkit-transform-style: preserve-3d;
-
     -moz-transition: 0.6s;
     -moz-transform-style: preserve-3d;
-
     -o-transition: 0.6s;
     -o-transform-style: preserve-3d;
-
     transition: 0.6s;
     transform-style: preserve-3d;
-
     position: relative;
 }
 
-.front, .back {
+.front,
+.back {
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
     -o-backface-visibility: hidden;
     backface-visibility: hidden;
-
     position: absolute;
     top: 0;
     left: 0;
@@ -3874,7 +3879,6 @@ label.error {
     border-radius: 10px;
 }
 
-
 .back {
     -webkit-transform: rotateY(180deg);
     -moz-transform: rotateY(180deg);
@@ -3883,7 +3887,6 @@ label.error {
     background: #2de232;
     border-radius: 10px;
 }
-
 
 .front .name {
     font-size: 2em;
@@ -3897,7 +3900,6 @@ label.error {
     left: 25%;
     position: absolute;
     text-shadow: 0.1em 0.1em 0.05em #333;
-
     -webkit-transform: rotate(-20deg);
     -moz-transform: rotate(-20deg);
     -o-transform: rotate(-20deg);
@@ -3963,9 +3965,9 @@ label.error {
 
 .back .a:hover {
     transform: scale(1.2);
-
     transition: 0.3s;
 }
+
 
 /* -------------- Kartice servis ------------*/
 
@@ -3979,35 +3981,42 @@ label.error {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
-    margin: 5px 0 ;
+    margin: 5px 0;
 }
 
 .card-text {
     color: white;
 }
 
-.card-body a{
-    background: #2de232 ;
+.card-body a {
+    background: #2de232;
     border: none;
 }
 
-.card-body a:hover{
+.card-body a:hover {
     transform: scale(1.1);
     background: #2de232;
     text-decoration: underline;
     font-weight: bold;
 }
 
-.anchor{
+.anchor {
     display: block;
-    height: 115px; /*same height as header*/
-    margin-top: -115px; /*same height as header*/
+    height: 115px;
+    /*same height as header*/
+    margin-top: -115px;
+    /*same height as header*/
     visibility: hidden;
 }
 
 .sadrzaj {
     height: 120px;
 }
+
+.card {
+    border-radius: 10px;
+}
+
 
 /*----------------------------------------
  .End CSS
