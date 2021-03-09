@@ -16,10 +16,15 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="topbar-right">
-                            <div class="quote-button" style="width: 125px;">
+                            <div class="quote-button" style="width: 125px; height: 48px; display: flex;
+    justify-content: center;
+    align-items: center;">
                                 <a href="reservate.php" class="quote-btn">Boka möte</a>
                             </div>
-                            <ul>
+                            <ul style="height: 48px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;">
                                 <li><a href="#" ><img src="img/ikonice/output-onlinepngtools(1).png" style="height: 28px"></a></li>
                                 <li><a href="#" ><img src="img/ikonice/iconfinder_facebook_386622.png"></a></li>
                                 <li><a href="#" ><img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png"></a></li>

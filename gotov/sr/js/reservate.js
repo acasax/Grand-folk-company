@@ -25,6 +25,11 @@ $(document).ready(function() {
                 },
                 space: {
                     required: true,
+                },
+                p_number: {
+                    required: true,
+                    minlength: 12,
+                    maxlength: 12,
                 }
             },
             messages: {
@@ -39,6 +44,11 @@ $(document).ready(function() {
                 },
                 space: {
                     required: 'Please enter your space for cleaning (m2)',
+                },
+                p_number: {
+                    required: 'Please enter your personal number',
+                    minlength: 'Please enter valid personal number,',
+                    maxlength: 'Please enter valid personal number',
                 }
             },
             submitHandler: function submitHandler(form) {
