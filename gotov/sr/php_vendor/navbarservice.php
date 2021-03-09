@@ -18,7 +18,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="topbar-right">
-                            <div class="quote-button">
+                            <div class="quote-button" style="width: 125px;">
                                 <a href="reservate.php" class="quote-btn">Boka möte</a>
                             </div>
                             <ul>

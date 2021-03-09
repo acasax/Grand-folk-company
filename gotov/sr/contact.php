@@ -77,7 +77,9 @@
 
     <!-- END Header -->
     <!-- Start contact Area -->
-    <div class="contact-page area-padding">
+    <div class="contact-page area-padding" style="margin: 35px 0; display: flex;
+    justify-content: center;
+    align-items: center;">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12">

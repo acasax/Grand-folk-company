@@ -488,7 +488,7 @@ div#preloader {
 
 .quote-button {
     float: right;
-    margin-left: 15px;
+    width: 150px;
 }
 
 .header-icon i {
@@ -514,15 +514,15 @@ div#preloader {
     display: inline-block;
     border: 1px solid #2de232;
     margin-top: 5px;
-    padding: 6px 25px;
+    padding: 6px 15px;
     border-radius: 10px;
 }
 
-.quote-btn:hover {
+.quote-button .quote-btn:hover {
     color: white;
     background: darkgreen;
     border: none;
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: 0.3s;
 }
 
@@ -561,7 +561,7 @@ div#preloader {
 
 .main-menu ul.navbar-nav>li>a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #666;
+    color: darkgreen;
     font-size: 14px;
     font-weight: 700;
     padding: 22px 0px;
@@ -2334,7 +2334,7 @@ span.dolar {
 }
 
 .header-area-3 .main-menu ul.navbar-nav li a {
-    color: #666;
+    color: darkgreen;
     padding: 30px 0px;
 }
 
@@ -4025,18 +4025,14 @@ label.error {
 }
 
 .sweet-alert h2 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bolder;
     line-height: 25px;
+    margin-bottom: 0;
 }
 
-.form-signin {
-    width: 100%;
-    max-width: 330px;
-    padding: 15px;
-    margin: auto;
-    background-color: rgba(245, 245, 245, 0.8) !important;
-    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5), 0 10px 25px 0 rgba(0, 0, 0, 0.3);
+.sweet-alert {
+    border-radius: 20px;
 }
 
 
