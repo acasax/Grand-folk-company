@@ -630,7 +630,9 @@ mark,
 }
 
 .text-muted {
-    color: #777
+    color: red;
+    font-weight: bold;
+    font-size: 19px;
 }
 
 .text-primary {

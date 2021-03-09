@@ -39,7 +39,13 @@
 
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <!--Meni padajuci-->
     <link rel="stylesheet" href="css/menu.css">
+    <!-- Animacije na elemente -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Animacija ulaz -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
 </head>
 
 <body>
@@ -50,26 +56,25 @@
     ?>
     <!-- header end -->
     <!-- Start Bottom Header -->
-    <div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/2.jpeg);width: 100%;
-background-repeat: no-repeat;
-background-size: cover;
-background-position: top center;">
-        <div class="breadcumb-overlay"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="breadcrumb">
-                        <div class="section-headline white-headline text-center">
-                            <h3>Glada folk company</h3>
-                        </div>
-                        <!--<ul>
+    <div class="page-area parallax-bg" data-stellar-background-ratio="0.6" style="background: url(img/background/2.jpeg);">
+        <div class="breadcumb-overlay">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
+                            <div class="section-headline white-headline text-center">
+                                <h3>Glada folk company</h3>
+                            </div>
+                            <!--<ul>
                             <li>Kontakt</li>
                         </ul>-->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <!-- END Header -->
     <!-- Start contact Area -->
     <div class="contact-page area-padding">
@@ -83,7 +88,7 @@ background-position: top center;">
                         </p>
                         <div class="project-share">
                             <h5>Our Social Link :</h5>
-                            <ul class="project-social" style="height: 120px; padding-left: 5px">
+                            <ul class="project-social">
                                 <li>
                                     <a href="#">
                                         <img src="img/ikonice/iconfinder_25_social_2609558.png" width="40px">
@@ -182,6 +187,11 @@ background-position: top center;">
     <script src="js/plugins.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
+    <!-- all js here -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+    AOS.init();
+</script>
 </body>
 
 </html>

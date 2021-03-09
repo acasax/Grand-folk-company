@@ -55,7 +55,7 @@ $(document).ready(function() {
                         if (str === 'ERROR') {
                             str = objResp.data;
                             swal({
-                                title: "Greška",
+                                title: str1,
                                 text: str,
                                 timer: 3000,
                                 showCancelButton: false,
@@ -68,8 +68,8 @@ $(document).ready(function() {
                         if (str === 'OK') {
                             str = objResp.data;
                             swal({
-                                title: "Uspešno",
-                                text: str,
+                                title: str,
+                                text: objResp.params,
                                 showCancelButton: false,
                                 showConfirmButton: true,
                                 type: "success",

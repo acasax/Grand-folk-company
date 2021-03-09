@@ -53,25 +53,21 @@
 <?php
 include "php_vendor/navbar.php";
 ?>
-<div class="page-area" style="background: url(img/background/b.jpg);
-    height: 80vh;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;">
-    <div class="breadcumb-overlay"></div>
-    <div class="container">
-        <div class="row ">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
-                    <div class="section-headline white-headline text-center">
-                        <h3>Naše usluge</h3>
+<div class="page-area" style="background: url(img/background/b.jpg);">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
+                        <div class="section-headline white-headline text-center">
+                            <h3>Naše usluge</h3>
+                        </div>
+                        <ul>
+                            <li>Vama kao klijentima ne nudimo samo stručnu kompetenciju i vrhunski kvalitet usluga pre svega
+                                imate koristi od pouzdanosti i efikasnosti našeg motivisanog tima.
+                            </li>
+                        </ul>
                     </div>
-                    <ul>
-                        <li>Vama kao klijentima ne nudimo samo stručnu kompetenciju i vrhunski kvalitet usluga pre svega
-                            imate koristi od pouzdanosti i efikasnosti našeg motivisanog tima.
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>

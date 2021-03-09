@@ -48,29 +48,26 @@
 
 <div id="preloader"></div>
 <?php
-include "php_vendor/navbar.php";
+    include "php_vendor/navbar.php";
 ?>
 <!-- header end -->
 <!-- Start Bottom Header -->
-<div class="page-area"  style="background: url(img/background/porodica.jpg);
-    height: 80vh;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;">
-    <div class="breadcumb-overlay"></div>
-    <div class="container">
-        <div class="row ">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
-                    <div class="section-headline white-headline text-center " >
-                        <h3>Više o Glada folk company</h3>
+<div class="page-area"  style="background: url(img/background/porodica.jpg);">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
+                        <div class="section-headline white-headline text-center " >
+                            <h3>Više o Glada folk company</h3>
+                        </div>
+                        <ul>
+                            <li>
+                                Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
+                                budu zadovoljni.
+                            </li>
+                        </ul>
                     </div>
-                    <ul>
-                        <li>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
-                            budu zadovoljni.
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>

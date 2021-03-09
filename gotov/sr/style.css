@@ -2364,12 +2364,11 @@ span.dolar {
 
 .page-area {
     position: relative;
-}
-
-.page-area {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: top center !important;
 }
 
 .breadcumb-overlay {
@@ -2378,11 +2377,14 @@ span.dolar {
     top: 0;
     width: 100%;
     left: 0;
-    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh
 }
 
 .breadcrumb {
-    padding-top: 200px;
+    padding-top: 30px;
     background-color: transparent;
     margin-bottom: 0;
 }
@@ -3124,6 +3126,8 @@ span.dolar {
 
 .project-social {
     display: inline-block;
+    height: 67px;
+    padding-left: 5px;
 }
 
 .project-social li {
@@ -3548,6 +3552,8 @@ span.email-notes {
 .contact-head {
     background: #f6f6f6;
     padding: 50px 30px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 18px #ccc;
 }
 
 .contact-head h3 {
@@ -3821,7 +3827,7 @@ span.slugan {
 
 label.error {
     color: red;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .flip-container {
@@ -4014,7 +4020,23 @@ label.error {
 }
 
 .card {
-    border-radius: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 18px #ccc;
+}
+
+.sweet-alert h2 {
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 25px;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    background-color: rgba(245, 245, 245, 0.8) !important;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5), 0 10px 25px 0 rgba(0, 0, 0, 0.3);
 }
 
 

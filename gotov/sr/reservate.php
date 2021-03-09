@@ -186,6 +186,8 @@ include "php_vendor/footer.php";
 <script src="js/form-validator.min.js"></script>
 <!-- plugins js -->
 <script src="js/plugins.js"></script>
+<!-- main js -->
+<script src="js/main.js"></script>
 
 </body>
 

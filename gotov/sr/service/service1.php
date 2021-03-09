@@ -51,27 +51,25 @@
 include "../php_vendor/navbarservice.php";
 ?>
 <!-- Start Bottom Header -->
-<div class="page-area" style="background:  url(../img/background/hem.jpg);
-    height: 80vh;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;">
-    <div class="breadcumb-overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
-                    <div class="section-headline white-headline text-center">
-                        <h3>Glada folk company</h3>
+<div class="page-area" style="background:  url(../img/background/hem.jpg);">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
+                        <div class="section-headline white-headline text-center">
+                            <h3>Glada folk company</h3>
+                        </div>
+                        <ul>
+                            <li class="home-bread">Privatpersoner</li>
+                            <li>Hemstädning</li>
+                        </ul>
                     </div>
-                    <ul>
-                        <li>Hemstädning</li>
-                    </ul>
                 </div>
             </div>
         </div>
     </div>
+    
 </div>
 <!-- END Header -->
 <!-- End services Area -->
