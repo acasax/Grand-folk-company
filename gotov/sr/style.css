@@ -452,10 +452,6 @@ div#preloader {
     padding: 30px 0;
 }
 
-.header-area .quote-button {
-    /*padding: 8px 0px;*/
-}
-
 .header-right-link {
     float: right;
 }
@@ -522,7 +518,7 @@ div#preloader {
     background: darkgreen;
     border: none;
     transform: scale(1.05);
-    transition: 0.3s;
+    transition: 0.1s;
 }
 
 
@@ -3377,8 +3373,6 @@ blockquote p {
     margin-right: 5px
 }
 
-.comments-content-wrap span a:hover {}
-
 span.post-time {
     margin-right: 5px
 }
@@ -4032,6 +4026,14 @@ label.error {
 
 .sweet-alert {
     border-radius: 20px;
+}
+
+.mt35 {
+    margin-top: 35px;
+}
+
+.shell {
+    color: white;
 }
 
 

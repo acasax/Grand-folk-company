@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="sv">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grand folk company</title>
+    <title>Glada folk i Sverige</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,12 +59,11 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
                         <div class="section-headline white-headline text-center " >
-                            <h3>Više o Glada folk company</h3>
+                            <h3>MER OM GLADA FOLK I SVERIGE</h3>
                         </div>
                         <ul>
                             <li>
-                                Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek
-                                budu zadovoljni.
+                            Vi vill ge våra kunder den perfekta kvaliteten av tjänster och säkerställa deras kontinuerliga kundnöjdhet.
                             </li>
                         </ul>
                     </div>
@@ -78,14 +77,6 @@
 <span class="anchor" id="misija"></span>
 <div class="video-area area-padding" style="margin-top: 70px">
     <div class="container">
-        <!--<div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-headline text-center">
-                    <h3>Više o Glada folk company</h3>
-                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
-                </div>
-            </div>
-        </div>-->
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
@@ -94,22 +85,18 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text" >
-                    <h4>O nama</h4>
+                    <h4>Om oss</h4>
                     <p>
-                        <span style="color: darkgreen; font-weight: bold; font-size: 17px;">Naša misija</span> je da širokim spektrom usluga koje nudimo, stalnim inovacijama kao i motivisanim
-                        kadrom, obezbedimo usluge vrhunskog kvaliteta, a to težimo da postignemo kroz:
+                        <span style="color: darkgreen; font-weight: bold; font-size: 17px;">Vårt uppdrag</span> är att tillhandahålla tjänster av hög kvalitet genom att erbjuda ett brett utbud av tjänster, ständiga innovationer och en motiverad personal. Vi strävar efter att uppnå detta genom att:
                     </p>
                     <ul class="marker-list">
-                        <li><i class="fas fa-check-circle"></i> Povećanje zadovoljstva naših klijenata,neprestano
-                            osluškujući njihove potrebe
+                        <li><i class="fas fa-check-circle"></i> Öka våra kunders kundnöjdhet genom att ständigt lyssna på deras behov.
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Usavršavanje,obuka i motivacija stručnog kadra,jer samo
-                            zadovoljan kadar će maksimalno iskoristiti svoj potencijal
+                        <li><i class="fas fa-check-circle"></i> Fullända, utbilda och motivera professionell personal eftersom att endast nöjd personal kan utnyttja sin maximala potential.
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Stalni razvoj i istraživanje novih poslovnih mogućnosti
+                        <li><i class="fas fa-check-circle"></i> Ständig utveckling och utforskning av nya affärsmöjligheter.
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Konstantna optimizacija troškova kada su u pitanju
-                            procesi rada
+                        <li><i class="fas fa-check-circle"></i> Ständig optimering av arbetsprocessens kostnader.
                         </li>
                     </ul>
                 </div>
@@ -124,19 +111,11 @@
 <span class="anchor" id="vizija"></span>
 <div class="video-area" style="margin-top: 25px">
     <div class="container">
-        <!--<div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-headline text-center">
-                    <h3>Više o Glada folk company</h3>
-                    <p>Mi zelimo da nasim klijentima pruzimo usluge vrhunskog kvaliteta i da nasi klijenti uvek budu zadovoljni.</p>
-                </div>
-            </div>
-        </div>-->
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
                     <p>
-                        <span style="color: darkgreen; font-weight: bold;font-size: 17px;">Naša vizija</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
+                        <span style="color: darkgreen; font-weight: bold;font-size: 17px;">Vårt VISION</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
                         zadovoljstvo klijenata i postanemo sinonim za kompaniju koja posluje u koraku s vremenom koje
                         dolazi.<br>Mi težimo ka tome da:
                     </p>
@@ -177,8 +156,8 @@
                             <i class="icon icon-layers"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Naša <span class="color">misija</span></h4>
-                            <p>Čisto i uredno je naša misija. To je garancija.</p>
+                            <h4>VÅRT <span class="color">UPPDRAG</span></h4>
+                            <p>Rent och fint är vårt uppdrag. Det är vår garanti.</p>
                         </div>
                     </div>
                 </div>
@@ -189,9 +168,8 @@
                             <i class="icon icon-leaf"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Naša <span class="color">vizija</span></h4>
-                            <p>Postati lider na tržištu, obezbeđujući visok kvalitet usluga i kontinuirano zadovoljstvo
-                                klijenata!</p>
+                            <h4>VÅR <span class="color">VISION</span></h4>
+                            <p>Bli ledande på marknaden genom att tillhandahålla en högkvalitativ service och kontinuerlig kundnöjdhet för våra kunder!</p>
                         </div>
                     </div>
                 </div>
@@ -202,8 +180,8 @@
                             <i class="icon icon-diamond"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Naše <span class="color">iskustvo</span></h4>
-                            <p>Usavršavanje, obuka i motivacija stručnog kadra</p>
+                            <h4>VÅR <span class="color">ERFARENHET</span></h4>
+                            <p>Fullända, utbilda och motivera vår professionella personal.</p>
                         </div>
                     </div>
                 </div>

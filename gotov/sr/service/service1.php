@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="sv">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grand folk company</title>
+    <title>Glada folk i Sverige</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -58,7 +58,7 @@ include "../php_vendor/navbarservice.php";
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                         <div class="section-headline white-headline text-center">
-                            <h3>Glada folk company</h3>
+                            <h3>Glada folk i Sverige</h3>
                         </div>
                         <ul>
                             <li class="home-bread">Privatpersoner</li>

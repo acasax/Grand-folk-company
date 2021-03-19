@@ -3,9 +3,9 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                    <h4>Da li tražite profesionalne usluge<br>čišćenja za svoj prostor ?</h4>
+                    <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Pozovite: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontaktirajte</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
                     </div>
 
                 </div>
@@ -24,7 +24,7 @@
                             <div class="footer-logo">
                                 <a href="#"><h1 style="color: white;"> <img src="img/logo/Glada%20Folk%20Company%20logo.png" style="height: 150px"></a>
                             </div>
-                            <p>Naš cilj je da se vi kao kupac uvek osećate potpuno zadovoljni nakon što smo bili s vama. Kao deo ovoga, imamo garanciju zadovoljstva kupaca za izvršene zadatke.</p>
+                            <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>
 
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +013 654 432</p>
@@ -55,7 +55,7 @@
                                 </ul>
                             </div>
                             <div class="footer-icons">
-                                <h5>Zapratite nas</h5>
+                                <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
                                     <li>
                                         <a href="#">
@@ -86,14 +86,14 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <h4>Novosti</h4>
+                            <h4>Nyheter</h4>
                             <p>
-                                Prijavite se kako bi Vam na mejl slali sve novosti u vezi sa nasom kompanijom.
+                            Registrera dig så att vi kan skicka dig nyheter om vårt företag via e-post.
                             </p>
                             <div class="subs-feilds">
                                 <div class="suscribe-input">
                                     <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
-                                    <button type="submit" id="sus_submit" class="add-btn">Prijavi se</button>
+                                    <button type="submit" id="sus_submit" class="add-btn">Bli Medlem</button>
                                 </div>
                             </div>
                         </div>

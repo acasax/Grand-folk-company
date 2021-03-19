@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="sv">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Glada folk company</title>
+    <title>Glada folk i Sverige</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -77,13 +77,12 @@ include "php_vendor/navbar.php";
             <div class="slider-content s-tb slide-1">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text">Sertifikovana kompanija</div>
-                        <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Obezbećujemo visok kvalitet usluga i kontinuirano zadovoljstvo
-                            klijenata!
+                        <div class="slider-sub-text">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Genom att erbjuda ett brett utbud av tjänster, ständig innovation samt motiverad personal erbjuder vi tjänster av hög kvalitet.
                         </div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -95,13 +94,12 @@ include "php_vendor/navbar.php";
             <div class="slider-content s-tb slide-2">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text ">Sertifikovana kompanija</div>
-                        <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Pružanjem širokog spektra usluga, stalnim inovacijama kao i
-                            motivisanim kadrom, obezbećujemo usluge vrhunskog kvaliteta
+                        <div class="slider-sub-text ">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Din glädje är vår, därför finns vi här för dig!
                         </div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster.
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -113,11 +111,11 @@ include "php_vendor/navbar.php";
             <div class="slider-content s-tb slide-3">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text ">Sertifikovana kompanija</div>
-                        <h1 class="slider-big-text">Glada folk company!</h1>
-                        <div class="slider-paragraph">Vasa sreca je i nasa , zato smo mi tu za vas!</div>
+                        <div class="slider-sub-text ">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Vi erbjuder högkvalitativa tjänster och kontinuerlig kundnöjdhet hos våra kunder!</div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Rezervišite naše usluge
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster.
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -134,27 +132,25 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
-                    <h4><span class="color">Glada folk company</span> - pružamo izvrsnu uslugu čišćenja prostora</h4>
-                    <p>Mi smo kompanija za ciscenje koja u svom timu ima osoblje sa dugogodisnjim iskustvom u radu.
-                        Glada folk company je
-                        porodicna firma koja je otvorena u nameni da i nasa deca nastave sa poslovanjem kada odrastu.
-                        Sam naziv firme ”Glada folk” ima u cilju da VAS,
-                        nase korisnike ucinimo nasmejane i srecne po povratku u vas dom ili kompaniju.
+                    <h4><span class="color">Glada folk i Sverige</span> - Vi erbjuder utmärkta städtjänster för faciliteter.</h4>
+                    <p>Vi är ett städföretag som har en långvarig erfarenhet av personal i teamet. Glada folk i Sverige är ett familjeföretag
+                     grundat för att våra barn också ska kunna fortsätta vårt arbete när dem växer upp.
+                     Själva namnet på vårt företag, ”Glada folk”, syftar till att få DIG och våra kunder att le och känna sig glada när ni kommer hem eller går till jobbet.
                     </p>
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
                                 <a href="about.php#misija"><i class="icon icon-gift"></i></a>
-                                <h5>Misija</h5>
+                                <h5>Mission</h5>
                             </div>
-                            <p>Čisto i uredno je naša misija. To je garancija.</p>
+                            <p>Rent och fint är vårt uppdrag. Det är vår garanti.</p>
                         </div>
                         <div class="single-about">
                             <div class="icon-title">
                                 <a href="about.php#vizija"><i class="icon icon-thumbs-up"></i></a>
-                                <h5>Vizija</h5>
+                                <h5>Vision</h5>
                             </div>
-                            <p>Mnoge ponude i brze usluge.</p>
+                            <p>Stort utbud av erbjudanden och snabba tjänster.</p>
                         </div>
                     </div>
                 </div>
@@ -174,7 +170,7 @@ include "php_vendor/navbar.php";
 <section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
-            <h2>Kako mi radimo</h2>
+            <h2>Hur vi arbetar</h2>
         </div>
         <div class="row">
             <div class="col-lg-4 single-process">
@@ -186,8 +182,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Zakaži online</h3>
-                        <p style="color: white;">Rezervišite čišćenje u par klika.</p>
+                        <h3 class="item-title">Boka online</h3>
+                        <p style="color: white;">Boka städning på bara några klick.</p>
                     </div>
                 </div>
             </div>
@@ -200,9 +196,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Sačekaj potvrdu</h3>
-                        <p style="color: white;">Kada pošaljete zahtev za čišćenje mi Vam odgovaramo u najkraćem mogućem
-                            roku.</p>
+                        <h3 class="item-title">Vänta på bekräftelse</h3>
+                        <p style="color: white;">När du skickar en begäran om städning försöker vi svara så fort som möjligt.</p>
                     </div>
                 </div>
             </div>
@@ -215,8 +210,8 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Uživajte</h3>
-                        <p style="color: white;">Po završenom čišćenju Vaše je samo da uživate u čistom prostoru.</p>
+                        <h3 class="item-title">Njut</h3>
+                        <p style="color: white;">Efter att städningen är klar återstår det bara att njuta av det rena utrymmet.</p>
                     </div>
                 </div>
             </div>
@@ -231,7 +226,7 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Naše usluge</h3>
+                    <h3>VÅRA TJÄNSTER</h3>
                 </div>
             </div>
         </div>
@@ -242,8 +237,8 @@ include "php_vendor/navbar.php";
                     <div class="awesome-menu text-center">
                         <ul class="project-menu">
                             <li><a href="#" class="active" data-filter="*">Sve</a></li>
-                            <li><a href="#" data-filter=".residential">Za fizicka lica</a></li>
-                            <li><a href="#" data-filter=".commercial">Za pravna lica</a></li>
+                            <li><a href="#" data-filter=".residential">För privatpersoner</a></li>
+                            <li><a href="#" data-filter=".commercial">För Företag</a></li>
                         </ul>
                     </div>
                 </div>
@@ -263,7 +258,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service1.php">Hemstädning</a>
                                 <p>Redovno ciscenje Vaseg doma</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -279,7 +274,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service2.php">Storstädning</a>
                                 <p>Detaljno i kompletno ciscenje Vaseg doma</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -296,7 +291,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service3.php">Flyttstädning</a>
                                 <p>Ciscenje prostora posle iseljena</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -311,7 +306,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
                                 <p class="dvareda">Ciscenje unutrasnjosti zgrada (stepenista, ulaza, lifta ...)</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -327,7 +322,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
                                 <p>Ciscenje prozora u Vasem domu</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -343,7 +338,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
                                 <p>Cisecenje kancelarija i poslovnog prostora</p>
-                                <a class="a" href="service/service1.php">Read more</a>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -358,7 +353,7 @@ include "php_vendor/navbar.php";
                             <div class="back">
                                 <a class="back-title1" href="service/service7.php">Fönsterputs</a>
                                 <p>Ciscenje prozora u poslovnom prostoru</p>
-                                <a class="a" href="service/service7.php">Read more</a>
+                                <a class="a" href="service/service7.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -380,25 +375,25 @@ include "php_vendor/navbar.php";
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-diamond"></i></a>
                             <span class="counter">13000</span>
-                            <h5>Završenih čišćenja</h5>
+                            <h5>FÄRDIGA STÄDNINGAR</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-star"></i></a>
                             <span class="counter">4500</span>
-                            <h5>Srećnih klijenata</h5>
+                            <h5>NÖJDA KUNDER</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-layers"></i></a>
                             <span class="counter">104</span>
-                            <h5>Sadašnji projekti</h5>
+                            <h5>NUVARANDE PROJEKT</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-users"></i></a>
                             <span class="counter">15</span>
-                            <h5>Zapošljenih</h5>
+                            <h5>MEDARBETARE</h5>
                         </div>
                     </div>
                 </div>

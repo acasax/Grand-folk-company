@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="sv">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grand folk company</title>
+    <title>Glada folk i Sverige</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -57,7 +57,7 @@ include "../php_vendor/navbarservice.php";
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower">
                         <div class="section-headline white-headline text-center">
-                            <h3>Glada folk company</h3>
+                            <h3>Glada folk i Sverige</h3>
                         </div>
                         <ul>
                             <li class="home-bread">Privatpersoner</li>
@@ -132,11 +132,11 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-well">
                             <ul class="marker-list">
-                                <li><i class="fas fa-arrow-circle-right"></i>Mi razumemo proces pranja stakala i njihovo održavanje više od bilo koga.</li>
-                                <li><i class="fas fa-arrow-circle-right"></i>Neophodno je puno napora i energije da bi stakla ponovo izgledala kao nova.</li>
-                                <li><i class="fas fa-arrow-circle-right"></i>Imamo savršene tehnike i princip rada koji ovaj posao čini bržim i efektnijim nego ikad.</li>
-                                <li><i class="fas fa-arrow-circle-right"></i>Za vaše potrebe i vrstu staklene površine koja treba da se čisti, biramo specijalne alate i sredstva.</li>
-                                <li><i class="fas fa-arrow-circle-right"></i>U svakom trenutku smo spremni da radimo za vas i da vam ispunimo sve potrebe i zahteve.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Mer än någon annan förstår vi oss på processen för rengöring av glas och dess underhåll.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Mycket ansträngning och energi behövs för att glaset ska se nytt ut igen.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Vi har dem perfekta teknikerna och en arbetsprincip som gör jobbet snabbare och effektivare än någonsin.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>För dina behov och en typ av glasyta som behöver rengöras väljer vi specialverktyg och produkter.</li>
+                                <li><i class="fas fa-arrow-circle-right"></i>Vi är redo att arbeta när som helst för dig för att uppfylla dina behov och önskemål.</li>
                             </ul>
                         </div>
                     </div>

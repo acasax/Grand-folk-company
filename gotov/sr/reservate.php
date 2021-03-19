@@ -1,10 +1,10 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="sv">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grand folk company</title>
+    <title>Glada folk i Sverige</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -100,6 +100,10 @@
                                             <label for="phone" class="boja">Please enter your personal number</label>
                                             <input type="number" class="form-control" id="p_number" name="p_number" placeholder="personal number" onblur="$(this).valid()">
                                         </div>
+                                        <div>
+                                        <label for="cc" class="boja">Expiration Date</label>
+                                        <input id="cc" type="text" placeholder="(MM/YY)" class="masked" pattern="(1[0-2]|0[1-9])\/(1[5-9]|2\d)" data-valid-example="05/18"/>
+                                        </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
@@ -126,15 +130,16 @@
                                                 <option value="7">Fönsterputs för företag</option>
                                             </select>
                                         </div>
+
                                         <div>
                                             <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
                                             <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()" value="1">
                                         </div>
                                         <div>
                                             <label for="message" class="boja">Write your message</label>
-                                            <textarea id="message" rows="5" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></textarea>
+                                            <input id="message"  type="text" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></input>
                                         </div>
-                                        <div>
+                                        <div class="mt35">
                                             <button type="submit" id="submit" class="quote-btn">Submit</button>
                                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                                             <div class="clearfix"></div>
@@ -142,6 +147,7 @@
                                         <!--<div class="help-block with-errors"></div>-->
                                     </div>
                                 </form>
+                                
                             </div>
                         </div>
                     </div>
@@ -192,7 +198,8 @@
     <script src="js/plugins.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
-
+    <script src="js/vendor/input-mask.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/masking-input.js" data-autoinit="true"></script>
 </body>
 
 </html>
