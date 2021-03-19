@@ -120,6 +120,7 @@ switch ($service){
         break;
     case 7:
         $sum =  350;
+        $time = 1;
         $user_class->returnJSON("OK","Cena za uslugu Fönsterputs för företag za vreme " . $time . " h je ". $sum ." sek + mons", "Framkörningsavgift tillkommer med 135 sek/tillfälle");
         return;
         break;

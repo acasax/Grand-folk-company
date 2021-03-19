@@ -94,15 +94,11 @@
                                         </div>
                                         <div>
                                             <label for="phone" class="boja">Please enter your Phone number</label>
-                                            <input type="number" class="form-control" id="phone" name="phone" placeholder="phone number" onblur="$(this).valid()">
+                                            <input type="text" class="phone_number form-control " id="phone" name="phone" value="" onblur="$(this).valid()">
                                         </div>
                                         <div>
                                             <label for="phone" class="boja">Please enter your personal number</label>
-                                            <input type="number" class="form-control" id="p_number" name="p_number" placeholder="personal number" onblur="$(this).valid()">
-                                        </div>
-                                        <div>
-                                        <label for="cc" class="boja">Expiration Date</label>
-                                        <input id="cc" type="text" placeholder="(MM/YY)" class="masked" pattern="(1[0-2]|0[1-9])\/(1[5-9]|2\d)" data-valid-example="05/18"/>
+                                            <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="" value="" onblur="$(this).valid()">
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
@@ -133,7 +129,7 @@
 
                                         <div>
                                             <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
-                                            <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()" value="1">
+                                            <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()" value="1" min="1">
                                         </div>
                                         <div>
                                             <label for="message" class="boja">Write your message</label>
@@ -155,6 +151,8 @@
             </div>
         </div>
     </div>
+
+   
     <!-- End Quote -->
     <!-- Start Banner Area -->
     <!-- End Banner Area -->
@@ -168,6 +166,7 @@
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
     <!-- bootstrap js -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 
     <script type="text/javascript" language="javascript" src="js/reservate.js"></script>
     <script type="text/javascript" language="javascript" src="assets/vendor/swall/sweetalert.js"></script>
@@ -198,8 +197,7 @@
     <script src="js/plugins.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
-    <script src="js/vendor/input-mask.min.js"></script>
-    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/masking-input.js" data-autoinit="true"></script>
+    <script src="js/custom.js"></script>
 </body>
 
 </html>
