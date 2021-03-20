@@ -59,8 +59,12 @@
                         <div class="quate-details">
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="sub-head">
-                                    <h4>Zahtev za<span class="color"> konsultacije</span></h4>
-                                    <p>Ovde bih isao tekst gde sve pruzate usluge i ono u vezi sa placanjem od strane drzave</p>
+                                    <h4><span class="color1">Offertförfrågan </span></h4>
+                                    <p>Offertförfrågan är kostnadsfri och inte bindande. Vi på Glada folk i Sverige lämnar alltid garanti efter oss som gäller i 24 timmar efter städtillfället.
+                                         Alla hushållsnära tjänster ingår i <a href="https://www.skatteverket.se/privat/fastigheterochbostad/rotochrutarbete.4.2e56d4ba1202f95012080002966.html?q=rut">skattereduktionen</a> 
+                                         som innebär att ni alltid endast  betalar 50 % av kostnaderna. 
+                                         <br>
+                                         <br> Lämna gärna dina uppgifter så kontaktar vi dig med en offert.</p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
@@ -98,7 +102,7 @@
                                         </div>
                                         <div>
                                             <label for="phone" class="boja">Please enter your personal number</label>
-                                            <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="" value="" onblur="$(this).valid()">
+                                            <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="ååååmmdd-xxxx" value="" onblur="$(this).valid()">
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">

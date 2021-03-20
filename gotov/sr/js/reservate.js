@@ -28,9 +28,8 @@ $(document).ready(function() {
                 },
                 p_number: {
                     required: true,
-                    minlength: 12,
-                    maxlength: 12,
-                    pattern: "[1-2][0|9][0-9]{2}[0-1][0-9][0-3][0-9]-[0-9]{4}",
+                    maxlength: 15,
+                    pattern: '[1-2][0|9][0-9]{2}[0-1][0-9][0-3][0-9]-[0-9]{4}',
                 }
             },
             messages: {
@@ -48,7 +47,6 @@ $(document).ready(function() {
                 },
                 p_number: {
                     required: 'Please enter your personal number',
-                    minlength: 'Please enter valid personal number,',
                     maxlength: 'Please enter valid personal number',
                     pattern: 'Please enter valid personal number'
                 }

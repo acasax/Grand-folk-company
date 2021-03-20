@@ -15,7 +15,7 @@
 </div>
 
 <footer class="footer-1">
-    <div class="footer-area area-padding17">
+    <div class="footer-area area-padding15">
         <div class="container">
             <div class="row">
                 <div class="col-md-5 col-sm-5 col-xs-12">

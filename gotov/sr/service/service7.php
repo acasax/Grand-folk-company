@@ -103,7 +103,7 @@ include "../php_vendor/navbarservice.php";
                                 <p style="margin-top: 15px; text-align: justify">Det finns naturligtvis många anledningar men de främsta är förmodligen att rena
                                     fönster släpper in mer ljus och bidrar till en trevligare atmosfär inomhus.
                                     Fräscha fönsterrutor gör även så att utsidan och insidan kontoret ser bättre ut, något som ger ett gott intryck på besökare och anstälda.
-                                    Många väljer att putsa sina fönster själva, men vi rekommenderar att du anlitar oss på <span style="font-weight: bold">Glada Folk Company.</span>
+                                    Många väljer att putsa sina fönster själva, men vi rekommenderar att du anlitar oss på <span style="font-weight: bold">Glada folk i Sverige.</span>
                                     Vi har mångårig erfarenhet av fönsterputsning och vet vad som krävs för att slutresultatet ska bli så lyckat som möjligt.
                                     <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där vi diskuterar vad just ert företag har för behov och önskemål.</span></p>
 

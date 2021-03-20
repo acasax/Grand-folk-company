@@ -257,6 +257,11 @@ div#preloader {
     font-weight: 900;
 }
 
+.color1 {
+    color: #2de232;
+    font-weight: 900;
+}
+
 .browserupgrade {
     margin: 0.2em 0;
     background: #ccc;
@@ -296,13 +301,15 @@ div#preloader {
 .section-headline h3 {
     color: darkgreen;
     display: inline-block;
-    font-size: 40px;
+    font-size: 34px;
     font-weight: 700;
     text-transform: uppercase;
 }
 
 .section-headline.white-headline h3 {
     color: #2de232;
+    line-height: 45px;
+    margin-bottom: 0px;
 }
 
 .section-headline.text-left {
@@ -353,6 +360,20 @@ div#preloader {
 
 .sub-head p {
     color: #fff;
+    font-size: 17px;
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.sub-head p a {
+    color: #2de232;
+    font-size: 17px;
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.sub-head p a:hover {
+    color: #ff8201;
     font-size: 17px;
     margin-top: 20px;
     line-height: 26px;
@@ -2465,7 +2486,8 @@ span.dolar {
 }
 
 .feature-text p {
-    font-size: 16px;
+    font-size: 13px;
+    font-weight: bolder;
 }
 
 

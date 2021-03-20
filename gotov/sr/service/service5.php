@@ -80,10 +80,6 @@ include "../php_vendor/navbarservice.php";
                     <div class="single-page-head">
                         <div class="left-menu">
                             <ul>
-                                <!--<li><a href="service1.php">Hemstädning</a></li>
-                                <li><a href="service2.php">Storstädning</a></li>
-                                <li><a href="service3.php">Flyttstädning</a></li>
-                                <li><a href="service4.php">Fönsterputs för privat personer</a></li>-->
                                 <li class="active"><a href="service5.php">Fastighetsskötsel</a></li>
                                 <li><a href="service6.php">Kontorsstädning</a></li>
                                 <li><a href="service7.php">Fönsterputs</a></li>
@@ -100,8 +96,8 @@ include "../php_vendor/navbarservice.php";
                         <div class="single-page">
                             <div class="page-img elec-page">
                                 <img src="../img/22.jpg" alt="" style="width: 100%;">
-                                <p style="margin-top: 15px; text-align: justify">Vi kan hjälpa dig hålla fastigheten i form med tex trappstädning.
-                                    Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
+                                <p style="margin-top: 15px; text-align: justify">
+                                    Där det inte finns något behov av att städa och underhålla en hel byggnad finns vi till för att erbjuda städning för specifika delar I byggnaden som trappor, hissar, passager, hallar med mera. Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
 
                                     <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där
                                     vi diskuterar vad just din fastighet har för servicebehov och önskemål.</span>
@@ -129,12 +125,13 @@ include "../php_vendor/navbarservice.php";
                             <div class="col-md-6 col-sm-12 col-xs-12">
                                 <div class="single-well">
                                     <h4>Trappstädning omfattar</h4>
+                                    <p>Komplett och grundlig rengöring av enskilda anläggningar och ytor inkluderar:</p>
                                     <ul class="marker-list">
-                                        <li><i class="fas fa-arrow-circle-right"></i>sopning</li>
-                                        <li><i class="fas fa-arrow-circle-right"></i>moppning</li>
-                                        <li><i class="fas fa-arrow-circle-right"></i>dammtorkning</li>
-                                        <li><i class="fas fa-arrow-circle-right"></i>avtorkning samt putsning av golv, väggar och dörrar</li>
-                                        <li><i class="fas fa-arrow-circle-right"></i>Detta görs även på alla övriga ytor och anordningar i trappuppgångar, entréplan, våningsplan, källare och hissar.</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Hallstädning</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Rengöring av trappor</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Rengöring av ingångar och dörrar</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Rengöring av skyltfönster och vanliga fönster.</li>
+                                        <li><i class="fas fa-arrow-circle-right"></i>Rengöring av räcken</li>
                                     </ul>
                                 </div>
                             </div>

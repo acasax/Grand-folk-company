@@ -59,7 +59,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
                         <div class="section-headline white-headline text-center " >
-                            <h3>MER OM GLADA FOLK I SVERIGE</h3>
+                            <h3>MÅNGA FÖRETAG HAR EGNA FILOSOFIER.<br> VI LEVER VÅRA EGNA.</h3>
                         </div>
                         <ul>
                             <li>
@@ -115,19 +115,19 @@
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text">
                     <p>
-                        <span style="color: darkgreen; font-weight: bold;font-size: 17px;">Vårt VISION</span>  je da budemo kompanija koja obezbeđujućuje visok kvalitet usluga i kontinuirano
-                        zadovoljstvo klijenata i postanemo sinonim za kompaniju koja posluje u koraku s vremenom koje
-                        dolazi.<br>Mi težimo ka tome da:
+                        <span style="color: darkgreen; font-weight: bold;font-size: 17px;">Vårt VISION</span>  Bli ledande på marknaden genom att tillhandahålla en högkvalitativ service och kontinuerlig kundnöjdhet för våra kunder
+                        och att bli synonymen för företag som fungerar i takt med den kommande tiden. 
+                        <br>Vi strävar efter att: 
                     </p>
                     <ul class="marker-list">
                         <li>
-                            <i class="fas fa-check-circle"></i> Postanemo lider na tržištu
+                            <i class="fas fa-check-circle"></i> Blir ledare på marknaden. 
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Konstantno unapređujemo svoje poslovanje obučavanjem kadra i nabavljanjem nove opreme
+                        <li><i class="fas fa-check-circle"></i> Att ständigt förbättra vår verksamhet genom att utbilda personal och skaffa ny utrustning.
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Uvođenje novih usluga
+                        <li><i class="fas fa-check-circle"></i> Genon att introducera  nya tjänster. 
                         </li>
-                        <li><i class="fas fa-check-circle"></i> Praćenje trendova i digitalizacija poslovnih procesa
+                        <li><i class="fas fa-check-circle"></i> Att följa trender och digitalisera affärsprocesser.
                         </li>
                     </ul>
                 </div>
@@ -188,6 +188,46 @@
                 <!-- End column -->
             </div>
         </div>
+    </div>
+</div>
+<span class="anchor" id="vizija"></span>
+<div class="video-area" style="margin-top: 25px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="video-text">
+                    <ul class="marker-list">
+                        <li>
+                            <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">RESULTAT FÖR OSS ALLA</span> <br>Vi lyckas bara om alla är nöjda: i Glada folk i Sverige gynnas våra kunder först. Men det gör även våra anställda och partners också. 
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">VI ERBJUDER INDIVIDUELL SUPPORT</span> <br>Faciliteter vi upprätthåller skiljer sig åt, liksom våra kunder. Det är därför vi anpassar våra tjänster till dina önskemål, behov och krav. 
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">RESULTATEN AV VÅRT ARBETE ÄR SYNLIGA</span> <br>Vårt mål är att göra det som är bra ännu bättre. Genom ett modernt system för kvalitetsledning granskar vi våra nuvarande rutiner och optimerar våra processer för att erbjuda dig den högsta servicenivån. 
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">VI FULLÄNDAR OSS SJÄLVA</span> <br>Att stå still är ett steg bakåt. Det är därför vi investerar i den professionella utvecklingen av alla våra medarbetare. Endast genom att göra det kan vi garantera våra tjänster till högsta kvalitet.
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">SÄKERHET FÖRST</span> <br>Våra anställda förtjänar den bästa behandlingen. Vårt team har en bra säkerhet på jobbet och bra vård.
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">RESPEKTERA ALLA</span> <br>Vårt team består av medlemmar från olika kulturer och de är alla bäst i sitt eget yrke. 
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">REDO FÖR DEN FRIA MARKNADEN</span> <br>Vi strävar att alltid vara ett steg före våra konkurrenter. Det är en av anledningarna till vårt växande engagemang. På så sätt kan vi stärka vår position på marknaden och utveckla den ytterligare.  
+                        </li>
+                        <li>
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">VI STRÄVAR EFTER ATT LYCKAS</span> <br>Allt handlar inte bara om pengar. Vårt företags ekonomiska framgångar utgör dock den nödvändiga grunden för vår konkurrenskraft på marknaden.
+                        </li>
+                        
+                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- end Row -->
     </div>
 </div>
 <!-- End-About-feature-area -->
@@ -270,7 +310,7 @@
 </div>-->
 <!-- team area end -->
 <!-- Start testimonials Area -->
-<div class="testimonial-area area-padding">
+<!--<div class="testimonial-area area-padding">
     <div class="test-overly"></div>
     <div class="container">
         <div class="row">
@@ -283,7 +323,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="Reviews-content">
-                    <!-- start testimonial carousel -->
+                   
                     <div class="testimonial-carousel item-indicator">
                         <div class="single-testi text-center">
                             <div class="testi-img ">
@@ -303,7 +343,7 @@
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
                         </div>
-                        <!-- End single item -->
+                       
                         <div class="single-testi text-center">
                             <div class="testi-img ">
                                 <img src="img/review/2.jpg" alt="">
@@ -322,7 +362,7 @@
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
                         </div>
-                        <!-- End single item -->
+                      
                         <div class="single-testi text-center">
                             <div class="testi-img">
                                 <img src="img/review/3.jpg" alt="">
@@ -342,7 +382,7 @@
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
                         </div>
-                        <!-- End single item -->
+                        
                         <div class="single-testi text-center">
                             <div class="testi-img">
                                 <img src="img/review/4.jpg" alt="">
@@ -362,13 +402,13 @@
                                 <span class="guest-rev"><a href="#">Genarel customer</a></span>
                             </div>
                         </div>
-                        <!-- End single item -->
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- End testimonials end -->
 <!-- Start About Area -->
 

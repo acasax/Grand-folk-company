@@ -63,8 +63,7 @@ include "php_vendor/navbar.php";
                         <h3>VÅRA TJÄNSTER</h3>
                         </div>
                         <ul>
-                            <li>Vama kao klijentima ne nudimo samo stručnu kompetenciju i vrhunski kvalitet usluga pre svega
-                                imate koristi od pouzdanosti i efikasnosti našeg motivisanog tima.</li>
+                            <li>Vi erbjuder inte bara en professionell kompetens och en högkvalitativ service till våra kunder utan framför allt drar du som kund nytta av tillförlitlighet och effektivitet av vårt motiverade team.</li>
                         </ul>
                     </div>
                 </div>

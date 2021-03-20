@@ -135,7 +135,7 @@ include "php_vendor/navbar.php";
                     <h4><span class="color">Glada folk i Sverige</span> - Vi erbjuder utmärkta städtjänster för faciliteter.</h4>
                     <p>Vi är ett städföretag som har en långvarig erfarenhet av personal i teamet. Glada folk i Sverige är ett familjeföretag
                      grundat för att våra barn också ska kunna fortsätta vårt arbete när dem växer upp.
-                     Själva namnet på vårt företag, ”Glada folk”, syftar till att få DIG och våra kunder att le och känna sig glada när ni kommer hem eller går till jobbet.
+                     Själva namnet på vårt företag ”Glada folk” syftar till att få DIG och våra kunder att le och känna sig glada när ni kommer hem eller går till jobbet.
                     </p>
                     <div class="about-details text-center hidden-sm">
                         <div class="single-about">
@@ -236,7 +236,7 @@ include "php_vendor/navbar.php";
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="awesome-menu text-center">
                         <ul class="project-menu">
-                            <li><a href="#" class="active" data-filter="*">Sve</a></li>
+                            <li><a href="#" class="active" data-filter="*">Allt</a></li>
                             <li><a href="#" data-filter=".residential">För privatpersoner</a></li>
                             <li><a href="#" data-filter=".commercial">För Företag</a></li>
                         </ul>
@@ -257,7 +257,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service1.php">Hemstädning</a>
-                                <p>Redovno ciscenje Vaseg doma</p>
+                                <p>Regelbunden städning av ert hem.</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service2.php">Storstädning</a>
-                                <p>Detaljno i kompletno ciscenje Vaseg doma</p>
+                                <p>Detaljerad och komplett städning ert hem.</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -290,7 +290,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service3.php">Flyttstädning</a>
-                                <p>Ciscenje prostora posle iseljena</p>
+                                <p>Städning av plats efter flytt.</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -305,7 +305,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
-                                <p class="dvareda">Ciscenje unutrasnjosti zgrada (stepenista, ulaza, lifta ...)</p>
+                                <p class="dvareda">Invändig städning av byggnad (trappor, ingång, hiss ...).</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -321,7 +321,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
-                                <p>Ciscenje prozora u Vasem domu</p>
+                                <p>Fönsterrengöring i ert hem.</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -337,7 +337,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
-                                <p>Cisecenje kancelarija i poslovnog prostora</p>
+                                <p>Städning av kontor och arbetsplatser.</p>
                                 <a class="a" href="service/service1.php">LÄS MER</a>
                             </div>
                         </div>
@@ -352,7 +352,7 @@ include "php_vendor/navbar.php";
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service7.php">Fönsterputs</a>
-                                <p>Ciscenje prozora u poslovnom prostoru</p>
+                                <p>Fönsterrengöring på arbetsplats.</p>
                                 <a class="a" href="service/service7.php">LÄS MER</a>
                             </div>
                         </div>
