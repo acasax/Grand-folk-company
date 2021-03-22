@@ -11,6 +11,14 @@ $message    = $_POST['message'];
 $time       = null;
 $sum        = null;
 $razlika    = 0;
+
+
+if(!isset($_POST['data'])){
+    $user_class->returnJSON("ERROR","Niste prihavtili politiku privatnosti!!!!", 
+            "Prihvatite da bi ste poslali porukua");
+            return;
+}
+
 switch ($service){
     case 1:
         if ($space > 0 && $space <= 50){

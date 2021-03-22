@@ -110,8 +110,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="copyright">
                         <p>
-                            Copyright © 2021
-                            <a href="#">ResivoJe</a> All Rights Reserved
+                            <a href="dataskydd.php">Dataskydd</a> 
                         </p>
                     </div>
                 </div>

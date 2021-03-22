@@ -257,14 +257,7 @@
                         </div>
                         <!-- End single page -->
                     </div>
-                    <div class="row mar-row">
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="single-well">
-                                <h4>Material</h4>
-                                <p>Personalen från Vardagshjälten har med sig allt material de behöver, så det är inget du behöver tänka på. Det enda vi gärna lånar av er är er dammsugare, av allergiskäl.</p>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>

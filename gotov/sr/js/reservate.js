@@ -28,8 +28,8 @@ $(document).ready(function() {
                 },
                 p_number: {
                     required: true,
-                    maxlength: 15,
-                    pattern: '[1-2][0|9][0-9]{2}[0-1][0-9][0-3][0-9]-[0-9]{4}',
+
+                    //pattern: '[1-2][0|9][0-9]{2}[0-1][0-9][0-3][0-9]-[0-9]{4}',
                 }
             },
             messages: {
@@ -47,8 +47,7 @@ $(document).ready(function() {
                 },
                 p_number: {
                     required: 'Please enter your personal number',
-                    maxlength: 'Please enter valid personal number',
-                    pattern: 'Please enter valid personal number'
+                    // pattern: 'Please enter valid personal number'
                 }
             },
             submitHandler: function submitHandler(form) {
@@ -65,12 +64,11 @@ $(document).ready(function() {
                         if (str === 'ERROR') {
                             str = objResp.data;
                             swal({
-                                title: str1,
-                                text: str,
-                                timer: 3000,
+                                title: str,
+                                text: objResp.params,
                                 showCancelButton: false,
-                                showConfirmButton: false,
-                                type: "error"
+                                showConfirmButton: true,
+                                type: "error",
                             });
                             return;
                         }

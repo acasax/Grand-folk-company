@@ -61,10 +61,11 @@
                                 <div class="sub-head">
                                     <h4><span class="color1">Offertförfrågan </span></h4>
                                     <p>Offertförfrågan är kostnadsfri och inte bindande. Vi på Glada folk i Sverige lämnar alltid garanti efter oss som gäller i 24 timmar efter städtillfället.
-                                         Alla hushållsnära tjänster ingår i <a href="https://www.skatteverket.se/privat/fastigheterochbostad/rotochrutarbete.4.2e56d4ba1202f95012080002966.html?q=rut">skattereduktionen</a> 
-                                         som innebär att ni alltid endast  betalar 50 % av kostnaderna. 
-                                         <br>
-                                         <br> Lämna gärna dina uppgifter så kontaktar vi dig med en offert.</p>
+                                        Alla hushållsnära tjänster ingår i <a href="https://www.skatteverket.se/privat/fastigheterochbostad/rotochrutarbete.4.2e56d4ba1202f95012080002966.html?q=rut">skattereduktionen</a>
+                                        som innebär att ni alltid endast betalar 50 % av kostnaderna.
+                                        <br>
+                                        <br> Lämna gärna dina uppgifter så kontaktar vi dig med en offert.
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
@@ -104,6 +105,11 @@
                                             <label for="phone" class="boja">Please enter your personal number</label>
                                             <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="ååååmmdd-xxxx" value="" onblur="$(this).valid()">
                                         </div>
+                                        <div style="display: flex;" class="mt35">
+                                            <input type="checkbox" class=" form-control" id="data" name="data">
+                                            <label for="data" class="boja" style="font-size: 14px;">Jag samtycker till att mina personuppgifter behandlas enligt <a href="privacy-policy.php">integritetspolicyn</a></label>
+                                        </div>
+
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
@@ -137,17 +143,20 @@
                                         </div>
                                         <div>
                                             <label for="message" class="boja">Write your message</label>
-                                            <input id="message"  type="text" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></input>
+                                            <textarea id="message" rows="3" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></textarea>
                                         </div>
                                         <div class="mt35">
-                                            <button type="submit" id="submit" class="quote-btn">Submit</button>
+                                            <div class="quote-button" style="display: flex; width: 100%;justify-content: center;align-items: center;">
+                                                <button type="submit" id="submit" class="quote-btn">Submit</button>
+                                            </div>
                                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                                             <div class="clearfix"></div>
                                         </div>
+
                                         <!--<div class="help-block with-errors"></div>-->
                                     </div>
                                 </form>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -156,7 +165,7 @@
         </div>
     </div>
 
-   
+
     <!-- End Quote -->
     <!-- Start Banner Area -->
     <!-- End Banner Area -->

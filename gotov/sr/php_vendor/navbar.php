@@ -57,6 +57,8 @@
                                     </li>
                                     <li><a class="pagess" href="about.php">OM OSS</a>
                                     </li>
+                                    <li><a class="pagess" href="partner.php">Partner</a>
+                                    </li>
                                     <li class="dropdown dropdown-4"><a class="pagess" href="services.php">Privatpersoner</a>
                                         <ul class="sub-menu dropdown_menu dropdown_menu-4">
                                             <li class="dropdown_item-1"><a href="service/service1.php">Hemstädning</a></li>

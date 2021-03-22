@@ -191,7 +191,7 @@
     </div>
 </div>
 <span class="anchor" id="vizija"></span>
-<div class="video-area" style="margin-top: 25px">
+<div class="video-area" style="margin: 25px 0;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -221,8 +221,6 @@
                         <li>
                         <i class="fa fa-thumbs-o-up" aria-hidden="true"></i><span style="color: darkgreen; font-weight: bold;font-size: 17px;">VI STRÄVAR EFTER ATT LYCKAS</span> <br>Allt handlar inte bara om pengar. Vårt företags ekonomiska framgångar utgör dock den nödvändiga grunden för vår konkurrenskraft på marknaden.
                         </li>
-                        
-                      
                     </ul>
                 </div>
             </div>

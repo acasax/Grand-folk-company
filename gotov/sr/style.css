@@ -1808,6 +1808,24 @@ span.dolar {
     border-radius: 10px;
 }
 
+.quote-area #contactForm input[type="checkbox"] {
+    border: none;
+    height: 16px;
+    width: 10%;
+    padding: 6px 12px;
+    color: #555;
+    margin-right: 5px;
+    border-radius: 25%;
+}
+
+.quote-area #contactForm div label a {
+    color: #2de232;
+}
+
+.quote-area #contactForm div label a:hover {
+    color: #ff8201;
+}
+
 .quote-area .contact-form textarea#message {
     height: 100px;
     border-radius: 10px;
@@ -2207,6 +2225,10 @@ span.dolar {
 }
 
 .copyright a {
+    color: white;
+}
+
+.copyright a:hover {
     color: #2de232;
 }
 
@@ -2827,6 +2849,10 @@ span.dolar {
 .single-services-page p {
     color: #666;
     margin-bottom: 0px;
+}
+
+.single-services-page h4 {
+    margin-top: 15px;
 }
 
 .left-menu li:first-child {
