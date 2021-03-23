@@ -88,12 +88,18 @@
                         <div class="footer-head">
                             <h4>Nyheter</h4>
                             <p>
-                            Registrera dig så att vi kan skicka dig nyheter om vårt företag via e-post.
+                                Registrera dig så att vi kan skicka dig nyheter om vårt företag via e-post.
                             </p>
                             <div class="subs-feilds">
                                 <div class="suscribe-input">
                                     <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
                                     <button type="submit" id="sus_submit" class="add-btn">Bli Medlem</button>
+                                    <div class="footer-services-link" style="margin-top: 65px;">
+                                        <ul class="footer-list">
+                                            <li><a href="dataskydd.php">Dataskydd</a></li>
+                                            <li><a href="privacy-policy.php">Integritetspolicy</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +116,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="copyright">
                         <p>
-                            <a href="dataskydd.php">Dataskydd</a> 
+                            Copyright © 2021
+                            <a href="https://resivoje.com/">ResivoJe</a> All Rights Reserved Glada folk i Sverige
                         </p>
                     </div>
                 </div>

@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
-                <div class="banner-contact">
+                    <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
+                    <div class="banner-contact">
                         <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
                     </div>
 
@@ -23,7 +23,9 @@
                     <div class="footer-content">
                         <div class="footer-head">
                             <div class="footer-logo">
-                                <a href="#"><h1 style="color: white;"> <img src="../img/logo/Glada%20Folk%20Company%20logo.png" style="height: 150px"></a>
+                                <a href="#">
+                                    <h1 style="color: white;"> <img src="../img/logo/Glada%20Folk%20Company%20logo.png" style="height: 150px">
+                                </a>
                             </div>
                             <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>
 
@@ -39,7 +41,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                           <!-- <h4>Usluge</h4>--->
+                            <!-- <h4>Usluge</h4>--->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
                                     <p>Privatpersoner</p>
@@ -56,7 +58,7 @@
                                 </ul>
                             </div>
                             <div class="footer-icons">
-                            <h5>Följ oss</h5>
+                                <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
                                     <li>
                                         <a href="#">
@@ -87,14 +89,20 @@
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                        <h4>Nyheter</h4>
+                            <h4>Nyheter</h4>
                             <p>
-                            Registrera dig så att vi kan skicka dig nyheter om vårt företag via e-post.
+                                Registrera dig så att vi kan skicka dig nyheter om vårt företag via e-post.
                             </p>
                             <div class="subs-feilds">
                                 <div class="suscribe-input">
                                     <input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
                                     <button type="submit" id="sus_submit" class="add-btn">Bli Medlem</button>
+                                    <div class="footer-services-link" style="margin-top: 65px;">
+                                        <ul class="footer-list">
+                                            <li><a href="../dataskydd.php">Dataskydd</a></li>
+                                            <li><a href="../privacy-policy.php">Integritetspolicy</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +119,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="copyright">
                         <p>
-                            <a href="dataskydd.php">Dataskydd</a> 
+                            Copyright © 2021
+                            <a href="#">ResivoJe</a> All Rights Reserved Glada folk i Sverige
                         </p>
                     </div>
                 </div>

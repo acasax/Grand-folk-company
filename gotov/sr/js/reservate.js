@@ -80,7 +80,12 @@ $(document).ready(function() {
                                 text: objResp.params,
                                 showCancelButton: false,
                                 showConfirmButton: true,
-                                type: "success",
+                                //type: "success",
+                                imageUrl: 'img/zelenikrug.png',
+                                imageWidth: 500,
+                                imageHeight: 500,
+                                imageAlt: 'Custom image',
+                                animation: false
 
                             });
                             $('#contactForm')[0].reset();
