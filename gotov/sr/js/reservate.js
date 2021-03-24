@@ -68,7 +68,11 @@ $(document).ready(function() {
                                 text: objResp.params,
                                 showCancelButton: false,
                                 showConfirmButton: true,
-                                type: "error",
+                                imageUrl: 'img/crvenikrug.png',
+                                imageWidth: 500,
+                                imageHeight: 500,
+                                imageAlt: 'Nije kako treba',
+                                animation: false
                             });
                             return;
                         }
@@ -84,7 +88,7 @@ $(document).ready(function() {
                                 imageUrl: 'img/zelenikrug.png',
                                 imageWidth: 500,
                                 imageHeight: 500,
-                                imageAlt: 'Custom image',
+                                imageAlt: 'Dobro je',
                                 animation: false
 
                             });
