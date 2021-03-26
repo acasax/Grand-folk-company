@@ -58,7 +58,7 @@ include "php_vendor/navbar.php";
         <div class="container">
             <div class="row ">
                 <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
+                    <div class="breadcrumb animate__delay-1s animate__animated animate__zoomIn animate__slower" >
                         <div class="section-headline white-headline text-center">
                             <h3>VÅRA TJÄNSTER</h3>
                         </div>
@@ -80,8 +80,8 @@ include "php_vendor/navbar.php";
     <div class="container">
         <div class="row text-center" style="margin-top: 20px">
             <div class="all-services">
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="row" >
+                    <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service1.php">
                                 <img src="img/servicepocetna/bg1.jpg" alt="">
@@ -93,7 +93,7 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service2.php">
                                 <img src="img/servicepocetna/1.jpg" alt="">
@@ -105,7 +105,7 @@ include "php_vendor/navbar.php";
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service3.php">
                                 <img src="img/servicepocetna/2.jpg" alt="">

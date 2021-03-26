@@ -34,12 +34,19 @@
         var windowpos = $(window).scrollTop();
         if (windowpos > 0) {
             s.addClass("stick");
-            d.addClass("sadrzaj");
+            if ($(window).width() > 1150) {
+                d.addClass("sadrzaj");
+            }
+
         } else {
             s.removeClass("stick");
-            d.removeClass("sadrzaj");
+            if ($(window).width() > 1150) {
+                d.removeClass("sadrzaj");
+            }
         }
     });
+
+
     /*----------------------------
      jQuery MeanMenu
     ------------------------------ */
@@ -243,7 +250,7 @@
 
 
     $('.sub-menu ul').hide();
-    $(".sub-menu a").click(function () {
+    $(".sub-menu a").click(function() {
         $(this).parent(".sub-menu").children("ul").slideToggle("200");
         $(this).find("i.fa").toggleClass("fa-angle-up fa-angle-down");
     });

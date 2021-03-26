@@ -275,6 +275,7 @@ body.stop-scrolling {
     display: none;
     z-index: 2000;
     box-shadow: 5px 10px 18px #ccc;
+    outline: none;
 }
 
 @media all and (max-width: 767px) {

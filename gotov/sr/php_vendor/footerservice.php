@@ -1,11 +1,11 @@
-<div class="banner-area">
+<div class="banner-area hidden-sm hidden-xs">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
                     <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="../contact.php">Kontakta oss</a>
                     </div>
 
                 </div>
@@ -14,6 +14,24 @@
     </div>
 </div>
 
+<div class="banner-area hidden-lg hidden-md">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="banner-content">
+                    <h4 style="margin-bottom: 20px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
+                    <div class="banner-contact" style="margin-top: 10px;float: none; text-align: center;">
+                        <span class="call-us" ><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><br>
+                        <div style="display: flex; justify-content: center; margin-top: 10px">
+                            <a class="banner-btn" href="../contact.php" style="margin-right: 0px;">Kontakta oss</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <footer class="footer-1">
     <div class="footer-area area-padding15">
@@ -24,7 +42,7 @@
                         <div class="footer-head">
                             <div class="footer-logo">
                                 <a href="#">
-                                    <h1 style="color: white;"> <img src="../img/logo/Glada%20Folk%20Company%20logo.png" style="height: 150px">
+                                    <h1 style="color: white;"> <img src="../img/logo/Glada Folk Company logo bw.png" >
                                 </a>
                             </div>
                             <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>
@@ -41,7 +59,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <!-- <h4>Usluge</h4>--->
+                            <!--<h4>Usluge</h4>-->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
                                     <p>Privatpersoner</p>
@@ -57,9 +75,43 @@
                                     <li><a href="../service/service7.php">Fönsterputs</a></li>
                                 </ul>
                             </div>
-                            <div class="footer-icons">
+                            <div class="footer-icons hidden-sm hidden-xs">
                                 <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
+                                    <li>
+                                        <a href="#">
+                                            <img src="../img/ikonice/iconfinder_25_social_2609558.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="../img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="../img/ikonice/iconfinder_facebook_386622.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="../img/ikonice/output-onlinepngtools(1).png" style="height: 40px">
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-12 hidden-lg hidden-md">
+                    <div class="footer-content" style="margin-bottom: 0;">
+                        <div class="footer-head">
+                            <!--<h4>Usluge</h4>-->
+                        
+                            <div class="footer-icons" style="margin-top: 0;">
+                                <h5>Följ oss</h5>
+                                <ul style="height: 80px; padding-left: 5px">
                                     <li>
                                         <a href="#">
                                             <img src="../img/ikonice/iconfinder_25_social_2609558.png">
@@ -120,7 +172,7 @@
                     <div class="copyright">
                         <p>
                             Copyright © 2021
-                            <a href="#">ResivoJe</a> All Rights Reserved Glada folk i Sverige
+                            <a href="https://resivoje.com/">ResivoJe</a> All Rights Reserved Glada folk i Sverige
                         </p>
                     </div>
                 </div>

@@ -230,6 +230,7 @@ include "php_vendor/navbar.php";
                 </div>
             </div>
         </div>
+        
         <div class="row">
             <!-- Start Portfolio -page -->
             <div class="awesome-project fix">
@@ -246,7 +247,7 @@ include "php_vendor/navbar.php";
             <div class="project-content">
                 <!-- single-awesome-project start -->
 
-                <div class="project-single all-padding residential">
+                <div class="project-single all-padding residential" >
                     <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
                         <div class="flipper">
                             <div class="front">

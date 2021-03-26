@@ -57,7 +57,7 @@
         <div class="container">
             <div class="row ">
                 <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="breadcrumb animate__delay-2s animate__animated animate__zoomIn animate__slower" >
+                    <div class="breadcrumb animate__delay-1s animate__animated animate__zoomIn animate__slower" >
                         <div class="section-headline white-headline text-center " >
                             <h3>MÅNGA FÖRETAG HAR EGNA FILOSOFIER.<br> VI LEVER VÅRA EGNA.</h3>
                         </div>
@@ -78,8 +78,13 @@
 <div class="video-area area-padding" style="margin-top: 70px">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="col-md-6 col-sm-6 col-xs-12 hidden-sm hidden-xs">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen style="border-radius: 10px; box-shadow: 5px 10px 18px #ccc;"></iframe>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 hidden-lg hidden-md" style="margin-bottom: 25px;">
+                <iframe width="420" height="250" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen style="border-radius: 10px; box-shadow: 5px 10px 18px #ccc;"></iframe>
             </div>

@@ -66,24 +66,7 @@
                             <div class="col-md-3 col-sm-12">
                                 <a href="https://resivoje.com/"><img src="img/partneri/Resivoje logo-1.png"></a>
                             </div>
-                            <div class="col-md-3 col-sm-12" style="display: flex;
-    justify-content: center;
-    align-items: center;">
-                            <a href=""><img src="img/logo/Glada Folk Company logo.jpg"></a>
-
-                            </div>
-                            <div class="col-md-3 col-sm-12" style="display: flex;
-    justify-content: center;
-    align-items: center;">
-                            <a href=""><img src="img/logo/Glada Folk Company logo.jpg"></a>
-
-                            </div>
-                            <div class="col-md-3 col-sm-12" style="display: flex;
-    justify-content: center;
-    align-items: center;">
-                            <a href=""><img src="img/logo/Glada Folk Company logo.jpg"></a>
-
-                            </div>
+                       
                         </div>
                     </div>
 

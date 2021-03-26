@@ -1,7 +1,7 @@
 <header class="header-style-3">
 
     <!-- header-area start -->
-    <div id="sticker" class="header-area header-area-3 hidden-xs">
+    <div id="sticker" class="header-area header-area-3  hidden-sm hidden-xs">
         <div class="topbar-area topbar-3 fix hidden-xs">
             <div class="container">
                 <div class="row">
@@ -42,7 +42,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                            <img src="img/logo/Glada%20Folk%20Company%20logo.jpg" alt="" style="height: 60px;">
+                            <img src="img/logo/Glada Folk.png" alt="" style="height: 60px;">
                         </a>
                     </div>
                 </div>
@@ -88,33 +88,40 @@
     </div>
     <!-- header-area end -->
     <!-- mobile-menu-area start -->
-    <div class="mobile-menu-area hidden-lg hidden-md hidden-sm">
+    <div class="mobile-menu-area hidden-lg hidden-md  ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="index.php"><img src="../img/logo/Glada%20Folk%20Company%20logo.jpg" alt=""></a>
+                            <a href="index.php"><img src="img/logo/Glada Folk.png" alt="" style="max-width: 160px; "></a>
                         </div>
                         <nav id="dropdown">
                             <ul>
-                                <li><a class="pagess" href="index.php">Početna</a>
-                                </li>
-                                <li><a class="pagess" href="about.php">O nama</a>
-                                </li>
-                                <li><a class="pagess" href="services.php">Usluge</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="service/service1.php">Hemstädning</a></li>
-                                        <li><a href="service/service2.php">Storstädning</a></li>
-                                        <li><a href="service/service3.php">Flyttstädning</a></li>
-                                        <li><a href="service/service4.php">Fönsterputs</a></li>
-                                        <li><a href="service/service5.php">Fastighetsskötsel</a></li>
-                                        <li><a href="service/service6.php">Kontorsstädning</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="pagess" href="blog-grid-1.php">Dodatni sadržaj</a>
-                                </li>
-                                <li><a href="contact.php">Kontakt</a></li>
+                            <li><a class="pagess" href="index.php">HEM</a>
+                                    </li>
+                                    <li><a class="pagess" href="about.php">OM OSS</a>
+                                    </li>
+                                    <li><a class="pagess" href="partner.php">partners</a>
+                                    </li>
+                                    <li><a class="pagess" href="services.php">Privatpersoner</a>
+                                        <ul>
+                                            <li><a href="service/service1.php">Hemstädning</a></li>
+                                            <li><a href="service/service2.php">Storstädning</a></li>
+                                            <li><a href="service/service3.php">Flyttstädning</a></li>
+                                            <li><a href="service/service4.php">Fönsterputs</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="pagess" href="services2.php">För företag</a>
+                                        <ul >
+                                            <li class="dropdown_item-1"><a href="service/service5.php">Fastighetsskötsel</a></li>
+                                            <li class="dropdown_item-2"><a href="service/service6.php">Kontorsstädning</a></li>
+                                            <li class="dropdown_item-3"><a href="service/service7.php">Fönsterputs</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="pagess" href="blog-grid-1.php">NYHETER</a>
+                                    </li>
+                                    <li><a href="contact.php">KONTAKTA OSS</a></li>
                             </ul>
                         </nav>
                     </div>
