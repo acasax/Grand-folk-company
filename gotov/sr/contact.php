@@ -77,7 +77,7 @@
 
     <!-- END Header -->
     <!-- Start contact Area -->
-    <div class="contact-page area-padding" style="margin: 35px 0; display: flex;
+    <div class="contact-page area-padding" style="margin: 60px 0; display: flex;
     justify-content: center;
     align-items: center;">
         <div class="container">
@@ -149,6 +149,7 @@
             </div>
         </div>
     </div>
+    <!-- Start contact Area
     <!-- Start contact Area -->
     <!-- End Contact Area -->
     <!-- Start Footer bottom Area -->

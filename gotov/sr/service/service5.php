@@ -71,7 +71,7 @@ include "../php_vendor/navbarservice.php";
 </div>
 <!-- END Header -->
 <!-- End services Area -->
-<div class="single-services-page area-padding" style="margin-top: 26px">
+<div class="single-services-page area-padding" style="margin-top: 23px; margin-bottom: 40px">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12">
@@ -99,7 +99,7 @@ include "../php_vendor/navbarservice.php";
                                 <p style="margin-top: 15px; text-align: justify">
                                     Där det inte finns något behov av att städa och underhålla en hel byggnad finns vi till för att erbjuda städning för specifika delar I byggnaden som trappor, hissar, passager, hallar med mera. Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
 
-                                    <br><br><span style="font-weight: bold; margin-top: 15px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där
+                                    <br><span style="font-weight: bold; margin-top: 5px">Kontakta oss via telefon eller mejl för ett kostnadsfritt möte där
                                     vi diskuterar vad just din fastighet har för servicebehov och önskemål.</span>
                                 </p>
                             </div>
@@ -108,7 +108,7 @@ include "../php_vendor/navbarservice.php";
                     <!-- strat single page -->
                     <!-- single-well end-->
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="single-well" style="margin-top: 35px">
+                        <div class="single-well" style="margin: 45px 0">
                             <a href="#">
                                 <h3>FASTIGHETSSKÖTSEL INNEFATTAR</h3>
 

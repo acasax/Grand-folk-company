@@ -34,13 +34,13 @@
         var windowpos = $(window).scrollTop();
         if (windowpos > 0) {
             s.addClass("stick");
-            if ($(window).width() > 1150) {
+            if ($(window).width() > 1250) {
                 d.addClass("sadrzaj");
             }
 
         } else {
             s.removeClass("stick");
-            if ($(window).width() > 1150) {
+            if ($(window).width() > 1250) {
                 d.removeClass("sadrzaj");
             }
         }

@@ -76,7 +76,7 @@ include "php_vendor/navbar.php";
 <!-- END Header -->
 <!-- service-area end -->
 <!-- Start Service area -->
-<div class="services-area services-4 area-padding" style="margin-top: 30px">
+<div class="services-area services-4 area-padding" style="margin-top: 70px">
     <div class="container">
         <div class="row text-center" style="margin-top: 20px">
             <div class="all-services">

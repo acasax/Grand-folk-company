@@ -5,7 +5,7 @@
                 <div class="banner-content">
                     <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
                     </div>
 
                 </div>
@@ -21,7 +21,7 @@
                 <div class="banner-content">
                     <h4 style="margin-bottom: 20px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
                     <div class="banner-contact" style="margin-top: 10px;float: none; text-align: center;">
-                        <span class="call-us" ><i class="fas fa-phone-alt"></i>Ring oss: +1313-4325432 </span><br>
+                        <span class="call-us" ><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><br>
                         <div style="display: flex; justify-content: center; margin-top: 10px">
                             <a class="banner-btn" href="contact.php" style="margin-right: 0px;">Kontakta oss</a>
                         </div>
@@ -48,8 +48,8 @@
                             <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>
 
                             <div class="footer-contacts">
-                                <p><span>Tel:</span> +013 654 432</p>
-                                <p><span>Email:</span> info@gladafolkcompany.se</p>
+                                <p><span>Tel:</span> +46 72 278 15 22</p>
+                                <p><span>Email:</span> info@gladafolkisverige.se</p>
                                 <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>

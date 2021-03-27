@@ -71,7 +71,7 @@
     </div>
     <!-- END Header -->
     <!-- End services Area -->
-    <div class="single-services-page area-padding" style="margin-top: 26px">
+    <div class="single-services-page area-padding" style="margin-top: 26px; margin-bottom: 5px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-4 col-xs-12">

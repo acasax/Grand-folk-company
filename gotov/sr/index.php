@@ -137,7 +137,7 @@ include "php_vendor/navbar.php";
                      grundat för att våra barn också ska kunna fortsätta vårt arbete när dem växer upp.
                      Själva namnet på vårt företag ”Glada folk” syftar till att få DIG och våra kunder att le och känna sig glada när ni kommer hem eller går till jobbet.
                     </p>
-                    <div class="about-details text-center hidden-sm">
+                    <div class="about-details text-center hidden-md hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
                                 <a href="about.php#misija"><i class="icon icon-gift"></i></a>
@@ -221,7 +221,7 @@ include "php_vendor/navbar.php";
 
 <!-- service-area end -->
 <!-- Start portfolio Area -->
-<div class="about-area area-padding15">
+<div class="about-area area-padding15" style="margin-bottom: 55px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -372,19 +372,19 @@ include "php_vendor/navbar.php";
                     <div class="fun-content">
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-diamond"></i></a>
-                            <span class="counter">13000</span>
+                            <span class="counter">450</span>
                             <h5>FÄRDIGA STÄDNINGAR</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-star"></i></a>
-                            <span class="counter">4500</span>
+                            <span class="counter">102</span>
                             <h5>NÖJDA KUNDER</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-layers"></i></a>
-                            <span class="counter">104</span>
+                            <span class="counter">98</span>
                             <h5>NUVARANDE PROJEKT</h5>
                         </div>
                         <!-- fun_text  -->

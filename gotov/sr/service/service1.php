@@ -167,7 +167,7 @@ include "../php_vendor/navbarservice.php";
                     </div>
                 </div>
 
-                <div class="row mar-row">
+                <div class="row mar-row" style="margin: 55px 0;">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">

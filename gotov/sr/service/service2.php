@@ -40,6 +40,7 @@
 
     <!-- modernizr css -->
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- Animacija ulaz -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
@@ -102,7 +103,7 @@
                                 </div>
                                 <p style="margin-top: 15px; text-align: justify">En storstädning är ett mellanting mellan vanlig hemstädning och flyttstädning.
                                     Alla inventarier är kvar på plats men vi gör även rent på de svåråtkomliga ställena och gör moment som normalt inte inkluderas i den vanliga veckostädningen.</p><br>
-                                    <h4>Material</h4>
+                                <h4>Material</h4>
                                 <p>Personalen från Glada folk i Sverige har med sig allt material de behöver, så det är inget du behöver tänka på. Det enda vi gärna lånar av er är er dammsugare, av allergiskäl.</p>
                             </div>
                         </div>
@@ -166,7 +167,7 @@
                         </div>
                     </div>
 
-                    <div class="row mar-row" style="margin-top: 45px">
+                    <div class="row mar-row" style="margin-top: 80px">
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
@@ -192,15 +193,14 @@
 
             </div>
         </div>
+    </div>
+    
         <!-- End page Area -->
         <!-- Start Footer bottom Area -->
         <?php
         include "../php_vendor/footerservice.php";
         ?>
 
-        <!-- all js here -->
-
-        <!-- jquery latest version -->
         <script src="../js/vendor/jquery-1.12.4.min.js"></script>
         <!-- bootstrap js -->
         <script src="../js/bootstrap.min.js"></script>

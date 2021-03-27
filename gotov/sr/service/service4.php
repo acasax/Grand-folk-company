@@ -115,13 +115,13 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-well" style="margin-top: 65px">
                             <a href="#">
-                                <h3>Fönsterputs INNEFATTAR</h3>
+                                <h3  style="margin-bottom: 20px">Fönsterputs INNEFATTAR</h3>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- end Row -->
-                <div class="row mar-row" style="margin-bottom: 20px">
+                <div class="row mar-row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">

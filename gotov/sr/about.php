@@ -196,7 +196,7 @@
     </div>
 </div>
 <span class="anchor" id="vizija"></span>
-<div class="video-area" style="margin: 25px 0;">
+<div class="video-area" style="margin-top: 40px;margin-bottom: 35px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
