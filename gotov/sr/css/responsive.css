@@ -235,7 +235,7 @@
 
 @media (max-width: 767px) {
     .container {
-        width: 330px
+        width: 350px
     }
     .logo {
         height: inherit;
@@ -486,7 +486,7 @@
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     .container {
-        width: 450px
+        width: 590px
     }
     .fun_text {
         float: left;

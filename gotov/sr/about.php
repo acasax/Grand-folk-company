@@ -78,7 +78,7 @@
 <div class="video-area area-padding" style="margin-top: 70px">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 col-xs-12 hidden-sm hidden-xs">
+            <!--<div class="col-md-6 col-sm-6 col-xs-12 hidden-sm hidden-xs">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen style="border-radius: 10px; box-shadow: 5px 10px 18px #ccc;"></iframe>
@@ -87,6 +87,14 @@
                 <iframe width="420" height="250" src="https://www.youtube.com/embed/HGUQmTyUurI" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen style="border-radius: 10px; box-shadow: 5px 10px 18px #ccc;"></iframe>
+            </div>-->
+
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="video-inner1 text-center">
+                    <div class="video-content">
+                        <a href="https://www.youtube.com/watch?v=O33uuBh6nXA"></a>
+                    </div>
+                </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="video-text" >

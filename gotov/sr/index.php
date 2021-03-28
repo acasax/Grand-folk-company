@@ -90,8 +90,9 @@ include "php_vendor/navbar.php";
                 </div>
             </div>
         </div>
-        <div id="slider-direction-2" class="t-cn slider-direction">
-            <div class="slider-content s-tb slide-2">
+
+        <div id="slider-direction" class="t-cn slider-direction">
+            <div class="slider-content s-tb slide-">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
                         <div class="slider-sub-text ">Certifierat företag</div>
@@ -107,8 +108,8 @@ include "php_vendor/navbar.php";
                 </div>
             </div>
         </div>
-        <div id="slider-direction-3" class="t-cn slider-direction">
-            <div class="slider-content s-tb slide-3">
+        <div id="slider-direction" class="t-cn slider-direction">
+            <div class="slider-content s-tb slide-">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
                         <div class="slider-sub-text ">Certifierat företag</div>

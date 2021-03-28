@@ -984,7 +984,10 @@ h6 {
     .slider-area .slide-2 h1.slider-big-text,
     .slider-area .slide-3 h1.slider-big-text {
         font-size: 28px;
-        text-align: center;
+        text-align: start;
+        margin-left: 0px !important;
+        padding-left: 0px !important;
+        margin-top: 10px !important;
     }
 }
 
@@ -992,8 +995,10 @@ h6 {
     .slider-area .slide-1 h1.slider-big-text,
     .slider-area .slide-2 h1.slider-big-text,
     .slider-area .slide-3 h1.slider-big-text {
-        font-size: 26px;
-        margin-top: 150px;
+        font-size: 16px;
+        margin-top: 80px !important;
+        text-align: start;
+        padding-left: 0 !important;
     }
 }
 
@@ -1001,8 +1006,11 @@ h6 {
     .slider-area .slide-1 h1.slider-big-text,
     .slider-area .slide-2 h1.slider-big-text,
     .slider-area .slide-3 h1.slider-big-text {
-        font-size: 22px;
-        margin-top: 140px;
+        font-size: 12px;
+        margin-top: 0px !important;
+        text-align: start;
+        padding: 5px 0 !important;
+        height: 45px;
     }
 }
 
@@ -1044,7 +1052,8 @@ h6 {
     .slider-area .slide-1 div.slider-sub-text,
     .slider-area .slide-2 div.slider-sub-text,
     .slider-area .slide-3 div.slider-sub-text {
-        text-align: center;
+        text-align: start;
+        margin-left: 0px !important;
     }
 }
 
@@ -1052,7 +1061,11 @@ h6 {
     .slider-area .slide-1 div.slider-sub-text,
     .slider-area .slide-2 div.slider-sub-text,
     .slider-area .slide-3 div.slider-sub-text {
-        display: none;
+        font-size: 10px !important;
+        color: #ff8201;
+        margin-top: 75px !important;
+        text-align: start !important;
+        margin-left: 0px !important;
     }
 }
 
@@ -1092,9 +1105,12 @@ h6 {
     .slider-area .slide-1 div.slider-paragraph,
     .slider-area .slide-2 div.slider-paragraph,
     .slider-area .slide-3 div.slider-paragraph {
-        width: 100%;
-        text-align: center;
+        width: 50%;
+        text-align: start;
         color: #000000;
+        font-size: 12px !important;
+        margin-left: 0px !important;
+        padding-left: 0px !important;
     }
 }
 
@@ -1102,7 +1118,13 @@ h6 {
     .slider-area .slide-1 div.slider-paragraph,
     .slider-area .slide-2 div.slider-paragraph,
     .slider-area .slide-3 div.slider-paragraph {
-        display: none;
+        width: 50%;
+        text-align: start;
+        color: #000000;
+        font-size: 8px !important;
+        margin-left: 0px !important;
+        padding-left: 0px !important;
+        line-height: 8px !important;
     }
 }
 
