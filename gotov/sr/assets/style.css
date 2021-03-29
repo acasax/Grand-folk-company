@@ -1007,10 +1007,10 @@ h6 {
     .slider-area .slide-2 h1.slider-big-text,
     .slider-area .slide-3 h1.slider-big-text {
         font-size: 12px;
-        margin-top: 0px !important;
+        margin-top: -25px !important;
         text-align: start;
-        padding: 5px 0 !important;
-        height: 45px;
+        padding: 0 !important;
+        height: 30px;
     }
 }
 
@@ -1063,7 +1063,7 @@ h6 {
     .slider-area .slide-3 div.slider-sub-text {
         font-size: 10px !important;
         color: #ff8201;
-        margin-top: 75px !important;
+        margin-top: 110px !important;
         text-align: start !important;
         margin-left: 0px !important;
     }
@@ -1163,13 +1163,13 @@ h6 {
     padding-left: 50px;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 1199px) {
     .slider-area .slider-btn-area {
         margin-top: 20px;
     }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 991px) {
     .slider-area .slider-btn-area {
         display: none;
     }

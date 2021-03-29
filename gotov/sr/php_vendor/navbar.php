@@ -1,7 +1,7 @@
 <header class="header-style-3">
 
     <!-- header-area start -->
-    <div id="sticker" class="header-area header-area-3  hidden-sm hidden-xs">
+    <div id="sticker" class="header-area header-area-3   hidden-xs">
         <div class="topbar-area topbar-3 fix hidden-xs">
             <div class="container">
                 <div class="row">
@@ -42,7 +42,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                            <img src="img/logo/Glada Folk.png" alt="" style="height: 60px;">
+                            <img src="img/logo/GLADA FOLK.png" alt="" style="max-height: 60px;">
                         </a>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
     </div>
     <!-- header-area end -->
     <!-- mobile-menu-area start -->
-    <div class="mobile-menu-area hidden-lg hidden-md  ">
+    <div class="mobile-menu-area hidden-lg hidden-md  hidden-sm  ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

@@ -42,7 +42,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="../index.php">
-                            <img src="../img/logo/Glada Folk.png" alt="" style="height: 60px;">
+                            <img src="../img/logo/GLADA FOLK.png" alt="" style="height: 60px;">
                         </a>
                     </div>
                 </div>

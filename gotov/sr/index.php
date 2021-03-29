@@ -91,8 +91,8 @@ include "php_vendor/navbar.php";
             </div>
         </div>
 
-        <div id="slider-direction" class="t-cn slider-direction">
-            <div class="slider-content s-tb slide-">
+        <div id="slider-direction-2" class="t-cn slider-direction">
+            <div class="slider-content s-tb slide-2">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
                         <div class="slider-sub-text ">Certifierat företag</div>
@@ -108,8 +108,8 @@ include "php_vendor/navbar.php";
                 </div>
             </div>
         </div>
-        <div id="slider-direction" class="t-cn slider-direction">
-            <div class="slider-content s-tb slide-">
+        <div id="slider-direction-3" class="t-cn slider-direction">
+            <div class="slider-content s-tb slide-3">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
                         <div class="slider-sub-text ">Certifierat företag</div>
@@ -242,7 +242,13 @@ include "php_vendor/navbar.php";
                             <li><a href="#" data-filter=".residential">För privatpersoner</a></li>
                             <li><a href="#" data-filter=".commercial">För Företag</a></li>
                         </ul>
+                       
                     </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12 hidden-lg hidden-md  hidden-sm ">
+                <div class="section-headline text-center" style="margin-bottom: 15px;">
+                    <h3><i class="fas fa-arrow-left"></i> Slide <i class="fas fa-arrow-right"></i></h3>
                 </div>
             </div>
             <div class="project-content">

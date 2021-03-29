@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                    <h4 style="margin-bottom: 20px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
+                    <h4 style="margin-bottom: 20px; text-align: center;font-size: 22px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
                     <div class="banner-contact" style="margin-top: 10px;float: none; text-align: center;">
                         <span class="call-us" ><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><br>
                         <div style="display: flex; justify-content: center; margin-top: 10px">
@@ -37,7 +37,7 @@
     <div class="footer-area area-padding15">
         <div class="container">
             <div class="row">
-                <div class="col-md-5 col-sm-5 col-xs-12">
+                <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
                             <div class="footer-logo">
@@ -68,7 +68,7 @@
                                     <li><a href="service/service3.php">Flyttstädning</a></li>
                                     <li><a href="service/service4.php">Fönsterputs</a></li>
                                 </ul>
-                                <ul class="footer-list hidden-sm">
+                                <ul class="footer-list">
                                     <p>För företag</p>
                                     <li><a href="service/service5.php">Fastighetsskötsel</a></li>
                                     <li><a href="service/service6.php">Kontorsstädning</a></li>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 col-xs-12 hidden-lg hidden-md">
+                <div class="hidden-lg hidden-md">
                     <div class="footer-content" style="margin-bottom: 0;">
                         <div class="footer-head">
                             <!--<h4>Usluge</h4>-->
