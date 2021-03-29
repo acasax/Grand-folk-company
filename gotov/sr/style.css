@@ -2097,6 +2097,15 @@ span.dolar {
     font-weight: bold;
 }
 
+.footer-head p a {
+    color: #ddd;
+    font-weight: bold;
+}
+
+.footer-head p a:hover {
+    color: #2de232;
+}
+
 .footer-head h4 {
     color: #ddd;
     font-size: 18px;

@@ -8,8 +8,8 @@
                     <div class=" col-md-8 col-sm-6">
                         <div class="topbar-left">
                             <ul>
-                                <li><a href="#"><i class="icon icon-envelope"></i>info@gladafolkisverige.se</a></li>
-                                <li><a href="#"><i class="icon icon-phone"></i>+46 72 278 15 22</a></li>
+                                <li><a href="mailto:info@gladafolkisverige.se"><i class="icon icon-envelope"></i>info@gladafolkisverige.se</a></li>
+                                <li><a href="tel:+46722781522"><i class="icon icon-phone"></i>+46 72 278 15 22</a></li>
                                 <li><a href="#"><i class="icon icon-clock"></i>8:00 am - 5:00 pm</a></li>
                             </ul>
                         </div>

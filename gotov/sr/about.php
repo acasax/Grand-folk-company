@@ -75,7 +75,8 @@
 <!-- END Header -->
 <!-- about-area start -->
 <span class="anchor" id="misija"></span>
-<div class="video-area area-padding" style="margin-top: 70px">
+<div class="video-area area-padding" style="    margin-top: 70px;
+    margin-bottom: 30px;">
     <div class="container">
         <div class="row">
             <!--<div class="col-md-6 col-sm-6 col-xs-12 hidden-sm hidden-xs">
