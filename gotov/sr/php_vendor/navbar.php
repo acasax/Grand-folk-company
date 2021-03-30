@@ -122,6 +122,7 @@
                                     <li><a class="pagess" href="blog-grid-1.php">NYHETER</a>
                                     </li>
                                     <li><a href="contact.php">KONTAKTA OSS</a></li>
+                                    <li><a href="reservate.php">Boka möte</a></li>
                             </ul>
                         </nav>
                     </div>

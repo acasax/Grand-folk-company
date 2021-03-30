@@ -14,8 +14,8 @@ $razlika    = 0;
 
 
 if(!isset($_POST['data'])){
-    $user_class->returnJSON("ERROR","Niste prihavtili politiku privatnosti!!!!", 
-            "Prihvatite da bi ste poslali porukua");
+    $user_class->returnJSON("ERROR","Du har inte accepterat sekretesspolicyn!", 
+            "acceptera sekretesspolicyn att skicka en begäran om offert");
             return;
 }
 
@@ -24,29 +24,29 @@ switch ($service){
         if ($space > 0 && $space <= 50){
             $sum = 199;
             $time = 1;
-            $user_class->returnJSON("OK","Cena za uslugu Hemstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h", 
+            $user_class->returnJSON("OK","Pris för Hämstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle");
             return;
         }else if ($space >= 51 && $space <= 99){
             $sum = 398;
             $tim = 2;
-            $user_class->returnJSON("OK","Cena za uslugu Hemstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h", 
+            $user_class->returnJSON("OK","Pris för Hämstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle");
             return;
         }else if ($space >= 100 && $space <= 150){
             $sum = 597;
             $time = 3;
-            $user_class->returnJSON("OK","Cena za uslugu Hemstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h", 
+            $user_class->returnJSON("OK","Pris för Hämstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle");
             return;
         }else if ($space >= 151 && $space <= 200){
             $sum = 796;
             $time = 4;
-            $user_class->returnJSON("OK","Cena za uslugu Hemstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h", 
+            $user_class->returnJSON("OK","Pris för Hämstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle");
             return;
         }else if ($space > 200){
-            $user_class->returnJSON("OK","Cena po dogovoru", 
+            $user_class->returnJSON("OK","•	200 m²- uppåt / offereras", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle");
             return;
         }
@@ -55,53 +55,54 @@ switch ($service){
         if ($space > 0 && $space < 50){
             $sum = 1950;
             $time = 2;
-            $user_class->returnJSON("OK","Cena za uslugu Storstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h",
+            $user_class->returnJSON("OK","Pris för Storstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 290 sek/tillfälle.");
             return;
         }else if ($space > 51 && $space < 76){
             $sum = 2300;
             $time = 4;
-            $user_class->returnJSON("OK","Cena za uslugu Storstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h",
+            $user_class->returnJSON("OK","Pris för Storstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 290 sek/tillfälle.");
             return;
         }else if ($space >= 76 && $space <= 100){
             $sum = 2500;
             $time = 6;
-            $user_class->returnJSON("OK","Cena za uslugu Storstädning za povrsinu " . $space . " m2 je ". $sum ." sek a predvidjeno vreme rada ". $time ." h",
+            $user_class->returnJSON("OK","Pris för Storstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek och den beräknade arbetstiden är ". $time ." h", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 290 sek/tillfälle.");
             return;
         }else if ($space > 100){
             $razlika = $space - 100;
             $sum = 2500 + ($razlika * 23);
-            $user_class->returnJSON("OK","Cena za uslugu Storstädning za povrsinu " . $space . " m2 je ". $sum ." sek ",
-            "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 290 sek/tillfälle.");
+            $user_class->returnJSON("OK","100- uppåt m² 2500 sek + 23sek/m² som överstiger 100 m²",
+            "Större bostäder offereras. Extremt nersmutsade bostäder offereras. 
+            Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 290 sek/tillfälle.");
             return;
         }
         break;
     case 3:
         if ($space > 0 && $space < 51){
             $sum = 2000;
-            $user_class->returnJSON("OK","Cena za uslugu Flyttstädning za povrsinu " . $space . " m2 je ". $sum ." sek ", 
+            $user_class->returnJSON("OK","Pris för Flyttstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek ", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle");
             return;
         }else if ($space >= 51 && $space < 76){
             $sum = 2250;
-            $user_class->returnJSON("OK","Cena za uslugu Flyttstädning za povrsinu " . $space . " m2 je ". $sum ." sek ", 
+            $user_class->returnJSON("OK","Pris för Flyttstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek ",
             "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle");
             return;
         }else if ($space >= 76 && $space < 100){
             $sum = 2550 ;
-            $user_class->returnJSON("OK","Cena za uslugu Flyttstädning za povrsinu " . $space . " m2 je ". $sum ." sek ",
+            $user_class->returnJSON("OK","Pris för Flyttstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek ",
             "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle");
             return;
         }else if ($space >= 100 && $space < 200){
             $razlika = $space - 100;
             $sum = 2750 + ($razlika * 26);
-            $user_class->returnJSON("OK","Cena za uslugu Flyttstädning za povrsinu " . $space . " m2 je ". $sum ." sek ",
+            $user_class->returnJSON("OK","Pris för Flyttstädning-tjänsten för Yta " . $space . " m2  Är". $sum ." sek ",
             "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle");
             return;
         }else if ($space < 200){
-            $user_class->returnJSON("OK","Cena po dogovoru",
+            $user_class->returnJSON("OK","•	200 m²- uppåt / offereras", 
             "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle");
             return;
         }
@@ -109,27 +110,29 @@ switch ($service){
     case 4:
         $sum =  250;
         $time = 1;
-        $user_class->returnJSON("OK","Cena za uslugu Fönsterputs privatpersoner za vreme " . $time . " h je ". $sum ." sek", 
+        $user_class->returnJSON("OK","Pris för Fönsterputs-tjänsten för privatpersoner per timme är ". $sum ." sek", 
         "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 135 sek/tillfälle.");
         return;
         break;
     case 5:
         $sum =  305;
         $time = 1;
-        $user_class->returnJSON("OK","Cena za uslugu Fastighetsskötsel za vreme " . $time . " h je ". $sum ." sek + mons", 
+        $user_class->returnJSON("OK","Pris för Fastighetsskötsel-tjänsten per timme är ". $sum ." sek + mons", 
         "Framkörningsavgift tillkommer med 126 sek/tillfälle" );
         return;
         break;
     case 6:
         $sum =  300;
         $time = 1;
-        $user_class->returnJSON("OK","Cena za uslugu Kontorsstädning za vreme " . $time . " h je ". $sum ." sek + mons", "Framkörningsavgift tillkommer med 135 sek/tillfälle");
+        $user_class->returnJSON("OK","Pris för Kontorsstädning-tjänsten per timme är ". $sum ." sek + mons", 
+       "Framkörningsavgift tillkommer med 135 sek/tillfälle");
         return;
         break;
     case 7:
         $sum =  350;
         $time = 1;
-        $user_class->returnJSON("OK","Cena za uslugu Fönsterputs för företag za vreme " . $time . " h je ". $sum ." sek + mons", "Framkörningsavgift tillkommer med 135 sek/tillfälle");
+        $user_class->returnJSON("OK","Pris för Fönsterputs-tjänsten för företag per timme är ". $sum ." sek + mons", 
+        "Framkörningsavgift tillkommer med 135 sek/tillfälle");
         return;
         break;
     default:

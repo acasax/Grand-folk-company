@@ -246,16 +246,16 @@ include "php_vendor/navbar.php";
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-sm-12 col-xs-12 hidden-lg hidden-md  hidden-sm ">
-                <div class="section-headline text-center" style="margin-bottom: 15px;">
-                    <h3><i class="fas fa-arrow-left"></i> Slide <i class="fas fa-arrow-right"></i></h3>
+            <div class="col-md-12 col-sm-12 col-xs-12 hidden-lg hidden-md  ">
+                <div class="section-headline text-center" style="margin-bottom: 15px; font-size: 15px">
+                    <h3 style="font-size: 22px"><i class="fas fa-arrow-left"></i> Slide <i class="fas fa-arrow-right"></i></h3>
                 </div>
             </div>
             <div class="project-content">
                 <!-- single-awesome-project start -->
 
                 <div class="project-single all-padding residential" >
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/bg1.jpg">
@@ -271,7 +271,7 @@ include "php_vendor/navbar.php";
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/1.jpg">
@@ -288,7 +288,7 @@ include "php_vendor/navbar.php";
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/2.jpg">
@@ -303,7 +303,7 @@ include "php_vendor/navbar.php";
                 </div>
 
                 <div class="project-single all-padding commercial">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/5.jpg">
@@ -319,7 +319,7 @@ include "php_vendor/navbar.php";
 
 
                 <div class="project-single all-padding residential">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/prozor.jpg">
@@ -335,7 +335,7 @@ include "php_vendor/navbar.php";
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding commercial">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/4.jpg">
@@ -350,7 +350,7 @@ include "php_vendor/navbar.php";
                 </div>
 
                 <div class="project-single all-padding commercial">
-                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                    <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
                                 <img src="img/servicepocetna/7.jpg">
@@ -463,6 +463,10 @@ include "php_vendor/footer.php";
 <script src="js/plugins.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>
+
+<script>
+
+</script>
 
 </body>
 

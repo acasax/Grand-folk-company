@@ -19,7 +19,7 @@
                             <div class="quote-button" style="width: 125px; height: 48px; display: flex;
     justify-content: center;
     align-items: center;">
-                                <a href="reservate.php" class="quote-btn">Boka möte</a>
+                                <a href="../reservate.php" class="quote-btn">Boka möte</a>
                             </div>
                             <ul style="height: 48px;
     display: flex;
@@ -122,6 +122,7 @@
                                     <li><a class="pagess" href="../blog-grid-1.php">NYHETER</a>
                                     </li>
                                     <li><a href="../contact.php">KONTAKTA OSS</a></li>
+                                    <li><a href="../reservate.php">Boka möte</a></li>
                             </ul>
                         </nav>
                     </div>

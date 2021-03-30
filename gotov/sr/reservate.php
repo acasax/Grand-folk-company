@@ -93,37 +93,27 @@
                                             <label for="name" class="boja">Please enter your name</label>
                                             <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
                                         </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
                                             <label for="email" class="boja">Please enter your email</label>
                                             <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
                                         </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
                                             <label for="phone" class="boja">Please enter your Phone number</label>
                                             <input type="text" class="phone_number form-control " id="phone" name="phone" value="" onblur="$(this).valid()">
                                         </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
                                             <label for="phone" class="boja">Please enter your personal number</label>
                                             <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="ååååmmdd-xxxx" value="" onblur="$(this).valid()">
                                         </div>
-                                        <div style="display: flex;" class="mt35">
-                                            <input type="checkbox" class=" form-control" id="data" name="data">
-                                            <label for="data" class="boja" style="font-size: 14px;">Jag samtycker till att mina personuppgifter behandlas enligt <a href="privacy-policy.php">integritetspolicyn</a></label>
-                                        </div>
-
                                     </div>
+                                   
                                     <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div>
-                                            <label for="city" class="boja">Please chose location</label>
-                                            <select id="city" name="city">
-                                                <option value="1">Landskrona</option>
-                                                <option value="2">Helsingborg</option>
-                                                <option value="3">Ängelholm</option>
-                                                <option value="4">Löddeköpinge</option>
-                                                <option value="5">Lund</option>
-                                                <option value="6">Malmö</option>
-                                                <option value="7">Omgivande platser</option>
-                                            </select>
-                                        </div>
                                         <div>
                                             <label for="service" class="boja">Please chose service</label>
                                             <select id="service" name="service">
@@ -136,15 +126,40 @@
                                                 <option value="7">Fönsterputs för företag</option>
                                             </select>
                                         </div>
-
+                                        <div>
+                                            <label for="city" class="boja">Please chose location</label>
+                                            <select id="city" name="city">
+                                                <option value="1">Landskrona</option>
+                                                <option value="2">Helsingborg</option>
+                                                <option value="3">Ängelholm</option>
+                                                <option value="4">Löddeköpinge</option>
+                                                <option value="5">Lund</option>
+                                                <option value="6">Malmö</option>
+                                                <option value="7">Omgivande platser</option>
+                                            </select>
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
                                             <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
                                             <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()" value="1" min="1">
                                         </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
                                             <label for="message" class="boja">Write your message</label>
                                             <textarea id="message" rows="3" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></textarea>
                                         </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        <div style="display: flex;" class="mt35">
+                                            <input type="checkbox" class=" form-control" id="data" name="data">
+                                            <label for="data" class="boja" style="font-size: 14px;">Jag samtycker till att mina personuppgifter behandlas enligt <a href="privacy-policy.php">integritetspolicyn</a></label>
+                                        </div>
+
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="mt35">
                                             <div class="quote-button" style="display: flex; width: 100%;justify-content: center;align-items: center;">
                                                 <button type="submit" id="submit" class="quote-btn">Submit</button>
@@ -152,17 +167,17 @@
                                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                                             <div class="clearfix"></div>
                                         </div>
-
-                                        <!--<div class="help-block with-errors"></div>-->
                                     </div>
-                                </form>
-
+                                    <!--<div class="help-block with-errors"></div>-->
                             </div>
+                            </form>
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
 
