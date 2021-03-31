@@ -5,7 +5,7 @@
                 <div class="banner-content">
                     <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><span>ili</span><a class="banner-btn" href="../contact.php">Kontakta oss</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><span> eller </span><a class="banner-btn" href="../contact.php">Kontakta oss</a>
                     </div>
 
                 </div>
@@ -62,20 +62,20 @@
                             <!--<h4>Usluge</h4>-->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
-                                    <p>Privatpersoner</p>
+                                    <p style="padding: 5px 0;">Privatpersoner</p>
                                     <li><a href="../service/service1.php">Hemstädning</a></li>
                                     <li><a href="../service/service2.php">Storstädning </a></li>
                                     <li><a href="../service/service3.php">Flyttstädning</a></li>
                                     <li><a href="../service/service4.php">Fönsterputs</a></li>
                                 </ul>
-                                <ul class="footer-list hidden-sm">
-                                    <p>För företag</p>
+                                <ul class="footer-list">
+                                <p style="padding: 5px 0;">Privatpersoner</p>
                                     <li><a href="../service/service5.php">Fastighetsskötsel</a></li>
                                     <li><a href="../service/service6.php">Kontorsstädning</a></li>
                                     <li><a href="../service/service7.php">Fönsterputs</a></li>
                                 </ul>
                             </div>
-                            <div class="footer-icons hidden-sm hidden-xs">
+                            <div class="footer-icons ">
                                 <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
                                     <li>
@@ -104,10 +104,9 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 col-xs-12 hidden-lg hidden-md">
+                <!--<div class="col-md-4 col-sm-4 col-xs-12 ">
                     <div class="footer-content" style="margin-bottom: 0;">
                         <div class="footer-head">
-                            <!--<h4>Usluge</h4>-->
                         
                             <div class="footer-icons" style="margin-top: 0;">
                                 <h5>Följ oss</h5>
@@ -137,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- end single footer -->
+              end single footer -->
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">

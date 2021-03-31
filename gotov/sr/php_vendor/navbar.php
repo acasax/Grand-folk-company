@@ -94,7 +94,7 @@
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="index.php"><img src="img/logo/Glada Folk.png" alt="" style="max-width: 160px; "></a>
+                        <img src="img/logo/GLADA FOLK.png" alt="" style="max-height: 60px;">
                         </div>
                         <nav id="dropdown">
                             <ul>

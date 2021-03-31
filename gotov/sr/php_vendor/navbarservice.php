@@ -1,15 +1,15 @@
 <header class="header-style-3">
 
     <!-- header-area start -->
-    <div id="sticker" class="header-area header-area-3  hidden-sm hidden-xs">
+    <div id="sticker" class="header-area header-area-3   hidden-xs">
         <div class="topbar-area topbar-3 fix hidden-xs">
             <div class="container">
                 <div class="row">
                     <div class=" col-md-8 col-sm-6">
                         <div class="topbar-left">
                             <ul>
-                                <li><a href="#"><i class="icon icon-envelope"></i>info@gladafolkisverige.se</a></li>
-                                <li><a href="#"><i class="icon icon-phone"></i>+46 72 278 15 22</a></li>
+                                <li><a href="mailto:info@gladafolkisverige.se"><i class="icon icon-envelope"></i>info@gladafolkisverige.se</a></li>
+                                <li><a href="tel:+46722781522"><i class="icon icon-phone"></i>+46 72 278 15 22</a></li>
                                 <li><a href="#"><i class="icon icon-clock"></i>8:00 am - 5:00 pm</a></li>
                             </ul>
                         </div>
@@ -41,8 +41,8 @@
                 <div class="col-md-3 col-sm-3">
                     <div class="logo">
                         <!-- Brand -->
-                        <a class="navbar-brand page-scroll sticky-logo" href="../index.php">
-                            <img src="../img/logo/GLADA FOLK.png" alt="" style="height: 60px;">
+                        <a class="navbar-brand page-scroll sticky-logo" href="index.php">
+                            <img src="../img/logo/GLADA FOLK.png" alt="" style="max-height: 60px;">
                         </a>
                     </div>
                 </div>
@@ -88,13 +88,13 @@
     </div>
     <!-- header-area end -->
     <!-- mobile-menu-area start -->
-    <div class="mobile-menu-area hidden-lg hidden-md  ">
+    <div class="mobile-menu-area hidden-lg hidden-md  hidden-sm  ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="../index.php"><img src="../img/logo/Glada Folk.png" alt="" style="max-width: 160px; "></a>
+                        <img src="../img/logo/GLADA FOLK.png" alt="" style="max-height: 60px;">
                         </div>
                         <nav id="dropdown">
                             <ul>

@@ -77,8 +77,8 @@
                                     </div>
                                     <div class="quote-icon">
                                         <i class="icon icon-phone"></i>
-                                        <span class="info-first">+013 654 43245</span>
-                                        <span class="info-simple">info@gladafolkcompany.com</span>
+                                        <span class="info-first">+46 72 278 15 22</span>
+                                        <span class="info-simple">info@gladafolkisverige.se</span>
                                     </div>
                                 </div>
                             </div>
@@ -90,32 +90,36 @@
                                 <form id="contactForm" method="post" enctype="multipart/form-data" class="contact-form">
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
-                                            <label for="name" class="boja">Please enter your name</label>
+                                            <label for="name" class="boja">Namn och efternamn</label>
                                             <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
+                                            <label for="name" class=""></label>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
-                                            <label for="email" class="boja">Please enter your email</label>
+                                            <label for="email" class="boja"> E-post</label>
                                             <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                                            <label for="email" class=""></label>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
-                                            <label for="phone" class="boja">Please enter your Phone number</label>
+                                            <label for="phone" class="boja">Telefonnummer</label>
                                             <input type="text" class="phone_number form-control " id="phone" name="phone" value="" onblur="$(this).valid()">
+                                            <label for="phone" class=""></label>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
-                                            <label for="phone" class="boja">Please enter your personal number</label>
+                                            <label for="phone" class="boja">Personnummer</label>
                                             <input type="text" class="personal_number form-control" id="p_number" name="p_number" placeholder="ååååmmdd-xxxx" value="" onblur="$(this).valid()">
+                                            <label for="phone" class=""></label>
                                         </div>
                                     </div>
                                    
                                     <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div>
-                                            <label for="service" class="boja">Please chose service</label>
+                                        <div style="padding-bottom: 22px;">
+                                            <label for="service" class="boja">Välj tjänst</label>
                                             <select id="service" name="service">
                                                 <option value="1">Hemstädning</option>
                                                 <option value="2">Storstädning</option>
@@ -127,7 +131,7 @@
                                             </select>
                                         </div>
                                         <div>
-                                            <label for="city" class="boja">Please chose location</label>
+                                            <label for="city" class="boja">Ort</label>
                                             <select id="city" name="city">
                                                 <option value="1">Landskrona</option>
                                                 <option value="2">Helsingborg</option>
@@ -140,15 +144,16 @@
                                         </div>
                                         
                                     </div>
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="col-md-6 col-sm-6 col-xs-12" >
                                         <div>
-                                            <label for="space" class="boja">Please enter your space for cleaning (m2)</label>
+                                            <label for="space" class="boja">Antal Kvm</label>
                                             <input type="number" class="form-control" id="space" name="space" placeholder="" onblur="$(this).valid()" value="1" min="1">
+                                            <label for="space" class=""></label>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div>
-                                            <label for="message" class="boja">Write your message</label>
+                                            <label for="message" class="boja">Meddelande</label>
                                             <textarea id="message" rows="3" placeholder="Massage" class="form-control" onblur="$(this).valid()" name="message"></textarea>
                                         </div>
                                     </div>
@@ -162,7 +167,7 @@
                                     <div class="col-md-6 col-sm-6 col-xs-12">
                                         <div class="mt35">
                                             <div class="quote-button" style="display: flex; width: 100%;justify-content: center;align-items: center;">
-                                                <button type="submit" id="submit" class="quote-btn">Submit</button>
+                                                <button type="submit" id="submit" class="quote-btn">Skicka</button>
                                             </div>
                                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                                             <div class="clearfix"></div>

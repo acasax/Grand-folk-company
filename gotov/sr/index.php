@@ -246,11 +246,7 @@ include "php_vendor/navbar.php";
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-sm-12 col-xs-12 hidden-lg hidden-md  ">
-                <div class="section-headline text-center" style="margin-bottom: 15px; font-size: 15px">
-                    <h3 style="font-size: 22px"><i class="fas fa-arrow-left"></i> Slide <i class="fas fa-arrow-right"></i></h3>
-                </div>
-            </div>
+
             <div class="project-content">
                 <!-- single-awesome-project start -->
 

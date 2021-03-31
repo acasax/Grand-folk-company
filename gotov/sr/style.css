@@ -303,14 +303,14 @@ div#preloader {
 .section-headline h3 {
     color: darkgreen;
     display: inline-block;
-    font-size: 34px;
+    font-size: 25px;
     font-weight: 700;
     text-transform: uppercase;
 }
 
 .section-headline.white-headline h3 {
     color: #2de232;
-    line-height: 45px;
+    line-height: 30px;
     margin-bottom: 0px;
 }
 
@@ -1164,6 +1164,30 @@ div#preloader {
     padding: 10px;
 }
 
+@media screen and (max-width: 780px) {
+    .icon-title {
+        display: block;
+        overflow: hidden;
+        margin-bottom: 0px !important;
+        padding: 10px;
+    }
+    .banner-area {
+        background: #2de232;
+        display: block;
+        overflow: hidden;
+        padding: 10px 0px;
+    }
+    .breadcrumb ul li {
+        max-width: 650px;
+        display: inline-block;
+        color: white;
+        padding: 0 10px 0 20px;
+        font-weight: bold;
+        position: relative;
+        font-size: 13px !important;
+    }
+}
+
 .single-about {
     width: 48%;
     float: left;
@@ -1810,7 +1834,7 @@ span.dolar {
     width: 100%;
     padding: 6px 12px;
     color: #555;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
     border-radius: 10px;
 }
 
@@ -2464,7 +2488,7 @@ span.dolar {
     padding: 0 10px 0 20px;
     font-weight: bold;
     position: relative;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .breadcrumb ul li.home-bread {
@@ -3913,8 +3937,9 @@ span.slugan {
 }
 
 label.error {
-    color: red;
+    color: #d90707;
     font-size: 15px;
+    margin-bottom: 0;
 }
 
 .flip-container {
@@ -4241,7 +4266,7 @@ label.error {
 }
 
 .mt35 {
-    margin-top: 45px;
+    margin-top: 10px;
 }
 
 .shell {

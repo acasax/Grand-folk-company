@@ -346,7 +346,7 @@
         text-align: center;
     }
     .banner-contact span {
-        font-size: 15px;
+        font-size: 20px;
         margin-right: 10px;
     }
     .banner-contact span i {
@@ -365,7 +365,7 @@
         position: static;
     }
     .breadcrumb .section-headline h3 {
-        font-size: 22px;
+        font-size: 20px;
         line-height: 25px;
     }
     .single-feature,

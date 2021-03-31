@@ -34,19 +34,19 @@ $(document).ready(function() {
             },
             messages: {
                 name: {
-                    required: 'Please enter your name',
+                    required: 'Vänligen fyll i ditt namn och efternamn',
                 },
                 email: {
-                    required: 'Please enter your email',
+                    required: 'Vänligen ange  din e-postadress',
                 },
                 phone: {
-                    required: 'Please enter your Phone number',
+                    required: 'Vänligen skriv in ditt telefonnummer',
                 },
                 space: {
-                    required: 'Please enter your space for cleaning (m2)',
+                    required: 'Vänligen skriv in Antal Kvm',
                 },
                 p_number: {
-                    required: 'Please enter your personal number',
+                    required: 'Vänligen ange din personnummer',
                     // pattern: 'Please enter valid personal number'
                 }
             },

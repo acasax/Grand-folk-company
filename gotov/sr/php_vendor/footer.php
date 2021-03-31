@@ -5,7 +5,7 @@
                 <div class="banner-content">
                     <h4>Letar du efter en professionell städtjänst<br>för dina faciliteter?</h4>
                     <div class="banner-contact">
-                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><span>ili</span><a class="banner-btn" href="contact.php">Kontakta oss</a>
+                        <span class="call-us"><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><span> eller </span><a class="banner-btn" href="contact.php">Kontakta oss</a>
                     </div>
 
                 </div>
@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="banner-content">
-                    <h4 style="margin-bottom: 20px; text-align: center;font-size: 22px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
+                    <h4 style="margin-bottom: 20px;">Letar du efter en professionell städtjänst för dina faciliteter?</h4>
                     <div class="banner-contact" style="margin-top: 10px;float: none; text-align: center;">
                         <span class="call-us" ><i class="fas fa-phone-alt"></i>Ring oss: +46 72 278 15 22 </span><br>
                         <div style="display: flex; justify-content: center; margin-top: 10px">
@@ -34,10 +34,10 @@
 </div>
 
 <footer class="footer-1">
-    <div class="footer-area" style="padding-top: 42px; padding-bottom: 20px;">
-        <div class="container" >
+    <div class="footer-area area-padding15">
+        <div class="container">
             <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="col-md-5 col-sm-5 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">
                             <div class="footer-logo">
@@ -48,8 +48,8 @@
                             <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>
 
                             <div class="footer-contacts">
-                                <p><span>Tel:</span><a> +46 72 278 15 22</a></p>
-                                <p><span>Email:</span><a> info@gladafolkisverige.se</a> </p>
+                                <p><span>Tel:</span> +46 72 278 15 22</p>
+                                <p><span>Email:</span> info@gladafolkisverige.se</p>
                                 <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>
@@ -62,7 +62,7 @@
                             <!--<h4>Usluge</h4>-->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
-                                    <p >Privatpersoner</p>
+                                    <p>Privatpersoner</p>
                                     <li><a href="service/service1.php">Hemstädning</a></li>
                                     <li><a href="service/service2.php">Storstädning </a></li>
                                     <li><a href="service/service3.php">Flyttstädning</a></li>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
 
-                <div class="hidden-lg hidden-md">
+                <div class="col-md-4 col-sm-4 col-xs-12 hidden-lg hidden-md">
                     <div class="footer-content" style="margin-bottom: 0;">
                         <div class="footer-head">
                             <!--<h4>Usluge</h4>-->
