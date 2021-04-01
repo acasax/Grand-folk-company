@@ -168,7 +168,7 @@ include "php_vendor/navbar.php";
 <!-- about-area end -->
 <!-- End Quote -->
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg" data-stellar-background-ratio="0.6">
+<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg hidden-sm hidden-xs" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
             <h2>Hur vi arbetar</h2>
@@ -219,6 +219,59 @@ include "php_vendor/navbar.php";
         </div>
     </div>
 </section>
+
+<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg hidden-lg hidden-md" >
+    <div class="container">
+        <div class="heading-layout1">
+            <h2>Hur vi arbetar</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <div class="item-icon">
+                            <i class="far fa-calendar-check"></i>
+                        </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Boka online</h3>
+                        <p style="color: white;">Boka städning på bara några klick.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <div class="item-icon">
+                            <i class="far fa-envelope"></i>
+                        </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Vänta på bekräftelse</h3>
+                        <p style="color: white;">När du skickar en begäran om städning försöker vi svara så fort som möjligt.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <div class="item-icon">
+                            <i class="far fa-smile"></i>
+                        </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Njut</h3>
+                        <p style="color: white;">Efter att städningen är klar återstår det bara att njuta av det rena utrymmet.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <!-- service-area end -->
 <!-- Start portfolio Area -->
@@ -367,7 +420,43 @@ include "php_vendor/navbar.php";
 
 <!-- End portfolio Area -->
 <!-- Start Counter area -->
-<div class="counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<div class="counter-area area-padding parallax-bg hidden-sm hidden-xs" data-stellar-background-ratio="0.6">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="about-count">
+                    <div class="fun-content">
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-diamond"></i></a>
+                            <span class="counter">450</span>
+                            <h5>FÄRDIGA STÄDNINGAR</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-star"></i></a>
+                            <span class="counter">102</span>
+                            <h5>NÖJDA KUNDER</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-layers"></i></a>
+                            <span class="counter">98</span>
+                            <h5>NUVARANDE PROJEKT</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-users"></i></a>
+                            <span class="counter">15</span>
+                            <h5>MEDARBETARE</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="counter-area area-padding parallax-bg hidden-lg hidden-md" >
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">

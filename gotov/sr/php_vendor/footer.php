@@ -50,7 +50,8 @@
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +46 72 278 15 22</p>
                                 <p><span>Email:</span> info@gladafolkisverige.se</p>
-                                <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
+                                <p class="hidden-lg hidden-md"><span>Location:</span> Pilängsrundeln 16 B , <br> <span style="margin-left: 70px;color: white;font-weight: 600;">26142 Landskrona</span></p>
+                                <p class="hidden-sm hidden-xs"><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>
                     </div>
@@ -62,34 +63,34 @@
                             <!--<h4>Usluge</h4>-->
                             <div class="footer-services-link">
                                 <ul class="footer-list">
-                                    <p>Privatpersoner</p>
+                                    <p style="padding: 5px 0;">Privatpersoner</p>
                                     <li><a href="service/service1.php">Hemstädning</a></li>
                                     <li><a href="service/service2.php">Storstädning </a></li>
                                     <li><a href="service/service3.php">Flyttstädning</a></li>
                                     <li><a href="service/service4.php">Fönsterputs</a></li>
                                 </ul>
                                 <ul class="footer-list">
-                                    <p>För företag</p>
+                                <p style="padding: 5px 0;">Privatpersoner</p>
                                     <li><a href="service/service5.php">Fastighetsskötsel</a></li>
                                     <li><a href="service/service6.php">Kontorsstädning</a></li>
                                     <li><a href="service/service7.php">Fönsterputs</a></li>
                                 </ul>
                             </div>
-                            <div class="footer-icons hidden-sm hidden-xs">
+                            <div class="footer-icons ">
                                 <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/glada_folk_i_sverige/">
                                             <img src="img/ikonice/iconfinder_25_social_2609558.png">
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/i_glada">
                                             <img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png">
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/Glada-Folk-i-Sverige-101605962040303">
                                             <img src="img/ikonice/iconfinder_facebook_386622.png">
                                         </a>
                                     </li>
@@ -104,10 +105,9 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 col-xs-12 hidden-lg hidden-md">
+                <!--<div class="col-md-4 col-sm-4 col-xs-12 ">
                     <div class="footer-content" style="margin-bottom: 0;">
                         <div class="footer-head">
-                            <!--<h4>Usluge</h4>-->
                         
                             <div class="footer-icons" style="margin-top: 0;">
                                 <h5>Följ oss</h5>
@@ -137,7 +137,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- end single footer -->
+              end single footer -->
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <div class="footer-content">
                         <div class="footer-head">

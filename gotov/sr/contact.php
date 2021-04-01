@@ -92,17 +92,17 @@
                             <h5>Vår sociala länk:</h5>
                             <ul class="project-social">
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.instagram.com/glada_folk_i_sverige/">
                                         <img src="img/ikonice/iconfinder_25_social_2609558.png" width="40px">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://twitter.com/i_glada">
                                         <img src="img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png" width="40px">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/Glada-Folk-i-Sverige-101605962040303">
                                         <img src="img/ikonice/iconfinder_facebook_386622.png" width="40px">
                                     </a>
                                 </li>
@@ -149,8 +149,6 @@
             </div>
         </div>
     </div>
-    <!-- Start contact Area
-    <!-- Start contact Area -->
     <!-- End Contact Area -->
     <!-- Start Footer bottom Area -->
 

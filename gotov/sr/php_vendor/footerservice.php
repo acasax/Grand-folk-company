@@ -50,7 +50,11 @@
                             <div class="footer-contacts">
                                 <p><span>Tel:</span> +46 72 278 15 22</p>
                                 <p><span>Email:</span> info@gladafolkisverige.se</p>
-                                <p><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
+                                <p class="hidden-lg hidden-md"><span>Location:</span> Pilängsrundeln 16 B , <br> <span style="    margin-left: 70px;
+    color: white;
+    font-weight: 600;
+    ">26142 Landskrona</span></p>
+                                <p class="hidden-sm hidden-xs"><span>Location:</span> Pilängsrundeln 16 B , 26142 Landskrona</p>
                             </div>
                         </div>
                     </div>
@@ -79,17 +83,17 @@
                                 <h5>Följ oss</h5>
                                 <ul style="height: 120px; padding-left: 5px">
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.instagram.com/glada_folk_i_sverige/">
                                             <img src="../img/ikonice/iconfinder_25_social_2609558.png">
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/i_glada">
                                             <img src="../img/ikonice/iconfinder_1_Twitter3_colored_svg_5296516.png">
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/Glada-Folk-i-Sverige-101605962040303">
                                             <img src="../img/ikonice/iconfinder_facebook_386622.png">
                                         </a>
                                     </li>
