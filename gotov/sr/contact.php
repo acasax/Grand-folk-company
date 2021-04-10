@@ -2,14 +2,27 @@
 <html lang="sv">
 
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2GD0DS6VRF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2GD0DS6VRF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Glada folk i Sverige</title>
-    <meta name="description" content="">
+    <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.ico">
+      <!-- favicon -->
+      <link rel="icon" href="img/logo/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
 
     <!-- all css here -->
     <!-- font-awesome css -->
@@ -36,7 +49,8 @@
     <link rel="stylesheet" href="style.css">
     <!-- responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
-
+    <!-- Swall CSS -->
+    <link rel="stylesheet" href="assets/vendor/swall/sweetalert.css">
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <!--Meni padajuci-->
@@ -44,7 +58,7 @@
     <!-- Animacije na elemente -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Animacija ulaz -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
 </head>
 
@@ -119,22 +133,23 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="contact-form">
                         <div class="row">
-                            <form id="contactForm" method="POST" action="contact.php" class="contact-form">
+                            <form id="form" method="post" enctype="multipart/form-data" class="contact-form">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <input type="text" id="name" class="form-control" placeholder="Namn:" required data-error="Please enter your name">
-                                    <div class="help-block with-errors"></div>
+                                    <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
+                                    <label for="name" class=""></label>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <input type="email" class="email form-control" id="eemail" placeholder="E-post:" required data-error="Please enter your email">
-                                    <div class="help-block with-errors"></div>
+                                    <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                                    <label for="email" class=""></label>
                                 </div>
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <input type="text" id="msg_subject" class="form-control" placeholder="Ämne:" required data-error="Please enter your message subject">
-                                    <div class="help-block with-errors"></div>
+                                    <input type="text" id="subject"  name="subject" class="form-control" placeholder="Ämne:" onblur="$(this).valid()">
+                                    <label for="subject" class=""></label>
                                 </div>
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <textarea id="message" rows="7" placeholder="Massage" class="form-control" required data-error="Write your message"></textarea>
-                                    <div class="help-block with-errors"></div>
+                                    <textarea id="message" name="message" rows="7" placeholder="Meddelande:" class="form-control" onblur="$(this).valid()"></textarea>
+                                    <label for="message" class=""></label>
+                                    <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
                                 </div>
                                 <div class="col-md-12 col-sm-12 col-xs-12 text-center">
                                     <button type="submit" id="submit" class="contact-btn">Skicka in</button>
@@ -149,6 +164,22 @@
             </div>
         </div>
     </div>
+
+    <div class="modal mt-5 " id="myModal ">
+        <div class="modal-dialog ">
+            <div class="modal-content " style="margin-top: 150px !important; ">
+                <!-- Modal body -->
+                <div class="modal-body ">
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer ">
+                    <button type="button " class="btn btn-primary " data-dismiss="modal ">U redu</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
     <!-- End Contact Area -->
     <!-- Start Footer bottom Area -->
 
@@ -157,19 +188,22 @@
     ?>
 
 
-    <!-- all js here -->
-
-    <!-- jquery latest version -->
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
     <!-- bootstrap js -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
+
+    <script type="text/javascript" language="javascript" src="js/contact.js"></script>
+    <script type="text/javascript" language="javascript" src="assets/vendor/swall/sweetalert.js"></script>
+
+    <script src="assets/vendor/form-validation/jquery.form.js"></script>
+    <script src="assets/vendor/form-validation/jquery.validate.min.js"></script>
+
+    <script src="assets/vendor/swall/sweetalert.js"></script>
     <!-- owl.carousel js -->
     <script src="js/owl.carousel.min.js"></script>
     <!-- Counter js -->
     <script src="js/jquery.counterup.min.js"></script>
-    <!-- Google Map js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBceNl50o3BU6LrsIGJxSL9tKKvqBKIeVs"></script>
-    <script src="js/mapcode.js"></script>
     <!-- waypoint js -->
     <script src="js/waypoints.js"></script>
     <!-- isotope js -->
@@ -188,11 +222,16 @@
     <script src="js/plugins.js"></script>
     <!-- main js -->
     <script src="js/main.js"></script>
+    <script src="js/custom.js"></script>
+   
+    <!-- Ja nisam robot -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LdgWqQaAAAAAM8ESrER94XkfeRnJoNusfF_gXRo"></script>
+    <script src="js/recapture.js"></script>
     <!-- all js here -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-    AOS.init();
-</script>
+        AOS.init();
+    </script>
 </body>
 
 </html>

@@ -2,14 +2,26 @@
 <html lang="sv">
 
 <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2GD0DS6VRF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2GD0DS6VRF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Glada folk i Sverige</title>
-    <meta name="description" content="">
+    <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="../img/logo/favicon.ico">
+    <link rel="icon" href="img/logo/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
 
     <!-- all css here -->
     <!-- font-awesome css -->
@@ -165,10 +177,10 @@
                                 </ul>
                             </div>
                         </div>
-                      
+
                     </div>
 
-                    <div class="row mar-row" >
+                    <div class="row mar-row">
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
@@ -195,38 +207,38 @@
             </div>
         </div>
     </div>
-    
-        <!-- End page Area -->
-        <!-- Start Footer bottom Area -->
-        <?php
-        include "../php_vendor/footerservice.php";
-        ?>
 
-        <script src="../js/vendor/jquery-1.12.4.min.js"></script>
-        <!-- bootstrap js -->
-        <script src="../js/bootstrap.min.js"></script>
-        <!-- owl.carousel js -->
-        <script src="../js/owl.carousel.min.js"></script>
-        <!-- Counter js -->
-        <script src="../js/jquery.counterup.min.js"></script>
-        <!-- waypoint js -->
-        <script src="../js/waypoints.js"></script>
-        <!-- isotope js -->
-        <script src="../js/isotope.pkgd.min.js"></script>
-        <!-- stellar js -->
-        <script src="../js/jquery.stellar.min.js"></script>
-        <!-- magnific js -->
-        <script src="../js/magnific.min.js"></script>
-        <!-- venobox js -->
-        <script src="../js/venobox.min.js"></script>
-        <!-- meanmenu js -->
-        <script src="../js/jquery.meanmenu.js"></script>
-        <!-- Form validator js -->
-        <script src="../js/form-validator.min.js"></script>
-        <!-- plugins js -->
-        <script src="../js/plugins.js"></script>
-        <!-- main js -->
-        <script src="../js/main.js"></script>
+    <!-- End page Area -->
+    <!-- Start Footer bottom Area -->
+    <?php
+    include "../php_vendor/footerservice.php";
+    ?>
+
+    <script src="../js/vendor/jquery-1.12.4.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="../js/bootstrap.min.js"></script>
+    <!-- owl.carousel js -->
+    <script src="../js/owl.carousel.min.js"></script>
+    <!-- Counter js -->
+    <script src="../js/jquery.counterup.min.js"></script>
+    <!-- waypoint js -->
+    <script src="../js/waypoints.js"></script>
+    <!-- isotope js -->
+    <script src="../js/isotope.pkgd.min.js"></script>
+    <!-- stellar js -->
+    <script src="../js/jquery.stellar.min.js"></script>
+    <!-- magnific js -->
+    <script src="../js/magnific.min.js"></script>
+    <!-- venobox js -->
+    <script src="../js/venobox.min.js"></script>
+    <!-- meanmenu js -->
+    <script src="../js/jquery.meanmenu.js"></script>
+    <!-- Form validator js -->
+    <script src="../js/form-validator.min.js"></script>
+    <!-- plugins js -->
+    <script src="../js/plugins.js"></script>
+    <!-- main js -->
+    <script src="../js/main.js"></script>
 </body>
 
 </html>

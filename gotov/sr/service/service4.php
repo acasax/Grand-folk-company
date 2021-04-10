@@ -2,14 +2,26 @@
 <html lang="sv">
 
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2GD0DS6VRF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2GD0DS6VRF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Glada folk i Sverige</title>
-    <meta name="description" content="">
+    <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="../img/logo/favicon.ico">
+       <!-- favicon -->
+       <link rel="icon" href="img/logo/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
 
     <!-- all css here -->
     <!-- font-awesome css -->

@@ -2,15 +2,28 @@
 <html lang="sv">
 
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2GD0DS6VRF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2GD0DS6VRF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Glada folk i Sverige</title>
-    <meta name="description" content="">
+    <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
+    <meta content="GladaFolkISverige, rent, rena, städatYta, välsköttUtrymme, städningAvSamtligaUtrymmen, StädningAvYtor, städningAvAllaYtor, Hemstädning, Storstädning, Flyttstädning, Fönsterputs, Fastighetsskötsel, Kontorsstädning, städning, kontorstäd, UtrymmeStädning, städningAvaffärslokaler, StädningAvKontorsutrymmen" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
-    <!-- Normalize CSS -->
-    <link rel="stylesheet" href="assets/css/normalize.css">
+       <!-- favicon -->
+       <link rel="icon" href="img/logo/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
+
     <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/main.css">
     <!-- Font Awesome CSS -->
@@ -24,10 +37,6 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="assets/vendor/OwlCarousel/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/vendor/OwlCarousel/owl.theme.default.min.css">
-    <!-- Select 2 CSS -->
-    <link rel="stylesheet" href="assets/css/select2.min.css">
-    <!-- Datetime Picker CSS -->
-    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/style.css">
 
@@ -177,7 +186,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
@@ -191,7 +200,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -205,7 +214,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -229,7 +238,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
@@ -243,7 +252,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                    <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -257,7 +266,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.png" alt="thumb">
+                    <img src="img/bubbles-png-11410.webp" alt="thumb">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -307,7 +316,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/bg1.jpg">
+                                <img src="img/servicepocetna/bg1.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service1.php">Hemstädning</a>
@@ -323,7 +332,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/1.jpg">
+                                <img src="img/servicepocetna/1.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service2.php">Storstädning</a>
@@ -340,7 +349,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/2.jpg">
+                                <img src="img/servicepocetna/2.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service3.php">Flyttstädning</a>
@@ -355,7 +364,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container" >
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/5.jpg">
+                                <img src="img/servicepocetna/5.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
@@ -371,7 +380,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/prozor.jpg">
+                                <img src="img/servicepocetna/prozor.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service4.php">Fönsterputs</a>
@@ -387,7 +396,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/4.jpg">
+                                <img src="img/servicepocetna/4.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
@@ -402,7 +411,7 @@ include "php_vendor/navbar.php";
                     <div class="flip-container">
                         <div class="flipper">
                             <div class="front">
-                                <img src="img/servicepocetna/7.jpg">
+                                <img src="img/servicepocetna/7.webp">
                             </div>
                             <div class="back">
                                 <a class="back-title1" href="service/service7.php">Fönsterputs</a>

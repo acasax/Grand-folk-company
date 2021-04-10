@@ -108,7 +108,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="contact-form">
                         <div class="row">
-                            <form id="contactForm" method="POST" action="contact.php" class="contact-form">
+                            <form id="contactForm" method="POST" class="contact-form">
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <input type="text" id="name" class="form-control" placeholder="Name" required data-error="Please enter your name">
                                     <div class="help-block with-errors"></div>
@@ -153,23 +153,6 @@
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
     <!-- bootstrap js -->
     <script src="js/bootstrap.min.js"></script>
-    <!-- owl.carousel js -->
-    <script src="js/owl.carousel.min.js"></script>
-    <!-- Counter js -->
-    <script src="js/jquery.counterup.min.js"></script>
-    <!-- Google Map js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBceNl50o3BU6LrsIGJxSL9tKKvqBKIeVs"></script>
-    <script src="js/mapcode.js"></script>
-    <!-- waypoint js -->
-    <script src="js/waypoints.js"></script>
-    <!-- isotope js -->
-    <script src="js/isotope.pkgd.min.js"></script>
-    <!-- stellar js -->
-    <script src="js/jquery.stellar.min.js"></script>
-    <!-- magnific js -->
-    <script src="js/magnific.min.js"></script>
-    <!-- venobox js -->
-    <script src="js/venobox.min.js"></script>
     <!-- meanmenu js -->
     <script src="js/jquery.meanmenu.js"></script>
     <!-- Form validator js -->
