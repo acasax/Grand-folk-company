@@ -107,7 +107,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/servicepocetna/7.jpg" alt="" style="width: 100%">
+                                <img src="../img/servicepocetna/7.jpg" alt="Fönsterrengöring i företag" style="width: 100%">
                                 <p style="margin-top: 15px; text-align: justify">Det finns naturligtvis många anledningar men de främsta är förmodligen att rena
                                     fönster släpper in mer ljus och bidrar till en trevligare atmosfär inomhus.
                                     Fräscha fönsterrutor gör även så att utsidan och insidan kontoret ser bättre ut, något som ger ett gott intryck på besökare och anstälda.
@@ -133,7 +133,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/prozoriFirme.jpg" alt="">
+                                <img src="../img/prozoriFirme.jpg" alt="Fönsterrengöring i företag">
                             </div>
                         </div>
                     </div>

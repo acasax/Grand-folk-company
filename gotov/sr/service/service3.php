@@ -96,8 +96,6 @@
                                     <li><a href="service2.php">Storstädning</a></li>
                                     <li class="active"><a href="service3.php">Flyttstädning</a></li>
                                     <li><a href="service4.php">Fönsterputs</a></li>
-                                    <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -110,7 +108,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/service/2.jpg" alt="">
+                                    <img src="../img/service/2.jpg" alt="Kvalificerad personal och den modernaste utrustningen.">
                                 </div>
                                 <p style="margin-top: 15px; text-align: justify">Det finns ingen plats som hemma - speciellt när det är rent!
                                     Vårt team kommer att ge det perfekta ljuset till ditt nya hem innan du flyttar in eller till ett som är klart för försäljning.
@@ -141,7 +139,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/1.jpg" alt="">
+                                    <img src="../img/1.jpg" alt="Städutrustning.">
                                 </div>
                             </div>
                         </div>
@@ -185,7 +183,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/7.jpg" alt="">
+                                    <img src="../img/7.jpg" alt="Rengöring av tidiga ytor.">
                                 </div>
                             </div>
                         </div>
@@ -195,7 +193,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/Čišćenje-wc-šolje.jpg" alt="">
+                                    <img src="../img/Čišćenje-wc-šolje.jpg" alt="Rengöring av toaletten">
                                 </div>
                             </div>
                         </div>
@@ -237,7 +235,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/2.jpg" alt="">
+                                    <img src="../img/2.jpg" alt="Städutrustning">
                                 </div>
                             </div>
                         </div>

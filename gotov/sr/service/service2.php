@@ -96,8 +96,6 @@
                                     <li class="active"><a href="service2.php">Storstädning</a></li>
                                     <li><a href="service3.php">Flyttstädning</a></li>
                                     <li><a href="service4.php">Fönsterputs</a></li>
-                                    <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -110,7 +108,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/project/1.jpg" alt="">
+                                    <img src="../img/project/1.jpg" alt="Grundlig rengöring av ditt hem">
                                 </div>
                                 <p style="margin-top: 15px; text-align: justify">En storstädning är ett mellanting mellan vanlig hemstädning och flyttstädning.
                                     Alla inventarier är kvar på plats men vi gör även rent på de svåråtkomliga ställena och gör moment som normalt inte inkluderas i den vanliga veckostädningen.</p><br>
@@ -133,7 +131,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/project/2.jpg" alt="">
+                                    <img src="../img/project/2.jpg" alt="Grundlig rengöring av ditt hem">
                                 </div>
 
                             </div>
@@ -172,7 +170,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/toalet2.jpg" alt="">
+                                    <img src="../img/toalet2.jpg" alt="Grundlig rengöring av din toalett">
                                 </div>
                             </div>
                         </div>
@@ -182,7 +180,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/kuhinja.jpg" alt="">
+                                    <img src="../img/kuhinja.jpg" alt="Grundlig rengöring av ditt kök">
                                 </div>
                             </div>
                         </div>

@@ -42,7 +42,7 @@
                         <div class="footer-head">
                             <div class="footer-logo">
                                 <a href="#">
-                                    <h1 style="color: white;"> <img src="img/logo/Glada Folk Company logo bw.png" >
+                                    <h1 style="color: white;"> <img src="img/logo/Glada Folk Company logo bw.png" alt="företagslogotyp Glada Folk i Sverige">
                                 </a>
                             </div>
                             <p>Vårt mål är att ni som vår kund alltid ska känna er nöjda efter att vi har varit hos er. Som en del av detta garanterar vi en maximal kundnöjdhet efter utförd tjänst.</p>

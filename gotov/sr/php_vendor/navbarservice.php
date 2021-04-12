@@ -37,7 +37,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="../index.php">
-                            <img src="../img/logo/GLADA FOLK.png" alt="" style="max-height: 60px;">
+                            <img src="../img/logo/GLADA FOLK.png" alt="företagslogotyp Glada Folk i Sverige" style="max-height: 60px;">
                         </a>
                     </div>
                 </div>

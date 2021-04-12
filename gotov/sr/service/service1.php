@@ -98,9 +98,6 @@ include "../php_vendor/navbarservice.php";
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
                                 <li><a href="service4.php">Fönsterputs</a></li>
-                                <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>
-                                <li><a href="service7.php">Fönsterputs för företag</a></li>-->
                             </ul>
                         </div>
                     </div>
@@ -112,9 +109,9 @@ include "../php_vendor/navbarservice.php";
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
-                            <div class="page-img elec-page">
-                                <img src="../img/background/bg1%20-%20Copy.jpg" alt="">
-                            </div>
+                        <div class="page-img elec-page">
+                                    <img src="img/background/bg1%20-%20Copy.jpg" alt="Grundlig rengöring av hus. Dammsuga mattor, damma.">
+                                </div>
                             <p style="margin-top: 15px; text-align: justify">Hur väl du städar ditt hus beror på hur du städar det. Om du har några smarta knep i ärmen är du verkligen en riktig "rengöringskonstnär".
                                 Rengöring av ditt hem betyder inte att lokalerna bara behöver göras bra, men rengöring måste vara hygienisk, så vi är här för att hjälpa dig att använda din fritid för dina behov.</p>
 
@@ -136,7 +133,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/service/3.jpg" alt="">
+                                <img src="../img/service/3.jpg" alt="Dammar och rengör eldstaden.">
                             </div>
                         </div>
                     </div>
@@ -173,7 +170,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/toalet.jpg" alt="">
+                                <img src="../img/toalet.jpg" alt="Toalettstädning">
                             </div>
                         </div>
                     </div>
@@ -183,7 +180,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/service/1.jpg" alt="">
+                                <img src="../img/service/1.jpg" alt="Rengöring av kök">
                             </div>
                         </div>
                     </div>

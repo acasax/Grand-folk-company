@@ -107,7 +107,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/22.jpg" alt="" style="width: 100%;">
+                                <img src="../img/22.jpg" alt="Rengöring av interiören i byggnader, trappor och hissar." style="width: 100%;">
                                 <p style="margin-top: 15px; text-align: justify">
                                     Där det inte finns något behov av att städa och underhålla en hel byggnad finns vi till för att erbjuda städning för specifika delar I byggnaden som trappor, hissar, passager, hallar med mera. Tjänsten kan du få både som engångsuppdrag eller som abonnemang.
 
@@ -130,7 +130,7 @@ include "../php_vendor/navbarservice.php";
                             <div class="col-md-6 col-sm-12 col-xs-12">
                                 <div class="single-page">
                                     <div class="page-img elec-page">
-                                        <img src="../img/5.jpg" alt="">
+                                        <img src="../img/5.jpg" alt="Rengöring av interiören i byggnader, trappor och hissar.">
                                     </div>
                                 </div>
                             </div>

@@ -96,8 +96,6 @@ include "../php_vendor/navbarservice.php";
                                 <li><a href="service2.php">Storstädning</a></li>
                                 <li><a href="service3.php">Flyttstädning</a></li>
                                 <li    class="active" ><a href="service4.php">Fönsterputs</a></li>
-                                <!--<li><a href="service5.php">Fastighetsskötsel</a></li>
-                                <li><a href="service6.php">Kontorsstädning</a></li>-->
                             </ul>
                         </div>
                     </div>
@@ -110,7 +108,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/prozor.jpg" alt="">
+                                <img src="../img/prozor.jpg" alt="Fönsterrengöring med moderna verktyg">
                             </div>
                             <p style="margin-top: 15px; text-align: justify">Redskap som vanligen brukar användas är fönsterputsmedel, gummiskrapa.
                                 Som alternativ till fönsterputsmedel kan en svag diskmedelslösning användas eller fönstersåpa.
@@ -137,7 +135,7 @@ include "../php_vendor/navbarservice.php";
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <div class="single-page">
                             <div class="page-img elec-page">
-                                <img src="../img/ciscenje-prozora-5.jpg" alt="">
+                                <img src="../img/ciscenje-prozora-5.jpg" alt="Fönsterrengöring med moderna verktyg">
                             </div>
                            </div>
                     </div>

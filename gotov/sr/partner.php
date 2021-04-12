@@ -1,4 +1,4 @@
-<!doctype html>
+ccccccccccccc<!doctype html>
 <html lang="sv">
 
 <head>
@@ -77,11 +77,11 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3 col-sm-12">
-                                <a href="https://resivoje.com/"><img src="img/partneri/Resivoje logo-1.png"></a>
+                                <a href="https://resivoje.com/"><img src="img/partneri/Resivoje logo-1.png" alt="Ett företag som arbetar med utveckling av webbapplikationer och webbplatser."></a>
                             </div>
 
                             <div class="col-md-3 col-sm-12">
-                                <a href="https://www.smlogistics.se/"><img src="img/partneri/smlogistictran.png"></a>
+                                <a href="https://www.smlogistics.se/"><img src="img/partneri/smlogistictran.png" alt="Transportföretag."></a>
                             </div>
                         </div>
                     </div>

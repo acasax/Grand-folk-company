@@ -97,7 +97,7 @@ include "php_vendor/navbar.php";
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px" >
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service5.php">
-                                <img src="img/servicepocetna/5.jpg" alt="">
+                                <img src="img/servicepocetna/5.jpg" alt="Rengöring av trappor och hissar">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Fastighetsskötsel</h5>
@@ -109,7 +109,7 @@ include "php_vendor/navbar.php";
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service6.php">
-                                <img src="img/servicepocetna/4.jpg" alt="">
+                                <img src="img/servicepocetna/4.jpg" alt="kontorsstädning">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Kontorsstädning</h5>
@@ -121,7 +121,7 @@ include "php_vendor/navbar.php";
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
                             <a class="service-image" href="service/service7.php">
-                                <img src="img/servicepocetna/7.jpg" alt="">
+                                <img src="img/servicepocetna/7.jpg" alt="Fönsterrengöring">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Fönsterputs</h5>

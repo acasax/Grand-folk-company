@@ -78,9 +78,9 @@ include "php_vendor/navbar.php";
 <div class="slider-area slider-layout1">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-4" class="slides">
-            <img src="img/slider/slide1-1.jpg" alt="slider" title="#slider-direction-1"/>
-            <img src="img/slider/slide1-2.jpg" alt="slider" title="#slider-direction-2"/>
-            <img src="img/slider/slide1-3.jpg" alt="slider" title="#slider-direction-3"/>
+            <img src="img/slider/slide1-1.jpg" alt="Kvinna med rengöringsutrustning" title="#slider-direction-1"/>
+            <img src="img/slider/slide1-2.jpg" alt="En kvinna rengör ett fönster" title="#slider-direction-2"/>
+            <img src="img/slider/slide1-3.jpg" alt="Kvinnor i rengöringsutrustning" title="#slider-direction-3"/>
         </div>
         <div id="slider-direction-1" class="t-cn slider-direction">
             <div class="slider-content s-tb slide-1">
@@ -167,7 +167,7 @@ include "php_vendor/navbar.php";
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/ab.jpg" alt="">
+                    <img src="img/about/ab.jpg" alt="Rengöring av huset och dammning">
                 </div>
             </div>
             <!-- column end -->
@@ -186,7 +186,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.webp" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
@@ -200,7 +200,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.webp" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -214,7 +214,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.webp" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
@@ -238,7 +238,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="img/bubbles-png-11410.webp" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
@@ -252,7 +252,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                    <img src="img/bubbles-png-11410.webp" alt="thumb">
+                    <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
@@ -266,7 +266,7 @@ include "php_vendor/navbar.php";
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                    <img src="img/bubbles-png-11410.webp" alt="thumb">
+                    <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>

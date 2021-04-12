@@ -107,7 +107,7 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/service/4.jpg" alt="">
+                                    <img src="../img/service/4.jpg" alt="Detaljerad rengöring av kontorgolvet med den modernaste utrustningen.">
                                 </div>
                                 <p style="margin-top: 15px; text-align: justify">Vi på <span style="font-weight: bold">Glada folk i Sverige</span> erbjuder professionell kontorsstädning av hög kvalité till små och
                                     medelstora företag. Människor är mycket mer nöjda och framförallt arbetar dem mer effektivt när de befinner sig i rena och städade miljöer.
@@ -135,7 +135,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/project/5.jpg" alt="">
+                                    <img src="../img/project/5.jpg" alt="Detaljerad rengöring av kontorgolvet med den modernaste utrustningen.">
                                 </div>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/janitor_0.jpg" alt="">
+                                    <img src="../img/janitor_0.jpg" alt="Rengöring av kök i affärslokaler">
                                 </div>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="single-page">
                                 <div class="page-img elec-page">
-                                    <img src="../img/unnamed.jpg" alt="">
+                                    <img src="../img/unnamed.jpg" alt="Toalettstädning i företag">
                                 </div>
                             </div>
                         </div>
