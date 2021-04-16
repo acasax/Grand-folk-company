@@ -8,6 +8,17 @@ $(document).ready(function() {
         pre_loader.fadeOut('fast', function() { $(this).remove(); });
     });
 
+    $('#service').on('change', function() {
+        console.log(this.value);
+        if (this.value == 4 || this.value == 5 || this.value == 6 || this.value == 7) {
+            $('#space').attr('disabled', 'disabled');
+        }
+        if (this.value == 1 || this.value == 2 || this.value == 3) {
+            $('#space').removeAttr('disabled');
+        }
+    });
+
+
     const $contactForm = $('#contactForm');
     let validator = void(0);
 
