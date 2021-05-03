@@ -17,7 +17,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Glada folk i Sverige</title>
     <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
-    <meta content="GladaFolkISverige, rent, rena, städatYta, välsköttUtrymme, städningAvSamtligaUtrymmen, StädningAvYtor, städningAvAllaYtor, Hemstädning, Storstädning, Flyttstädning, Fönsterputs, Fastighetsskötsel, Kontorsstädning, städning, kontorstäd, UtrymmeStädning, städningAvaffärslokaler, StädningAvKontorsutrymmen" name="keywords">
+    <meta content="Skåne län, Landskrona, rent, rena, städatYta, välsköttUtrymme, städningAvSamtligaUtrymmen, StädningAvYtor, städningAvAllaYtor, Hemstädning, Storstädning, Flyttstädning, Fönsterputs, Fastighetsskötsel, Kontorsstädning, städning, kontorstäd, UtrymmeStädning, städningAvaffärslokaler, StädningAvKontorsutrymmen" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
        <!-- favicon -->
