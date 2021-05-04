@@ -75,7 +75,7 @@ switch ($service) {
         }
         break;
     case 2:
-        if ($space > 0 && $space < 50) {
+        if ($space > 0 && $space <= 50) {
             $sum = 1950;
             $time = 2;
             $user_class->returnJSON(
