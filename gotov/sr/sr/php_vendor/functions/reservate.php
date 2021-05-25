@@ -75,7 +75,7 @@ switch ($service) {
         }
         break;
     case 2:
-        if ($space > 0 && $space < 50) {
+        if ($space > 0 && $space <= 50) {
             $sum = 1950;
             $time = 2;
             $user_class->returnJSON(
@@ -181,7 +181,7 @@ switch ($service) {
         $time = 1;
         $user_class->returnJSON(
             "OK",
-            "Pris för Fastighetsskötsel-tjänsten per timme är " . $sum . " sek + moms",
+            "Pris för Fastighetsskötsel-tjänsten per timme är " . $sum . " sek + mons",
             "Framkörningsavgift tillkommer med 126 sek/tillfälle"
         );
         send_email();
@@ -192,7 +192,7 @@ switch ($service) {
         $time = 1;
         $user_class->returnJSON(
             "OK",
-            "Pris för Kontorsstädning-tjänsten per timme är " . $sum . " sek + moms",
+            "Pris för Kontorsstädning-tjänsten per timme är " . $sum . " sek + mons",
             "Framkörningsavgift tillkommer med 135 sek/tillfälle"
         );
         send_email();
@@ -203,7 +203,7 @@ switch ($service) {
         $time = 1;
         $user_class->returnJSON(
             "OK",
-            "Pris för Fönsterputs-tjänsten för företag per timme är " . $sum . " sek + moms",
+            "Pris för Fönsterputs-tjänsten för företag per timme är " . $sum . " sek + mons",
             "Framkörningsavgift tillkommer med 135 sek/tillfälle"
         );
         send_email();
@@ -230,7 +230,8 @@ function send_email()
 
         // Take action based on the score returned:
         if ($recaptcha->score >= 0.5) {
-            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['service']) && isset($_REQUEST['space'])) {
+            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['service'])
+             && isset($_REQUEST['space']) && isset($_REQUEST['city']) && isset($_REQUEST['p_number'])) {
 
                 $email_to = "info@gladafolkisverige.se";
                 $email_subject = "Book mote från webbplatsen";
@@ -264,6 +265,34 @@ function send_email()
                         break;
                 }
 
+                $city = $_REQUEST['city'];
+
+                switch ($city) {
+                    case 1:
+                        $city = "Landskrona";
+                        break;
+                    case 2:
+                        $city = "Helsingborg";
+                        break;
+                    case 3:
+                        $city = "Ängelholm";
+                        break;
+                    case 4:
+                        $city = "Löddeköpinge";
+                        break;
+                    case 5:
+                        $city = "Lund";
+                        break;
+                    case 6:
+                        $city = "Malmö";
+                        break;
+                    case 7:
+                        $city = "Omgivande platser";
+                        break;
+                }
+
+                $p_number = $_REQUEST['p_number']    
+
                 $space      = $_REQUEST['space'];
 
 
@@ -277,8 +306,10 @@ function send_email()
                 $email_message = "Ime: " . clean_string($name) . "\n";
                 $email_message .= "E-mail: " . clean_string($email) . "\n";
                 $email_message .= "Telefon: " . clean_string($phone) . "\n";
+                $email_message .= "Personal number:" . clean_string($p_number) . "\n";
                 $email_message .= "Usluga: " . clean_string($service) . "\n";
-                $email_message .= "Površina: " . clean_string($space) . "\n m2";
+                $email_message .= "Površina: " . clean_string($space) . " m2 \n";
+                $email_message .= "Grad: " . clean_string($city) . "\n";
 
                 if (isset($_REQUEST['space'])) {
                     $message    = $_REQUEST['message'];
