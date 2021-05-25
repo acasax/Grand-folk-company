@@ -241,6 +241,8 @@ function send_email()
                 $email      = $_REQUEST['email'];
                 $phone      = $_REQUEST['phone'];
                 $service    = $_REQUEST['service'];
+                $space      = $_REQUEST['space'];
+
                 switch ($service) {
                     case 1:
                         $service = "Hemstädning";
@@ -291,9 +293,9 @@ function send_email()
                         break;
                 }
 
-                $p_number = $_REQUEST['p_number']    
+                $p_number = $_REQUEST['p_number'];    
 
-                $space      = $_REQUEST['space'];
+               
 
 
 
