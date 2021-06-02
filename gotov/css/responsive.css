@@ -109,6 +109,7 @@
     .header-area-3 .main-menu ul.navbar-nav>li>a {
         padding: 25px 0px;
         margin: 0px 5px;
+        font-size: 10px !important;
     }
     .header-area-3 .header-right-link a.main-search {
         padding: 19px 15px;
@@ -235,7 +236,7 @@
 
 @media (max-width: 767px) {
     .container {
-        width: 300px
+        width: 350px
     }
     .logo {
         height: inherit;
@@ -298,13 +299,23 @@
         margin-bottom: 30px;
     }
     .about-content h4 {
-        font-size: 20px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .about-content p {
+        text-align: justify;
+        font-size: 15px;
+        line-height: 17px;
+        margin-bottom: 0 !important;
     }
     .single-about {
         width: 100%;
         float: none;
         margin-right: 0%;
         margin-top: 20px;
+    }
+    .single-about h5 {
+        font-size: 15px;
     }
     .fun_text {
         float: none;
@@ -331,10 +342,11 @@
         font-size: 23px;
     }
     .banner-content h4 {
-        font-size: 20px;
+        font-size: 15px;
+        text-align: center;
     }
     .banner-contact span {
-        font-size: 16px;
+        font-size: 20px;
         margin-right: 10px;
     }
     .banner-contact span i {
@@ -343,6 +355,7 @@
     .banner-btn {
         float: left;
         margin-top: 20px;
+        font-size: 15px;
     }
     .copyright {
         text-align: center;
@@ -352,7 +365,8 @@
         position: static;
     }
     .breadcrumb .section-headline h3 {
-        font-size: 22px;
+        font-size: 13px;
+        line-height: 17px;
     }
     .single-feature,
     .single-member,
@@ -478,6 +492,9 @@
     .intro-area-4 .slider-content {
         margin-top: -130px;
     }
+    .video-text h4 {
+        margin-top: 15px;
+    }
 }
 
 
@@ -485,7 +502,7 @@
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     .container {
-        width: 450px
+        width: 590px
     }
     .fun_text {
         float: left;

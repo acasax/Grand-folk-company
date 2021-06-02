@@ -1,16 +1,29 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="sv">
 
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2GD0DS6VRF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-2GD0DS6VRF');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grand folk company</title>
-    <meta name="description" content="">
+    <title>Glada folk i Sverige</title>
+    <meta name="description" content="Vi erbjuder tjänster städning högkvalitativa  och kontinuerlig kundnöjdhet hos våra kunder!">
+    <meta content="Skåne län, Landskrona, rent, rena, städatYta, välsköttUtrymme, städningAvSamtligaUtrymmen, StädningAvYtor, städningAvAllaYtor, Hemstädning, Storstädning, Flyttstädning, Fönsterputs, Fastighetsskötsel, Kontorsstädning, städning, kontorstäd, UtrymmeStädning, städningAvaffärslokaler, StädningAvKontorsutrymmen" name="keywords">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
-    <!-- Normalize CSS -->
-    <link rel="stylesheet" href="assets/css/normalize.css">
+       <!-- favicon -->
+       <link rel="icon" href="img/logo/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
+
     <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/main.css">
     <!-- Font Awesome CSS -->
@@ -24,10 +37,6 @@
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="assets/vendor/OwlCarousel/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/vendor/OwlCarousel/owl.theme.default.min.css">
-    <!-- Select 2 CSS -->
-    <link rel="stylesheet" href="assets/css/select2.min.css">
-    <!-- Datetime Picker CSS -->
-    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/style.css">
 
@@ -50,33 +59,39 @@
 
     <!-- modernizr css -->
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- menu -->
+    <link rel="stylesheet" href="css/menu.css">
 </head>
 
-<body class="sticky-header">
+<body>
 
 <div id="preloader"></div>
 <?php
 
 include "php_vendor/navbar.php";
 ?>
+
+
 <!-- Header Area End Here -->
 <!-- Slider Area Start Here -->
-<div class="slider-area slider-layout1 mt-5">
+
+<div class="slider-area slider-layout1">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-4" class="slides">
-            <img src="img/slider/slide1-1.jpg" alt="slider" title="#slider-direction-1" />
-            <img src="img/slider/slide1-2.jpg" alt="slider" title="#slider-direction-2" />
-            <img src="img/slider/slide1-3.jpg" alt="slider" title="#slider-direction-3" />
+            <img src="img/slider/slide1-1.jpg" alt="Kvinna med rengöringsutrustning" title="#slider-direction-1"/>
+            <img src="img/slider/slide1-2.jpg" alt="En kvinna rengör ett fönster" title="#slider-direction-2"/>
+            <img src="img/slider/slide1-3.jpg" alt="Kvinnor i rengöringsutrustning" title="#slider-direction-3"/>
         </div>
         <div id="slider-direction-1" class="t-cn slider-direction">
             <div class="slider-content s-tb slide-1">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text ">The Best Cleaning Service Ever!</div>
-                        <h1 class="slider-big-text">Certified Company</h1>
-                        <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        <div class="slider-sub-text">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Genom att erbjuda ett brett utbud av tjänster, ständig innovation samt motiverad personal erbjuder vi tjänster av hög kvalitet.
+                        </div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Take Our Service
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -84,15 +99,17 @@ include "php_vendor/navbar.php";
                 </div>
             </div>
         </div>
+
         <div id="slider-direction-2" class="t-cn slider-direction">
             <div class="slider-content s-tb slide-2">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text d-sm-none">The Best Cleaning Service Ever!</div>
-                        <h1 class="slider-big-text d-sm-none">Certified Company</h1>
-                        <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        <div class="slider-sub-text ">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Din glädje är vår, därför finns vi här för dig!
+                        </div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Take Our Service
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster.
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -104,11 +121,11 @@ include "php_vendor/navbar.php";
             <div class="slider-content s-tb slide-3">
                 <div class="text-left title-container s-tb-c">
                     <div class="container">
-                        <div class="slider-sub-text hidden-sm">The Best Cleaning Service Ever!</div>
-                        <h1 class="slider-big-text hidden-sm">Certified Company</h1>
-                        <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                        <div class="slider-sub-text ">Certifierat företag</div>
+                        <h1 class="slider-big-text">Glada folk i Sverige!</h1>
+                        <div class="slider-paragraph">Vi erbjuder högkvalitativa tjänster och kontinuerlig kundnöjdhet hos våra kunder!</div>
                         <div class="slider-btn-area">
-                            <a href="reservate.php" class="item-btn-fill">Take Our Service
+                            <a href="reservate.php" class="item-btn-fill">Boka våra tjänster.
                                 <i class="fas fa-angle-right"></i>
                             </a>
                         </div>
@@ -125,30 +142,32 @@ include "php_vendor/navbar.php";
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-content">
-                    <h4> <span class="color">Clean Home </span> - Bringing Excellence in Residential & Commercial cleaning services</h4>
-                    <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using. the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate
-                        dummy text using.</p>
-                    <div class="about-details text-center hidden-sm">
+                    <h4><span class="color">Glada folk i Sverige</span> - Vi erbjuder utmärkta städtjänster för faciliteter.</h4>
+                    <p>Vi är ett städföretag som har en långvarig erfarenhet av personal i teamet. Glada folk i Sverige är ett familjeföretag
+                     grundat för att våra barn också ska kunna fortsätta vårt arbete när dem växer upp.
+                     Själva namnet på vårt företag ”Glada folk” syftar till att få DIG och våra kunder att le och känna sig glada när ni kommer hem eller går till jobbet.
+                    </p>
+                    <div class="about-details text-center hidden-md hidden-sm">
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="#"><i class="icon icon-gift"></i></a>
-                                <h5>Certified company</h5>
+                                <a href="about.php#misija"><i class="icon icon-gift"></i></a>
+                                <h5>Mission</h5>
                             </div>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread</p>
+                            <p>Rent och fint är vårt uppdrag. Det är vår garanti.</p>
                         </div>
                         <div class="single-about">
                             <div class="icon-title">
-                                <a href="#"><i class="icon icon-thumbs-up"></i></a>
-                                <h5>Our experience</h5>
+                                <a href="about.php#vizija"><i class="icon icon-thumbs-up"></i></a>
+                                <h5>Vision</h5>
                             </div>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so widespread</p>
+                            <p>Stort utbud av erbjudanden och snabba tjänster.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="about-image">
-                    <img src="img/about/ab.jpg" alt="">
+                    <img src="img/about/ab.jpg" alt="Rengöring av huset och dammning">
                 </div>
             </div>
             <!-- column end -->
@@ -157,55 +176,52 @@ include "php_vendor/navbar.php";
 </div>
 <!-- about-area end -->
 <!-- End Quote -->
-
-
 <!-- Process Area Start Here -->
-<section class="section-padding-lg-2">
+<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg hidden-sm hidden-xs" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="heading-layout1">
-            <h2>How It Works</h2>
-            <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium dol oremque laudantium, totam remeaque ipsa</p>
+            <h2>Hur vi arbetar</h2>
         </div>
         <div class="row">
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-calendar-check"></i>
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Book Online</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Boka online</h3>
+                        <p style="color: white;">Boka städning på bara några klick.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-envelope"></i>
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Get Confirmation</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Vänta på bekräftelse</h3>
+                        <p style="color: white;">När du skickar en begäran om städning försöker vi svara så fort som möjligt.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 single-process">
                 <div class="process-box-layout1">
                     <div class="item-bg">
-                        <img src="assets/img/figure/bubble5.png" alt="thumb">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
                         <div class="item-icon">
                             <i class="far fa-smile"></i>
                         </div>
                     </div>
                     <div class="item-content">
-                        <h3 class="item-title">Let’s Enjoy</h3>
-                        <p>Ahen an unknown printer took a galley of type and scrambled.</p>
+                        <h3 class="item-title">Njut</h3>
+                        <p style="color: white;">Efter att städningen är klar återstår det bara att njuta av det rena utrymmet.</p>
                     </div>
                 </div>
             </div>
@@ -213,215 +229,207 @@ include "php_vendor/navbar.php";
     </div>
 </section>
 
-<!-- service area start -->
-<div class="choose-area bg-color area-padding">
+<section class="section-padding-lg-2 counter-area1 area-padding17 parallax-bg hidden-lg hidden-md" >
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="section-headline text-center">
-                    <h3>Why choose us</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
-                </div>
-            </div>
+        <div class="heading-layout1">
+            <h2>Hur vi arbetar</h2>
         </div>
         <div class="row">
-            <!-- single-well end-->
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-cleaning-6"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Expert Employee</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                        <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
+                        <div class="item-icon">
+                            <i class="far fa-calendar-check"></i>
                         </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Boka online</h3>
+                        <p style="color: white;">Boka städning på bara några klick.</p>
                     </div>
                 </div>
             </div>
-            <!-- single-well end-->
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-cleaning-8"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Secure Services</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                    <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
+                        <div class="item-icon">
+                            <i class="far fa-envelope"></i>
                         </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Vänta på bekräftelse</h3>
+                        <p style="color: white;">När du skickar en begäran om städning försöker vi svara så fort som möjligt.</p>
                     </div>
                 </div>
             </div>
-            <!-- single-well end-->
-            <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-spray"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>Low Costing</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+            <div class="col-lg-4 single-process">
+                <div class="process-box-layout1">
+                    <div class="item-bg">
+                    <img src="img/bubbles-png-11410.webp" alt="Såpbubbla">
+                        <div class="item-icon">
+                            <i class="far fa-smile"></i>
                         </div>
+                    </div>
+                    <div class="item-content">
+                        <h3 class="item-title">Njut</h3>
+                        <p style="color: white;">Efter att städningen är klar återstår det bara att njuta av det rena utrymmet.</p>
                     </div>
                 </div>
             </div>
-            <!-- single-well end -->
-            <div class="col-md-3 hidden-sm col-xs-12">
-                <div class="well-services text-center">
-                    <div class="services-img">
-                        <a href="#"><i class="flaticon-sweeping-3"></i></a>
-                    </div>
-                    <div class="main-services">
-                        <div class="service-content">
-                            <h4>On time Finished</h4>
-                            <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- single-well end -->
         </div>
     </div>
-</div>
+</section>
+
+
 <!-- service-area end -->
 <!-- Start portfolio Area -->
-<div class="project-area area-padding">
+<div class="about-area area-padding15" style="margin-bottom: 55px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h3>Our Projects</h3>
-                    <p>The world's Latest at clean cleaning service company we can clean your residential space including homes.</p>
+                    <h3>VÅRA TJÄNSTER</h3>
                 </div>
             </div>
         </div>
+        
         <div class="row">
             <!-- Start Portfolio -page -->
             <div class="awesome-project fix">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="awesome-menu text-center">
                         <ul class="project-menu">
-                            <li><a href="#" class="active" data-filter="*">All</a></li>
-                            <li><a href="#" data-filter=".residential">Residential Cleaning</a></li>
-                            <li><a href="#" data-filter=".commercial">Commercial Cleaning</a></li>
-                            <li><a href="#" data-filter=".apartment">Apartment Cleaning</a></li>
+                            <li><a href="#" class="active" data-filter="*">Allt</a></li>
+                            <li><a href="#" data-filter=".residential">För privatpersoner</a></li>
+                            <li><a href="#" data-filter=".commercial">För Företag</a></li>
                         </ul>
+                       
                     </div>
                 </div>
             </div>
+
             <div class="project-content">
                 <!-- single-awesome-project start -->
-                <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
-                                <img src="img/project/1.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Commercial</span>
-                                    </div>
-                                </div>
-                            </a>
+
+                <div class="project-single all-padding residential" >
+                    <div class="flip-container" >
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/bg1.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service1.php">Hemstädning</a>
+                                <p>Regelbunden städning av ert hem.</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/2.jpg">
-                                <img src="img/project/2.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Residential</span>
-                                    </div>
-                                </div>
-                            </a>
+                    <div class="flip-container">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/1.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service2.php">Storstädning</a>
+                                <p>Detaljerad och komplett städning ert hem.</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
+
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding residential">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/3.jpg">
-                                <img src="img/project/3.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Residential</span>
-                                    </div>
-                                </div>
-                            </a>
+                    <div class="flip-container" >
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/2.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service3.php">Flyttstädning</a>
+                                <p>Städning av plats efter flytt.</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- single-awesome-project end -->
-                <!-- single-awesome-project start -->
-                <div class="project-single all-padding apartment">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/4.jpg">
-                                <img src="img/project/4.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Apartment</span>
-                                    </div>
-                                </div>
-                            </a>
+
+                <div class="project-single all-padding commercial">
+                    <div class="flip-container" >
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/5.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
+                                <p class="dvareda">Invändig städning av byggnad (trappor, ingång, hiss ...).</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="project-single all-padding residential">
+                    <div class="flip-container">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/prozor.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service4.php">Fönsterputs</a>
+                                <p>Fönsterrengöring i ert hem.</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <!-- single-awesome-project end -->
                 <!-- single-awesome-project start -->
                 <div class="project-single all-padding commercial">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/5.jpg">
-                                <img src="img/project/5.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>commercial</span>
-                                    </div>
-                                </div>
-                            </a>
+                    <div class="flip-container">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/4.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
+                                <p>Städning av kontor och arbetsplatser.</p>
+                                <a class="a" href="service/service1.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- single-awesome-project end -->
-                <!-- single-awesome-project start -->
-                <div class="project-single all-padding apartment">
-                    <div class="single-awesome-project">
-                        <div class="awesome-img">
-                            <a class="venobox" data-gall="myGallery" href="img/project/6.jpg">
-                                <img src="img/project/6.jpg" alt="" />
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <h4>Nice project</h4>
-                                        <span>Apartment</span>
-                                    </div>
-                                </div>
-                            </a>
+
+                <div class="project-single all-padding commercial">
+                    <div class="flip-container">
+                        <div class="flipper">
+                            <div class="front">
+                                <img src="img/servicepocetna/7.webp">
+                            </div>
+                            <div class="back">
+                                <a class="back-title1" href="service/service7.php">Fönsterputs</a>
+                                <p>Fönsterrengöring på arbetsplats.</p>
+                                <a class="a" href="service/service7.php">LÄS MER</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- single-awesome-project end -->
             </div>
         </div>
     </div>
-    <!-- End main content -->
 </div>
+<!-- End main content -->
+
 <!-- End portfolio Area -->
 <!-- Start Counter area -->
-<div class="counter-area area-padding parallax-bg" data-stellar-background-ratio="0.6">
+<div class="counter-area area-padding parallax-bg hidden-sm hidden-xs" data-stellar-background-ratio="0.6">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
@@ -429,26 +437,62 @@ include "php_vendor/navbar.php";
                     <div class="fun-content">
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-diamond"></i></a>
-                            <span class="counter">13000</span>
-                            <h5>Complete Projects</h5>
+                            <span class="counter">450</span>
+                            <h5>FÄRDIGA STÄDNINGAR</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-star"></i></a>
-                            <span class="counter">4500</span>
-                            <h5>Happy Clients</h5>
+                            <span class="counter">102</span>
+                            <h5>NÖJDA KUNDER</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-layers"></i></a>
-                            <span class="counter">104</span>
-                            <h5>Present Projects</h5>
+                            <span class="counter">98</span>
+                            <h5>NUVARANDE PROJEKT</h5>
                         </div>
                         <!-- fun_text  -->
                         <div class="fun_text">
                             <a href="#"><i class="icon icon-users"></i></a>
-                            <span class="counter">4300</span>
-                            <h5>Total Employee</h5>
+                            <span class="counter">15</span>
+                            <h5>MEDARBETARE</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="counter-area area-padding parallax-bg hidden-lg hidden-md" >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="about-count">
+                    <div class="fun-content">
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-diamond"></i></a>
+                            <span class="counter">450</span>
+                            <h5>FÄRDIGA STÄDNINGAR</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-star"></i></a>
+                            <span class="counter">102</span>
+                            <h5>NÖJDA KUNDER</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-layers"></i></a>
+                            <span class="counter">98</span>
+                            <h5>NUVARANDE PROJEKT</h5>
+                        </div>
+                        <!-- fun_text  -->
+                        <div class="fun_text">
+                            <a href="#"><i class="icon icon-users"></i></a>
+                            <span class="counter">15</span>
+                            <h5>MEDARBETARE</h5>
                         </div>
                     </div>
                 </div>
@@ -458,21 +502,7 @@ include "php_vendor/navbar.php";
 </div>
 <!-- End Counter area -->
 <!-- Start Banner Area -->
-<div class="banner-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="banner-content">
-                    <h4>Are you looking for professional Cleaning Services for your House?</h4>
-                    <div class="banner-contact">
-                        <span class="call-us"><i class="icon icon-phone-handset"></i>Call us:  +1313-4325432 </span><span>Or</span>
-                        <a class="banner-btn" href="#">Contact us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- End Banner Area -->
 <!-- Footer Area Start Here -->
 <?php
@@ -503,12 +533,12 @@ include "php_vendor/footer.php";
 
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
+<!-- Counter js -->
+<script src="js/jquery.counterup.min.js"></script>
 <!-- bootstrap js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- owl.carousel js -->
 <script src="js/owl.carousel.min.js"></script>
-<!-- Counter js -->
-<script src="js/jquery.counterup.min.js"></script>
 <!-- waypoint js -->
 <script src="js/waypoints.js"></script>
 <!-- isotope js -->
@@ -527,6 +557,10 @@ include "php_vendor/footer.php";
 <script src="js/plugins.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>
+
+<script>
+
+</script>
 
 </body>
 
