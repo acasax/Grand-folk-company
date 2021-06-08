@@ -159,7 +159,7 @@ switch ($service) {
         } else if ($space < 200) {
             $user_class->returnJSON(
                 "OK",
-                "•	200 m²- uppåt / offereras",
+                "Kontakta oss för mer info",
                 "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle"
             );
             send_email();
@@ -204,7 +204,7 @@ switch ($service) {
         $time = 1;
         $user_class->returnJSON(
             "OK",
-            "Pris för Fönsterputs-tjänsten för företag per timme är " . $sum . " sek + mons",
+            "Kontakta oss för mer info",
             "Framkörningsavgift tillkommer med 135 sek/tillfälle"
         );
         send_email();

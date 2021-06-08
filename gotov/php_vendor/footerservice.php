@@ -154,6 +154,7 @@
                                     <button type="submit" id="sus_submit" class="add-btn">Bli Medlem</button>
                                     <div class="footer-services-link" style="margin-top: 65px;">
                                         <ul class="footer-list">
+                                        <li><a href="../skatteavdrag.php">Skatteavdrag</a></li>
                                             <li><a href="../dataskydd.php">Dataskydd</a></li>
                                             <li><a href="../privacy-policy.php">Integritetspolicy</a></li>
                                         </ul>
