@@ -96,36 +96,36 @@ include "php_vendor/navbar.php";
                 <div class="row" >
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px" >
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/fastighetsskötsel.php">
+                            <a class="service-image" href="service/fastighetsskotsel.php">
                                 <img src="img/servicepocetna/5.jpg" alt="Rengöring av trappor och hissar">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Fastighetsskötsel</h5>
-                                <a href="service/fastighetsskötsel.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/fastighetsskotsel.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>
                     <!-- Start services -->
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/kontorsstädning.php">
+                            <a class="service-image" href="service/kontorsstadning.php">
                                 <img src="img/servicepocetna/4.jpg" alt="kontorsstädning">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Kontorsstädning</h5>
-                                <a href="service/kontorsstädning.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/kontorsstadning.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/ffönsterputs.php">
+                            <a class="service-image" href="service/ffonsterputs.php">
                                 <img src="img/servicepocetna/7.jpg" alt="Fönsterrengöring">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Fönsterputs</h5>
-                                <a href="service/ffönsterputs.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/ffonsterputs.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>

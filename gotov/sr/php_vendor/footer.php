@@ -64,16 +64,16 @@
                             <div class="footer-services-link">
                                 <ul class="footer-list">
                                     <p style="padding: 5px 0;">Privatpersoner</p>
-                                    <li><a href="service/hemstädning.php">Hemstädning</a></li>
-                                    <li><a href="service/storstädning.php">Storstädning </a></li>
-                                    <li><a href="service/flyttstädning.php">Flyttstädning</a></li>
-                                    <li><a href="service/fönsterputs.php">Fönsterputs</a></li>
+                                    <li><a href="service/hemstadning.php">Hemstädning</a></li>
+                                    <li><a href="service/storstadning.php">Storstädning </a></li>
+                                    <li><a href="service/flyttstadning.php">Flyttstädning</a></li>
+                                    <li><a href="service/fonsterputs.php">Fönsterputs</a></li>
                                 </ul>
                                 <ul class="footer-list">
                                 <p style="padding: 5px 0;">Privatpersoner</p>
-                                    <li><a href="service/fastighetsskötsel.php">Fastighetsskötsel</a></li>
-                                    <li><a href="service/kontorsstädning.php">Kontorsstädning</a></li>
-                                    <li><a href="service/ffönsterputs.php">Fönsterputs</a></li>
+                                    <li><a href="service/fastighetsskotsel.php">Fastighetsskötsel</a></li>
+                                    <li><a href="service/kontorsstadning.php">Kontorsstädning</a></li>
+                                    <li><a href="service/ffonsterputs.php">Fönsterputs</a></li>
                                 </ul>
                             </div>
                             <div class="footer-icons ">
