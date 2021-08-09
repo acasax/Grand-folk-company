@@ -56,17 +56,17 @@
                                     </li>
                                     <li class="dropdown dropdown-4"><a class="pagess" href="../services.php">Privatpersoner</a>
                                         <ul class="sub-menu dropdown_menu dropdown_menu-4">
-                                            <li class="dropdown_item-1"><a href="../service/service1.php">Hemstädning</a></li>
-                                            <li class="dropdown_item-2"><a href="../service/service2.php">Storstädning</a></li>
-                                            <li class="dropdown_item-3"><a href="../service/service3.php">Flyttstädning</a></li>
-                                            <li class="dropdown_item-4"><a href="../service/service4.php">Fönsterputs</a></li>
+                                            <li class="dropdown_item-1"><a href="../service/hemstädning.php">Hemstädning</a></li>
+                                            <li class="dropdown_item-2"><a href="../service/storstädning.php">Storstädning</a></li>
+                                            <li class="dropdown_item-3"><a href="../service/flyttstädning.php">Flyttstädning</a></li>
+                                            <li class="dropdown_item-4"><a href="../service/fönsterputs.php">Fönsterputs</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown dropdown-4"><a class="pagess" href="../services2.php">För företag</a>
                                         <ul class="sub-menu dropdown_menu dropdown_menu-4">
-                                            <li class="dropdown_item-1"><a href="../service/service5.php">Fastighetsskötsel</a></li>
-                                            <li class="dropdown_item-2"><a href="../service/service6.php">Kontorsstädning</a></li>
-                                            <li class="dropdown_item-3"><a href="../service/service7.php">Fönsterputs</a></li>
+                                            <li class="dropdown_item-1"><a href="../service/fastighetsskötsel.php">Fastighetsskötsel</a></li>
+                                            <li class="dropdown_item-2"><a href="../service/kontorsstädning.php">Kontorsstädning</a></li>
+                                            <li class="dropdown_item-3"><a href="../service/ffönsterputs.php">Fönsterputs</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pagess" href="../blog-grid-1.php">NYHETER</a>
@@ -101,17 +101,17 @@
                                     </li>
                                     <li><a class="pagess" href="../services.php">Privatpersoner</a>
                                         <ul>
-                                            <li><a href="../service/mservice1.php">Hemstädning</a></li>
-                                            <li><a href="../service/mservice2.php">Storstädning</a></li>
-                                            <li><a href="../service/mservice3.php">Flyttstädning</a></li>
-                                            <li><a href="../service/mservice4.php">Fönsterputs</a></li>
+                                            <li><a href="../service/mhemstädning.php">Hemstädning</a></li>
+                                            <li><a href="../service/mstorstädning.php">Storstädning</a></li>
+                                            <li><a href="../service/mflyttstädning.php">Flyttstädning</a></li>
+                                            <li><a href="../service/mfönsterputs.php">Fönsterputs</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pagess" href="../services2.php">För företag</a>
                                         <ul >
-                                            <li class="dropdown_item-1"><a href="../service/mservice5.php">Fastighetsskötsel</a></li>
-                                            <li class="dropdown_item-2"><a href="../service/mservice6.php">Kontorsstädning</a></li>
-                                            <li class="dropdown_item-3"><a href="../service/mservice7.php">Fönsterputs</a></li>
+                                            <li class="dropdown_item-1"><a href="../service/mfastighetsskötsel.php">Fastighetsskötsel</a></li>
+                                            <li class="dropdown_item-2"><a href="../service/mkontorsstädning.php">Kontorsstädning</a></li>
+                                            <li class="dropdown_item-3"><a href="../service/mffönsterputs.php">Fönsterputs</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pagess" href="../blog-grid-1.php">NYHETER</a>

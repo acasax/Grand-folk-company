@@ -96,36 +96,36 @@ include "php_vendor/navbar.php";
                 <div class="row" >
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service1.php">
+                            <a class="service-image" href="service/hemstädning.php">
                                 <img src="img/servicepocetna/bg1.jpg" alt="Dammsuga, damma och rengöra huset.">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Hemstädning</h5>
-                                <a href="service/service1.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/hemstädning.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service2.php">
+                            <a class="service-image" href="service/storstädning.php">
                                 <img src="img/servicepocetna/1.jpg" alt="Grundlig rengöring av hus.">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Storstädning</h5>
-                                <a href="service/service2.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/storstädning.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-12" style="margin-bottom: 20px">
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service3.php">
+                            <a class="service-image" href="service/flyttstädning.php">
                                 <img src="img/servicepocetna/2.jpg" alt="Rengöring">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Flyttstädning</h5>
-                                <a href="service/service3.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/flyttstädning.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -134,12 +134,12 @@ include "php_vendor/navbar.php";
                
                     <div class="col-md-4 col-sm-6 col-xs-12 mt36" >
                         <div class="card" style="width: 100%;">
-                            <a class="service-image" href="service/service4.php">
+                            <a class="service-image" href="service/fönsterputs.php">
                                 <img src="img/servicepocetna/prozor.jpg" alt="Fönsterrengöring">
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">Fönsterputs</h5>
-                                <a href="service/service4.php" class="btn btn-primary">LÄS MER</a>
+                                <a href="service/fönsterputs.php" class="btn btn-primary">LÄS MER</a>
                             </div>
                         </div>
                     </div>

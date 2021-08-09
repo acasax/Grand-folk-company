@@ -7,6 +7,7 @@ $email      = $_POST['email'];
 $phone      = $_POST['phone'];
 $service    = $_POST['service'];
 $space      = $_POST['space'];
+$adress      = $_POST['adress'];
 $message    = $_POST['message'];
 $time       = null;
 $sum        = null;
@@ -25,42 +26,42 @@ if (!isset($_POST['data'])) {
 switch ($service) {
     case 1:
         if ($space > 0 && $space <= 50) {
-            $sum = 199;
+            $sum = 235;
             $time = 1;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 51 && $space <= 99) {
-            $sum = 398;
+            $sum = 470;
             $time = 2;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 100 && $space <= 150) {
-            $sum = 597;
+            $sum = 705;
             $time = 3;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 151 && $space <= 200) {
-            $sum = 796;
+            $sum = 940;
             $time = 4;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
@@ -68,7 +69,7 @@ switch ($service) {
             $user_class->returnJSON(
                 "OK",
                 "•	200 m²- uppåt / offereras",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
@@ -158,7 +159,7 @@ switch ($service) {
         } else if ($space < 200) {
             $user_class->returnJSON(
                 "OK",
-                "•	200 m²- uppåt / offereras",
+                "Kontakta oss för mer info",
                 "Alla priser än inklusive mervärdesskatt och skatteavdrag.Framkörningsavgift tillkommer med 250 sek/tillfälle"
             );
             send_email();
@@ -203,7 +204,7 @@ switch ($service) {
         $time = 1;
         $user_class->returnJSON(
             "OK",
-            "Pris för Fönsterputs-tjänsten för företag per timme är " . $sum . " sek + mons",
+            "Kontakta oss för mer info",
             "Framkörningsavgift tillkommer med 135 sek/tillfälle"
         );
         send_email();
@@ -230,7 +231,8 @@ function send_email()
 
         // Take action based on the score returned:
         if ($recaptcha->score >= 0.5) {
-            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['service']) && isset($_REQUEST['space'])) {
+            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['service'])
+             && isset($_REQUEST['space']) && isset($_REQUEST['city']) && isset($_REQUEST['p_number']) && isset($_REQUEST['adress'])) {
 
                 $email_to = "info@gladafolkisverige.se";
                 $email_subject = "Book mote från webbplatsen";
@@ -240,6 +242,9 @@ function send_email()
                 $email      = $_REQUEST['email'];
                 $phone      = $_REQUEST['phone'];
                 $service    = $_REQUEST['service'];
+                $space      = $_REQUEST['space'];
+                $adress      = $_POST['adress'];
+
                 switch ($service) {
                     case 1:
                         $service = "Hemstädning";
@@ -264,7 +269,35 @@ function send_email()
                         break;
                 }
 
-                $space      = $_REQUEST['space'];
+                $city = $_REQUEST['city'];
+
+                switch ($city) {
+                    case 1:
+                        $city = "Landskrona";
+                        break;
+                    case 2:
+                        $city = "Helsingborg";
+                        break;
+                    case 3:
+                        $city = "Ängelholm";
+                        break;
+                    case 4:
+                        $city = "Löddeköpinge";
+                        break;
+                    case 5:
+                        $city = "Lund";
+                        break;
+                    case 6:
+                        $city = "Malmö";
+                        break;
+                    case 7:
+                        $city = "Omgivande platser";
+                        break;
+                }
+
+                $p_number = $_REQUEST['p_number'];    
+
+               
 
 
 
@@ -277,8 +310,11 @@ function send_email()
                 $email_message = "Ime: " . clean_string($name) . "\n";
                 $email_message .= "E-mail: " . clean_string($email) . "\n";
                 $email_message .= "Telefon: " . clean_string($phone) . "\n";
+                $email_message .= "Personal number:" . clean_string($p_number) . "\n";
                 $email_message .= "Usluga: " . clean_string($service) . "\n";
-                $email_message .= "Površina: " . clean_string($space) . "\n m2";
+                $email_message .= "Površina: " . clean_string($space) . " m2 \n";
+                $email_message .= "Grad: " . clean_string($city) . "\n";
+                $email_message .= "Adresa: " . clean_string($adress) . "\n";
 
                 if (isset($_REQUEST['space'])) {
                     $message    = $_REQUEST['message'];

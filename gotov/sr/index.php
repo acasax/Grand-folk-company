@@ -319,9 +319,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/bg1.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service1.php">Hemstädning</a>
+                                <a class="back-title1" href="service/hemstädning.php">Hemstädning</a>
                                 <p>Regelbunden städning av ert hem.</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/hemstädning.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -335,9 +335,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/1.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service2.php">Storstädning</a>
+                                <a class="back-title1" href="service/storstädning.php">Storstädning</a>
                                 <p>Detaljerad och komplett städning ert hem.</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/storstädning.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -352,9 +352,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/2.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service3.php">Flyttstädning</a>
+                                <a class="back-title1" href="service/flyttstädning.php">Flyttstädning</a>
                                 <p>Städning av plats efter flytt.</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/flyttstädning.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -367,9 +367,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/5.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service5.php">Fastighetsskötsel</a>
+                                <a class="back-title1" href="service/fastighetsskötsel.php">Fastighetsskötsel</a>
                                 <p class="dvareda">Invändig städning av byggnad (trappor, ingång, hiss ...).</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/fastighetsskötsel.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -383,9 +383,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/prozor.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service4.php">Fönsterputs</a>
+                                <a class="back-title1" href="service/fönsterputs.php">Fönsterputs</a>
                                 <p>Fönsterrengöring i ert hem.</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/fönsterputs.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -399,9 +399,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/4.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service6.php">Kontorsstädning</a>
+                                <a class="back-title1" href="service/kontorsstädning.php">Kontorsstädning</a>
                                 <p>Städning av kontor och arbetsplatser.</p>
-                                <a class="a" href="service/service1.php">LÄS MER</a>
+                                <a class="a" href="service/kontorsstädning.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>
@@ -414,9 +414,9 @@ include "php_vendor/navbar.php";
                                 <img src="img/servicepocetna/7.webp">
                             </div>
                             <div class="back">
-                                <a class="back-title1" href="service/service7.php">Fönsterputs</a>
+                                <a class="back-title1" href="service/ffönsterputs.php">Fönsterputs</a>
                                 <p>Fönsterrengöring på arbetsplats.</p>
-                                <a class="a" href="service/service7.php">LÄS MER</a>
+                                <a class="a" href="service/ffönsterputs.php">LÄS MER</a>
                             </div>
                         </div>
                     </div>

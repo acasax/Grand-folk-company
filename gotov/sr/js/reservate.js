@@ -37,10 +37,11 @@ $(document).ready(function() {
                 space: {
                     required: true,
                 },
+                adress: {
+                    required: true,
+                },
                 p_number: {
                     required: true,
-
-                    //pattern: '[1-2][0|9][0-9]{2}[0-1][0-9][0-3][0-9]-[0-9]{4}',
                 }
             },
             messages: {
@@ -56,9 +57,11 @@ $(document).ready(function() {
                 space: {
                     required: 'Vänligen skriv in Antal Kvm',
                 },
+                adress: {
+                    required: 'Vänligen ange din adress',
+                },
                 p_number: {
                     required: 'Vänligen ange din personnummer',
-                    // pattern: 'Please enter valid personal number'
                 }
             },
             submitHandler: function submitHandler(form) {

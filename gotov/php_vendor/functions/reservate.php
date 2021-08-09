@@ -26,42 +26,42 @@ if (!isset($_POST['data'])) {
 switch ($service) {
     case 1:
         if ($space > 0 && $space <= 50) {
-            $sum = 199;
+            $sum = 235;
             $time = 1;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 51 && $space <= 99) {
-            $sum = 398;
+            $sum = 470;
             $time = 2;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 100 && $space <= 150) {
-            $sum = 597;
+            $sum = 705;
             $time = 3;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
         } else if ($space >= 151 && $space <= 200) {
-            $sum = 796;
+            $sum = 940;
             $time = 4;
             $user_class->returnJSON(
                 "OK",
                 "Pris för Hämstädning-tjänsten för " . $space . " m2  är " . $sum . " sek och den beräknade arbetstiden är " . $time . " h",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
@@ -69,7 +69,7 @@ switch ($service) {
             $user_class->returnJSON(
                 "OK",
                 "•	200 m²- uppåt / offereras",
-                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 110 sek/tillfälle"
+                "Alla priser än inklusive mervärdesskatt och skatteavdrag. Framkörningsavgift tillkommer med 55 sek/tillfälle"
             );
             send_email();
             return;
